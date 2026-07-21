@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Patrick — AI Systems Architect, Founding Engineer, AI Infrastructure and Autonomous Systems" />
+  <img src="./assets/header.svg" width="100%" alt="Patrick Ribbsaeter — AI Systems Architect, Founding Engineer, AI Infrastructure and Autonomous Systems" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/patrick-ribbsaeter"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://patrickribbsaeter.com"><img src="https://img.shields.io/badge/Website-In_Development-152238?style=for-the-badge&logo=safari&logoColor=35D4FF" alt="Website in development" /></a>
+  <a href="https://ribbsaetersystems.com"><img src="https://img.shields.io/badge/Website-Visit-152238?style=for-the-badge&logo=safari&logoColor=35D4FF" alt="Visit the Ribbsaeter Systems website" /></a>
   <img src="https://img.shields.io/badge/Based_in-Switzerland-152238?style=for-the-badge&logo=googlemaps&logoColor=35D4FF" alt="Based in Switzerland" />
 </p>
 
-I build **enterprise AI systems, automation engines, and production software** from the interface to the infrastructure. My focus is high-leverage engineering: turning expensive operational problems into secure, reliable systems that can be measured, maintained, and scaled.
+I'm **Patrick Ribbsaeter**, an **AI systems architect and founding engineer** building enterprise AI systems, autonomous-agent infrastructure, automation engines, and production software from the interface to the infrastructure. My focus is high-leverage engineering: turning expensive operational problems into secure, reliable systems that can be measured, maintained, and scaled.
 
 ## High-value engineering focus
 
