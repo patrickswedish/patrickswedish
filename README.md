@@ -63,3 +63,5 @@ Business outcome → narrow production slice → instrument and verify → scale
 Building original, production-grade AI and automation projects while contributing focused improvements to established open-source systems.
 
 <p align="center"><strong>Design the system. Ship the smallest complete version. Verify it. Improve from evidence.</strong></p>
+
+<!-- GitHub profile README -->
