@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Patrick — AI Systems Architect, Forward-Deployed Engineer, and Polyglot Full-Stack Builder" />
+  <img src="./assets/header.svg" width="100%" alt="Patrick — AI Systems Architect, Founding Engineer, AI Infrastructure and Autonomous Systems" />
 </p>
 
 <p align="center">
