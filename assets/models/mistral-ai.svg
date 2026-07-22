@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="148" height="42" viewBox="0 0 148 42" role="img" aria-labelledby="title">
+  <title id="title">Mistral AI</title>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#102846"/>
+      <stop offset="1" stop-color="#0b1b31"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="147" height="41" rx="10" fill="url(#surface)" stroke="#294a70"/>
+  <rect x="0" y="8" width="2" height="26" rx="1" fill="#35d4ff" fill-opacity="0.72"/>
+  <ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" height="22" style="flex:none;line-height:1" viewBox="0 0 24 24" width="22" x="12" y="10" color="#f6f9ff" aria-hidden="true"><ns0:path d="M3.428 3.4h3.429v3.428H3.428V3.4zm13.714 0h3.43v3.428h-3.43V3.4z" fill="gold" /><ns0:path d="M3.428 6.828h6.857v3.429H3.429V6.828zm10.286 0h6.857v3.429h-6.857V6.828z" fill="#FFAF00" /><ns0:path d="M3.428 10.258h17.144v3.428H3.428v-3.428z" fill="#FF8205" /><ns0:path d="M3.428 13.686h3.429v3.428H3.428v-3.428zm6.858 0h3.429v3.428h-3.429v-3.428zm6.856 0h3.43v3.428h-3.43v-3.428z" fill="#FA500F" /><ns0:path d="M0 17.114h10.286v3.429H0v-3.429zm13.714 0H24v3.429H13.714v-3.429z" fill="#E10500" /></ns0:svg>
+  <text x="42" y="25" fill="#f6f9ff" font-family="Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="0.15">Mistral AI</text>
+</svg>

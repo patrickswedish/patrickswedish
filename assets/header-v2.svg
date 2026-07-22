@@ -27,7 +27,7 @@
   <rect width="1200" height="330" rx="24" fill="url(#bg)"/>
   <rect width="1200" height="330" rx="24" fill="url(#glow)"/>
   <rect width="1200" height="330" rx="24" fill="url(#grid)"/>
-  <path d="M0 4Q0 0 4 0H1196Q1200 0 1200 4" fill="none" stroke="url(#accent)" stroke-width="3"/>
+
 
   <g opacity="0.75" fill="none" stroke="url(#accent)" stroke-width="2">
     <path d="M835 79h96l31 31h90"/>

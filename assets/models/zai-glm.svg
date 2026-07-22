@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="148" height="42" viewBox="0 0 148 42" role="img" aria-labelledby="title">
+  <title id="title">Z.ai · GLM</title>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#102846"/>
+      <stop offset="1" stop-color="#0b1b31"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="147" height="41" rx="10" fill="url(#surface)" stroke="#294a70"/>
+  <rect x="0" y="8" width="2" height="26" rx="1" fill="#35d4ff" fill-opacity="0.72"/>
+  <ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" fill="currentColor" fill-rule="evenodd" height="22" style="flex:none;line-height:1" viewBox="0 0 24 24" width="22" x="12" y="10" color="#f6f9ff" aria-hidden="true"><ns0:path d="M12.105 2L9.927 4.953H.653L2.83 2h9.276zM23.254 19.048L21.078 22h-9.242l2.174-2.952h9.244zM24 2L9.264 22H0L14.736 2H24z" /></ns0:svg>
+  <text x="42" y="25" fill="#f6f9ff" font-family="Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="0.15">Z.ai · GLM</text>
+</svg>
