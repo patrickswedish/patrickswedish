@@ -1,14 +1,25 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Patrick Ribbsaeter — AI Systems Architect, Founding Engineer, AI Infrastructure and Autonomous Systems" />
+  <a href="https://github.com/patrickswedish" aria-label="Patrick Ribbsaeter on GitHub">
+    <img src="./assets/header.svg" width="100%" alt="Patrick Ribbsaeter — AI Systems Architect, Founding Engineer, AI Infrastructure and Autonomous Systems" />
+  </a>
+</p>
+
+<br />
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/patrick-ribbsaeter" aria-label="Connect with Patrick Ribbsaeter on LinkedIn"><img src="./assets/action-linkedin.svg" width="188" height="40" alt="Connect with Patrick Ribbsaeter on LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://ribbsaetersystems.com" aria-label="Visit Ribbsaeter Systems"><img src="./assets/action-website.svg" width="188" height="40" alt="Visit the Ribbsaeter Systems website" /></a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/patrick-ribbsaeter"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://ribbsaetersystems.com"><img src="https://img.shields.io/badge/Website-Visit-152238?style=for-the-badge&logo=safari&logoColor=35D4FF" alt="Visit the Ribbsaeter Systems website" /></a>
-  <img src="https://img.shields.io/badge/Based_in-Switzerland-152238?style=for-the-badge&logo=googlemaps&logoColor=35D4FF" alt="Based in Switzerland" />
+  <code>⌖&nbsp; BASED IN · SWITZERLAND</code>
 </p>
 
+<br />
+
 I'm **Patrick Ribbsaeter**, an **AI systems architect and founding engineer** building enterprise AI systems, autonomous-agent infrastructure, automation engines, and production software from the interface to the infrastructure. My focus is high-leverage engineering: turning expensive operational problems into secure, reliable systems that can be measured, maintained, and scaled.
+
+<br />
 
 ## High-value engineering focus
 
@@ -20,6 +31,8 @@ I'm **Patrick Ribbsaeter**, an **AI systems architect and founding engineer** bu
 | **Platform engineering** | Internal developer platforms, APIs, cloud architecture, CI/CD, infrastructure as code, and secure operations |
 | **Intelligent automation** | Multi-step workflow engines, tool orchestration, document pipelines, integrations, and exception handling |
 | **Full-stack AI products** | High-quality product interfaces backed by dependable AI, data, and distributed-system foundations |
+
+<br />
 
 ## Polyglot engineering
 
@@ -47,6 +60,8 @@ The stack follows the problem. **AI expands delivery breadth; builds, tests, rev
 | **Cloud & platform** | Linux, Docker, Kubernetes, AWS, Azure, GCP, Terraform, Ansible, GitHub Actions, observability, security controls |
 | **Architecture** | Distributed systems, asynchronous workflows, multi-agent orchestration, integration architecture, reliability engineering |
 
+<br />
+
 ## How I work
 
 ```text
@@ -57,6 +72,8 @@ Business outcome → narrow production slice → instrument and verify → scale
 - **Production-minded:** security, failure modes, observability, and operating cost are part of the design.
 - **Full-stack ownership:** product, model, data, backend, infrastructure, and delivery are one system.
 - **Evidence over claims:** working software, tests, benchmarks, reviews, and releases establish credibility.
+
+<br />
 
 ## Current direction
 
