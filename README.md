@@ -4,159 +4,257 @@
   </a>
 </p>
 
-<br />
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/patrickribbsaeter/" aria-label="Connect with Patrick Ribbsaeter on LinkedIn"><img src="./assets/action-linkedin.svg" width="188" height="40" alt="Connect with Patrick Ribbsaeter on LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.patrickribbsaeter.com" aria-label="Visit Patrick Ribbsaeter Website"><img src="./assets/action-website.svg" width="188" height="40" alt="Visit Patrick Ribbsaeter Website" /></a>
+  <a href="https://www.linkedin.com/in/patrickribbsaeter/" aria-label="Connect with Patrick Ribbsaeter on LinkedIn">
+    <img src="./assets/action-linkedin.svg" width="188" height="40" alt="Connect with Patrick Ribbsaeter on LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.patrickribbsaeter.com" aria-label="Visit Patrick Ribbsaeter's website">
+    <img src="./assets/action-website.svg" width="188" height="40" alt="Visit Patrick Ribbsaeter's website" />
+  </a>
 </p>
 
 <p align="center">
-  <code>⌖&nbsp; BASED IN · SWITZERLAND</code> &nbsp;•&nbsp; <code>$ status -- founder · Less talking. More building.</code>
+  <code>⌖ BASED IN · SWITZERLAND</code>
+  &nbsp;•&nbsp;
+  <code>$ status -- founder · Less talking. More building.</code>
 </p>
 
-<br />
+AI systems architect. Founding engineer. Full-stack execution.
 
-I'm Patrick Ribbsaeter, an AI systems architect and founding engineer building enterprise AI systems, autonomous-agent infrastructure, automation engines, and production software from the interface to the infrastructure. My focus is high-leverage engineering: turning expensive operational problems into secure, reliable systems that can be measured, maintained, and scaled.
+I build enterprise AI systems, autonomous-agent infrastructure, automation engines, internal platforms, SaaS products, and production software from interface to infrastructure.
 
-🎯 Core Thesis
+My work connects product strategy, AI agents, data, APIs, cloud systems, security, deployment, testing, optimization, and launch into one operating system for execution.
 
-"The value of an AI agent is proportional to the size and complexity of the tasks it can complete without human intervention."
+From February to July 2026, I managed a pipeline of 3.7B Codex tokens to automate, debug, and execute 979 multi-step technical workflows across 80+ operational skills and 28 emerging capabilities.
 
-"The edge is not access to AI. The edge is controlling the system that turns AI into execution."
+The value of an AI agent is proportional to the size and complexity of the tasks it can complete without human intervention.
 
-<br />
-
-High-value engineering focus
-
-Capability
+The edge is not access to AI. The edge is controlling the system that turns AI into execution.
 
 What I build
 
+Capability
+
+Production focus
+
 Enterprise AI systems
 
-Agent platforms, retrieval systems, evaluations, guardrails, model routing, and human-in-the-loop control
+Agent platforms, retrieval systems, evaluations, guardrails, model routing, memory, orchestration, and human-in-the-loop control
+
+Autonomous-agent infrastructure
+
+Multi-step execution, tool use, planning, state management, exception handling, observability, and recovery
 
 Forward-deployed engineering
 
-Production solutions shaped around real users, workflows, constraints, and business outcomes
+Production systems shaped around real users, workflows, constraints, and measurable business outcomes
 
 AI infrastructure & MLOps
 
-Model serving, observability, data pipelines, deployment systems, reliability, and cost control
+Model serving, inference, data pipelines, deployment systems, reliability, monitoring, privacy, and cost control
 
 Platform engineering
 
-Internal developer platforms, APIs, cloud architecture, CI/CD, infrastructure as code, and secure operations
+Internal developer platforms, APIs, cloud architecture, CI/CD, infrastructure as code, access control, and secure operations
 
 Intelligent automation
 
-Multi-step workflow engines, tool orchestration, document pipelines, integrations, and exception handling
+Workflow engines, document pipelines, integrations, CRM systems, outreach systems, dashboards, and operational automation
 
 Full-stack AI products
 
-High-quality product interfaces backed by dependable AI, data, and distributed-system foundations
+SaaS platforms, internal tools, client portals, production websites, interfaces, backend systems, and distributed services
 
-Design engineering & visual direction
+Design engineering
 
-Luxury-caliber visual systems, editorial composition, interaction, motion, and polished product experiences built with production rigor
+Luxury-caliber visual systems, editorial composition, product interfaces, interaction, motion, and production-grade digital experiences
+
+Analytics & decision systems
+
+Dashboards, reporting systems, operational intelligence, business metrics, data transformation, and executive visibility
+
+AI model and inference ecosystem
+
+I work across proprietary and open-model ecosystems, provider APIs, model hubs, retrieval stacks, and accelerated inference platforms. Models are selected by capability, reliability, latency, privacy, controllability, and operating cost—not brand loyalty.
+
+<p align="center">
+  <img src="./assets/models/openai-chatgpt.svg" width="132" height="38" alt="OpenAI and ChatGPT" />
+  &nbsp;
+  <img src="./assets/models/anthropic-claude.svg" width="132" height="38" alt="Anthropic and Claude" />
+  &nbsp;
+  <img src="./assets/models/google-gemini.svg" width="132" height="38" alt="Google Gemini" />
+  &nbsp;
+  <img src="./assets/models/meta-llama.svg" width="132" height="38" alt="Meta Llama" />
+  &nbsp;
+  <img src="./assets/models/hugging-face.svg" width="132" height="38" alt="Hugging Face" />
+</p>
+
+<p align="center">
+  <img src="./assets/models/mistral-ai.svg" width="132" height="38" alt="Mistral AI" />
+  &nbsp;
+  <img src="./assets/models/deepseek.svg" width="132" height="38" alt="DeepSeek" />
+  &nbsp;
+  <img src="./assets/models/moonshot-kimi.svg" width="132" height="38" alt="Moonshot AI and Kimi" />
+  &nbsp;
+  <img src="./assets/models/alibaba-qwen.svg" width="132" height="38" alt="Alibaba Qwen" />
+  &nbsp;
+  <img src="./assets/models/xai-grok.svg" width="132" height="38" alt="xAI and Grok" />
+</p>
+
+<details>
+<summary><strong>Extended model and infrastructure territory</strong></summary>
 
 <br />
 
-Large language models and AI ecosystems
+OpenAI / ChatGPT · Anthropic / Claude · Google Gemini · Meta Llama · Hugging Face · Mistral AI · DeepSeek · Moonshot AI / Kimi · Alibaba Qwen · xAI / Grok · Cohere · 01.AI / Yi · Z.ai / GLM · AI21 Labs · MiniMax · Azure AI Foundry · AWS Bedrock · NVIDIA AI · Groq · Cerebras
 
-I work across proprietary and open-model ecosystems, provider APIs, model hubs, and accelerated inference platforms—selecting models by capability, reliability, latency, privacy, and operating cost rather than brand loyalty.
+</details>
+
+Engineering stack
+
+The stack follows the problem. AI expands delivery breadth; builds, tests, reviews, benchmarks, and target-system conventions establish correctness.
+
+Core languages
 
 <p align="center">
-  <a href="https://chatgpt.com/" aria-label="Open ChatGPT"><img src="./assets/models/openai-chatgpt.svg" width="148" height="42" alt="OpenAI and ChatGPT" /></a>&nbsp;
-  <a href="https://claude.com/product/overview" aria-label="Visit Claude by Anthropic"><img src="./assets/models/anthropic-claude.svg" width="148" height="42" alt="Anthropic and Claude" /></a>&nbsp;
-  <a href="https://gemini.google.com/" aria-label="Open Google Gemini"><img src="./assets/models/google-gemini.svg" width="148" height="42" alt="Google Gemini" /></a>&nbsp;
-  <a href="https://huggingface.co/meta-llama" aria-label="Visit the official Meta Llama model organization"><img src="./assets/models/meta-llama.svg" width="148" height="42" alt="Meta Llama" /></a>&nbsp;
-  <a href="https://huggingface.co/" aria-label="Visit Hugging Face"><img src="./assets/models/hugging-face.svg" width="148" height="42" alt="Hugging Face" /></a>&nbsp;
-  <a href="https://mistral.ai/" aria-label="Visit Mistral AI"><img src="./assets/models/mistral-ai.svg" width="148" height="42" alt="Mistral AI" /></a>&nbsp;
-  <a href="https://www.deepseek.com/" aria-label="Visit DeepSeek"><img src="./assets/models/deepseek.svg" width="148" height="42" alt="DeepSeek" /></a>&nbsp;
-  <a href="https://www.kimi.com/" aria-label="Open Kimi by Moonshot AI"><img src="./assets/models/moonshot-kimi.svg" width="148" height="42" alt="Moonshot AI and Kimi" /></a>&nbsp;
-  <a href="https://qwen.ai/" aria-label="Visit Alibaba Qwen"><img src="./assets/models/alibaba-qwen.svg" width="148" height="42" alt="Alibaba Qwen" /></a>&nbsp;
-  <a href="https://x.ai/grok" aria-label="Visit Grok by xAI"><img src="./assets/models/xai-grok.svg" width="148" height="42" alt="xAI and Grok" /></a>&nbsp;
-  <a href="https://cohere.com/" aria-label="Visit Cohere"><img src="./assets/models/cohere.svg" width="148" height="42" alt="Cohere" /></a>&nbsp;
-  <a href="https://www.01.ai/" aria-label="Visit 01.AI and Yi"><img src="./assets/models/01ai-yi.svg" width="148" height="42" alt="01.AI and Yi" /></a>&nbsp;
-  <a href="https://chat.z.ai/" aria-label="Open Z.ai and GLM"><img src="./assets/models/zai-glm.svg" width="148" height="42" alt="Z.ai and GLM" /></a>&nbsp;
-  <a href="https://www.ai21.com/" aria-label="Visit AI21 Labs"><img src="./assets/models/ai21-labs.svg" width="148" height="42" alt="AI21 Labs" /></a>&nbsp;
-  <a href="https://www.minimax.io/" aria-label="Visit MiniMax"><img src="./assets/models/minimax.svg" width="148" height="42" alt="MiniMax" /></a>&nbsp;
-  <a href="https://azure.microsoft.com/en-us/products/ai-foundry/" aria-label="Visit Microsoft Azure AI Foundry"><img src="./assets/models/azure-ai.svg" width="148" height="42" alt="Microsoft Azure AI" /></a>&nbsp;
-  <a href="https://aws.amazon.com/bedrock/" aria-label="Visit Amazon Bedrock"><img src="./assets/models/aws-bedrock.svg" width="148" height="42" alt="Amazon Web Services Bedrock" /></a>&nbsp;
-  <a href="https://www.nvidia.com/en-us/ai/" aria-label="Visit NVIDIA AI"><img src="./assets/models/nvidia-ai.svg" width="148" height="42" alt="NVIDIA AI" /></a>&nbsp;
-  <a href="https://groq.com/" aria-label="Visit Groq"><img src="./assets/models/groq.svg" width="148" height="42" alt="Groq" /></a>&nbsp;
-  <a href="https://www.cerebras.ai/" aria-label="Visit Cerebras"><img src="./assets/models/cerebras.svg" width="148" height="42" alt="Cerebras" /></a>
+  <a href="https://github.com/tandpfun/skill-icons" aria-label="Skill Icons source repository">
+    <img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,react,nextjs,go,rust,cpp,cs,java,kotlin,swift,bash,powershell" alt="Core programming languages and frameworks" />
+  </a>
 </p>
+
+Primary territory: Python · TypeScript · JavaScript · Go · Rust · C · C++ · C# · Java · Kotlin · Swift · SQL · Bash · PowerShell
+
+<details>
+<summary><strong>Extended language coverage</strong></summary>
 
 <br />
 
-Model territory: OpenAI / ChatGPT · Anthropic / Claude · Google Gemini · Meta Llama · Hugging Face · Mistral AI · DeepSeek · Moonshot AI / Kimi · Alibaba Qwen · xAI / Grok · Cohere · 01.AI / Yi · Z.ai / GLM · AI21 Labs · MiniMax · Azure AI · AWS Bedrock · NVIDIA AI · Groq · Cerebras
+PHP · Ruby · Scala · Elixir · Clojure · Haskell · Dart · Lua · Perl · R · MATLAB · Solidity
 
-<br />
+</details>
 
-Polyglot engineering
+AI, application, data, and infrastructure systems
 
-The stack follows the problem. AI expands delivery breadth; builds, tests, reviews, and target-system conventions establish correctness.
-
-Languages, frameworks, and systems
-
-<p align="center">
-  <a href="https://github.com/tandpfun/skill-icons" aria-label="Skill Icons source repository"><img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,react,nextjs,go,rust,cpp,cs,java,kotlin,swift" alt="Core product, backend, systems, and native technologies" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/tandpfun/skill-icons" aria-label="Skill Icons source repository"><img src="https://skillicons.dev/icons?i=php,ruby,scala,elixir,clojure,haskell,dart,lua,perl,r,matlab,solidity,bash,powershell" alt="Extended language coverage" /></a>
-</p>
-
-Language domains: Python · TypeScript · JavaScript · Go · Rust · C · C++ · C# · Java · Kotlin · Swift · PHP · Ruby · Scala · Elixir · Clojure · Haskell · Dart · Lua · Perl · R · MATLAB · Solidity · SQL · Bash · PowerShell
-
-Frameworks, AI, data, and infrastructure
-
-<p align="center">
-  <a href="https://github.com/tandpfun/skill-icons" aria-label="Skill Icons source repository"><img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,githubactions,postgres,redis,mongodb,aws,azure,gcp,terraform,ansible,cloudflare" alt="Cloud, platform, data, and delivery technologies" /></a>
-</p>
-
-Area
+Domain
 
 Technology territory
 
-AI & data
+AI & machine learning
 
-PyTorch, TensorFlow, Hugging Face, LLM APIs, RAG, evaluation systems, pandas, Spark, PostgreSQL, Redis, vector search
+PyTorch, TensorFlow, Hugging Face, LLM APIs, RAG, evaluation systems, embeddings, vector search, model routing, multimodal systems
+
+Agent systems
+
+Tool orchestration, planning, memory, multi-agent workflows, state machines, retries, recovery, human approval, observability
 
 Applications & APIs
 
 React, Next.js, Node.js, FastAPI, Django, Flask, NestJS, Spring Boot, .NET, REST, GraphQL, event-driven services
 
+Data systems
+
+PostgreSQL, Redis, MongoDB, pandas, Spark, data pipelines, document processing, analytics, search, structured and unstructured data
+
 Cloud & platform
 
-Linux, Docker, Kubernetes, AWS, Azure, GCP, Terraform, Ansible, GitHub Actions, observability, security controls
+Linux, Docker, Kubernetes, AWS, Azure, GCP, Terraform, Ansible, Cloudflare, GitHub Actions, CI/CD
 
 Architecture
 
-Distributed systems, asynchronous workflows, multi-agent orchestration, integration architecture, reliability engineering
+Distributed systems, asynchronous workflows, integration architecture, service design, reliability engineering, secure operations
 
-<br />
+Production operations
+
+Logging, tracing, monitoring, alerting, testing, benchmarking, failure analysis, deployment, scaling, cost control
+
+<p align="center">
+  <a href="https://github.com/tandpfun/skill-icons" aria-label="Skill Icons source repository">
+    <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,githubactions,postgres,redis,mongodb,aws,azure,gcp,terraform,ansible,cloudflare" alt="Cloud, infrastructure, platform, and data technologies" />
+  </a>
+</p>
+
+Product, automation, and platform territory
+
+My work spans:
+
+AI agents · workflow automation · SaaS platforms · internal tools · CRM systems · dashboards · client portals · data pipelines · APIs · outreach systems · production-grade websites
+
+I work across the full delivery stack:
+
+strategy · architecture · product · full-stack development · automation · AI agents · APIs · deployment · testing · optimization · launch
+
+Design, motion, and visual systems
+
+I combine engineering rigor with high-end visual direction for products, interfaces, campaigns, and digital experiences.
+
+Area
+
+Tools and capabilities
+
+Interface and product design
+
+Figma, design systems, responsive UI, interaction design, component architecture, product polish
+
+Visual direction
+
+Photoshop, InDesign, Creative Cloud, Adobe Firefly, Canva, editorial systems, campaign composition
+
+Motion and video
+
+DaVinci Resolve, Final Cut Pro X, Remotion, motion systems, automated video pipelines, cinematic presentation
+
+Generative media
+
+Sora, Higgsfield, ComfyUI, synthetic-model workflows, luxury advertising systems, AI-assisted campaign production
+
+Creative infrastructure
+
+Asset pipelines, prompt systems, identity continuity, automated rendering, production templates, multi-format delivery
+
+Analytics and business systems
+
+Area
+
+Platforms and systems
+
+Analytics
+
+Power BI, Tableau, dashboards, operational reporting, executive metrics, data visualization
+
+Productivity and operations
+
+Microsoft Excel, Google Sheets, Microsoft 365, structured workflows, reporting automation
+
+Business infrastructure
+
+CRM systems, client portals, outreach systems, internal tools, operational dashboards
+
+Execution systems
+
+Workflow automation, approval flows, document pipelines, integrations, notifications, exception handling
 
 How I work
 
 Business outcome → narrow production slice → instrument and verify → scale from evidence
 
-Outcome-first: technology is selected for business impact, not novelty.
+Outcome-first: technology is selected for measurable business impact, not novelty.
 
-Production-minded: security, failure modes, observability, and operating cost are part of the design.
+Production-minded: security, failure modes, observability, reliability, and operating cost are part of the design.
 
-Full-stack ownership: product, model, data, backend, infrastructure, and delivery are one system.
+Full-stack ownership: product, model, data, backend, infrastructure, deployment, and delivery are treated as one system.
 
-Evidence over claims: working software, tests, benchmarks, reviews, and releases establish credibility.
+Evidence over claims: working software, tests, benchmarks, reviews, releases, and operational results establish credibility.
 
-<br />
+Systems over fragments: the objective is not to add more software. It is to build better systems.
 
-Commercial Engagement Protocol
+Current direction
 
-⚠️ PLEASE READ BEFORE CONTACTING
+Building original, production-grade AI and automation companies, products, and infrastructure while contributing focused improvements to established open-source systems.
+
+Current ventures include AI-native advertising, synthetic talent infrastructure, generative production systems, and scalable platforms designed to turn creative and operational complexity into controlled execution.
+
+Commercial engagement
 
 Selective projects and technical partnerships only.
 
@@ -174,22 +272,12 @@ Current project stage
 
 Your role and decision-making authority
 
-I only respond to defined commercial engagements with a clear path forward.
+I respond to defined commercial engagements with a clear path to execution.
 
-✕ No vague networking
+No vague networking · No unpaid consulting · No speculative collaborations · No prolonged discussions without intent
 
-✕ No unpaid consulting
-
-✕ No speculative collaborations
-
-✕ No prolonged discussions without intent
-
-<br />
-
-Current direction
-
-Building original, production-grade AI and automation projects while contributing focused improvements to established open-source systems.
-
-<p align="center"><strong>Design the system. Ship the smallest complete version. Verify it. Improve from evidence.</strong></p>
+<p align="center">
+  <strong>Design the system. Ship the smallest complete version. Verify it. Improve from evidence.</strong>
+</p>
 
 <!-- GitHub profile README -->
