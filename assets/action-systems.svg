@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="188" height="40" viewBox="0 0 188 40" role="img" aria-labelledby="title desc">
+  <title id="title">Visit Ribbsaeter Systems</title>
+  <desc id="desc">A dark navy button for the Ribbsaeter Systems software studio.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#102846"/><stop offset="1" stop-color="#0B1B31"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00B8D9"/><stop offset="1" stop-color="#5FE7FF"/></linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="187" height="39" rx="10" fill="url(#bg)" stroke="#35D4FF" stroke-opacity=".34"/>
+  <rect width="4" height="40" rx="2" fill="url(#accent)"/>
+  <g transform="translate(15 10)" fill="none" stroke="#5FE7FF" stroke-width="1.5">
+    <path d="m1 10 5-5m-5 5 5 5m13-5-5-5m5 5-5 5M9 18 12 2"/>
+  </g>
+  <text x="46" y="17" fill="#93A8C5" font-family="Arial,sans-serif" font-size="8" font-weight="700" letter-spacing="1.2">SOFTWARE STUDIO</text>
+  <text x="46" y="29" fill="#F6F9FF" font-family="Arial,sans-serif" font-size="10.5" font-weight="700" letter-spacing=".55">RIBBSAETER SYSTEMS</text>
+  <text x="169" y="25" text-anchor="middle" fill="#35D4FF" font-family="Arial,sans-serif" font-size="16" font-weight="700">↗</text>
+</svg>

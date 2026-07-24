@@ -1,19 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
   <title id="title">Patrick Ribbsaeter — AI Systems Architect and Founding Engineer</title>
-  <desc id="desc">A dark precision-engineered banner with a PR monogram, architectural grid, and Patrick Ribbsaeter's professional positioning.</desc>
+  <desc id="desc">A dark precision-engineered banner with a kinetic systems visualization, architectural grid, and Patrick Ribbsaeter's professional positioning.</desc>
   <defs>
     <style>
       .signal{stroke-dasharray:10 18;animation:signalFlow 7s linear infinite}
       .node-a{animation:nodePulse 2.8s ease-in-out infinite}
       .node-b{animation:nodePulse 2.8s ease-in-out 1.4s infinite}
-      .monogram{animation:monogramGlow 4s ease-in-out infinite}
+      .orbit{transform-origin:1018px 190px;animation:orbitSpin 18s linear infinite}
+      .orbit-reverse{transform-origin:1018px 190px;animation:orbitSpin 12s linear infinite reverse}
+      .core{animation:corePulse 3.6s ease-in-out infinite}
       .scan{animation:scanMove 8s ease-in-out infinite}
       @keyframes signalFlow{to{stroke-dashoffset:-112}}
       @keyframes nodePulse{0%,100%{opacity:.38}50%{opacity:1}}
-      @keyframes monogramGlow{0%,100%{opacity:.72}50%{opacity:1}}
+      @keyframes orbitSpin{to{transform:rotate(360deg)}}
+      @keyframes corePulse{0%,100%{opacity:.55}50%{opacity:1}}
       @keyframes scanMove{0%,12%{transform:translateX(-260px);opacity:0}24%{opacity:.12}55%{opacity:.06}72%,100%{transform:translateX(1220px);opacity:0}}
       @media (prefers-reduced-motion:reduce){
-        .signal,.node-a,.node-b,.monogram,.scan{animation:none}
+        .signal,.node-a,.node-b,.orbit,.orbit-reverse,.core,.scan{animation:none}
       }
     </style>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
@@ -62,11 +65,21 @@
       <circle class="node-b" cx="1125" cy="225" r="4" fill="#00B8D9" stroke="none"/>
     </g>
 
-    <g class="monogram" transform="translate(936 114)">
-      <path d="M0 0h112l56 56v112H56L0 112Z" fill="#07111D" stroke="url(#cyan)" stroke-width="2"/>
-      <path d="M22 23h68c25 0 42 15 42 37 0 15-7 26-20 32l29 52h-36L82 99H55v45H22Zm33 27v24h31c8 0 13-5 13-12s-5-12-13-12Z" fill="#EFFBFF"/>
-      <path d="M22 144V23h33v121Z" fill="url(#cyan)" opacity=".88"/>
-      <path d="M0 112 56 168h112" fill="none" stroke="#5FE7FF" stroke-opacity=".35"/>
+    <g>
+      <circle cx="1018" cy="190" r="82" fill="#07111D" stroke="#5FE7FF" stroke-opacity=".18"/>
+      <circle class="orbit" cx="1018" cy="190" r="70" fill="none" stroke="url(#cyan)" stroke-width="1.5" stroke-dasharray="52 18 6 24"/>
+      <circle class="orbit-reverse" cx="1018" cy="190" r="49" fill="none" stroke="#5FE7FF" stroke-opacity=".55" stroke-width="1.2" stroke-dasharray="22 14"/>
+      <g class="orbit">
+        <circle cx="1018" cy="120" r="6" fill="#5FE7FF"/>
+        <circle cx="1079" cy="224" r="5" fill="#2F81F7"/>
+        <circle cx="957" cy="224" r="4" fill="#00B8D9"/>
+      </g>
+      <g class="core">
+        <path d="m1018 158 28 16v32l-28 16-28-16v-32Z" fill="#0A2031" stroke="url(#cyan)" stroke-width="2"/>
+        <circle cx="1018" cy="190" r="12" fill="url(#cyan)"/>
+        <circle cx="1018" cy="190" r="4" fill="#F4F9FF"/>
+      </g>
+      <path d="M934 190h35m98 0h35M1018 106v35m0 98v35" stroke="#5FE7FF" stroke-opacity=".3" stroke-dasharray="4 8"/>
     </g>
 
     <g font-family="Inter,Segoe UI,Arial,sans-serif">

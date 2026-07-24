@@ -1,13 +1,13 @@
 <div align="center">
 
-<a href="https://github.com/patrickswedish">
+<a href="https://www.ribbsaeter.com/">
   <img src="./assets/header-v2.svg" width="100%" alt="Patrick Ribbsaeter — AI Systems Architect and Founding Engineer" />
 </a>
 
 <br />
 
-<a href="https://github.com/patrickswedish">
-  <img src="./assets/action-github.svg" width="188" height="40" alt="View Patrick Ribbsaeter on GitHub" />
+<a href="https://www.ribbsaeter.com/">
+  <img src="./assets/action-website.svg" width="188" height="40" alt="Visit Patrick Ribbsaeter's private website" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/patrickribbsaeter/">
@@ -132,9 +132,35 @@ Automated systems for image, video, synthetic media, identity continuity, and hi
 
 <br />
 
-<details>
-<summary><strong>View the extended capability map</strong></summary>
+### Design, motion & visual suite
+
+<table>
+<tr>
+<td align="center" width="14%"><img src="https://api.iconify.design/logos:adobe-photoshop.svg" height="30" alt="Adobe Photoshop" /><br /><sub>Photoshop</sub></td>
+<td align="center" width="14%"><img src="https://api.iconify.design/logos:adobe-indesign.svg" height="30" alt="Adobe InDesign" /><br /><sub>InDesign</sub></td>
+<td align="center" width="14%"><img src="https://api.iconify.design/cib:adobe-creative-cloud.svg?color=%23ed1c24" height="30" alt="Adobe Creative Cloud" /><br /><sub>Creative Cloud</sub></td>
+<td align="center" width="14%"><img src="https://api.iconify.design/selfhst:adobe-firefly.svg" height="30" alt="Adobe Firefly" /><br /><sub>Firefly</sub></td>
+<td align="center" width="14%"><img src="https://api.iconify.design/devicon:canva.svg" height="30" alt="Canva" /><br /><sub>Canva</sub></td>
+<td align="center" width="14%"><img src="https://cdn.simpleicons.org/davinciresolve" height="30" alt="DaVinci Resolve" /><br /><sub>DaVinci Resolve</sub></td>
+<td align="center" width="14%"><img src="https://api.iconify.design/logos:apple.svg" height="30" alt="Final Cut Pro" /><br /><sub>Final Cut Pro</sub></td>
+</tr>
+</table>
+
+### Enterprise analytics & data suite
+
+<table>
+<tr>
+<td align="center" width="20%"><img src="https://api.iconify.design/logos:microsoft-power-bi.svg" height="30" alt="Microsoft Power BI" /><br /><sub>Power BI</sub></td>
+<td align="center" width="20%"><img src="https://api.iconify.design/logos:tableau-icon.svg" height="30" alt="Tableau" /><br /><sub>Tableau</sub></td>
+<td align="center" width="20%"><img src="https://api.iconify.design/selfhst:microsoft-excel.svg" height="30" alt="Microsoft Excel" /><br /><sub>Excel</sub></td>
+<td align="center" width="20%"><img src="https://cdn.simpleicons.org/googlesheets/34A853" height="30" alt="Google Sheets" /><br /><sub>Google Sheets</sub></td>
+<td align="center" width="20%"><img src="https://api.iconify.design/selfhst:microsoft-365.svg" height="30" alt="Microsoft 365" /><br /><sub>Microsoft 365</sub></td>
+</tr>
+</table>
+
 <br />
+
+### Extended capability map
 
 | Domain | Capabilities |
 |:--|:--|
@@ -144,8 +170,6 @@ Automated systems for image, video, synthetic media, identity continuity, and hi
 | **Data** | PostgreSQL · Redis · MongoDB · pandas · Apache Spark · Power BI · Tableau · Excel · Google Sheets |
 | **Production** | Figma · Adobe Creative Cloud · Canva · DaVinci Resolve · Final Cut Pro · Remotion · Sora · Higgsfield · ComfyUI · FFmpeg |
 | **Systems** | AI agents · SaaS platforms · automation engines · CRM systems · dashboards · client portals · APIs · outreach systems · production websites |
-
-</details>
 
 <br />
 
@@ -176,7 +200,39 @@ SCALE WHAT WORKS
 
 <br />
 
-## 05 — Commercial engagements
+## 05 — Venture portfolio
+
+<div align="center">
+
+<img src="./assets/ventures/venture-network.svg" width="100%" alt="Ribbsaeter venture network across AI, growth, luxury, property, mobility, sport, and synthetic media" />
+
+<br />
+
+<table>
+<tr>
+<td width="33%" align="center"><a href="https://glosssociete.com/"><img src="./assets/ventures/gloss-societe.svg" width="100%" alt="Gloss Société — Luxury Brand Transformation Atelier" /></a></td>
+<td width="33%" align="center"><a href="https://www.businessprofileboost.com/"><img src="./assets/ventures/business-profile-boost.svg" width="100%" alt="Business Profile Boost — Growth Systems and Digital Authority" /></a></td>
+<td width="33%" align="center"><a href="https://www.neuralmodestudio.com/"><img src="./assets/ventures/neural-mode-studio.svg" width="100%" alt="Neural Mode Studio — AI Systems and Implementation" /></a></td>
+</tr>
+<tr>
+<td width="33%" align="center"><a href="https://swisspropertystudio.com/"><img src="./assets/ventures/swiss-property-studio.svg" width="100%" alt="Swiss Property Studio — Premium Real Estate Marketing" /></a></td>
+<td width="33%" align="center"><a href="https://revhauscreative.com/"><img src="./assets/ventures/revhaus-creative.svg" width="100%" alt="Revhaus Creative — Global Luxury Design Bureau" /></a></td>
+<td width="33%" align="center"><a href="https://autodiscounts.nl/"><img src="./assets/ventures/autodiscounts.svg" width="100%" alt="AutoDiscounts.nl — Automotive and Mobility Benefits" /></a></td>
+</tr>
+<tr>
+<td width="33%" align="center"><a href="https://ribbsaeteradvertising.com/"><img src="./assets/ventures/ribbsaeter-advertising.svg" width="100%" alt="Ribbsaeter Advertising — Luxury Campaign Studio" /></a></td>
+<td width="33%" align="center"><a href="https://ribbsaetersports.com/"><img src="./assets/ventures/ribbsaeter-sports.svg" width="100%" alt="Ribbsaeter Sports — Digital Ecosystems for Athletes and Sport Brands" /></a></td>
+<td width="33%" align="center"><a href="https://etherealcasting.com/en"><img src="./assets/ventures/ethereal-casting.svg" width="100%" alt="Ethereal Casting — Synthetic Talent and Campaign Authority" /></a></td>
+</tr>
+</table>
+
+<sub>NINE VENTURES · ONE OPERATING PHILOSOPHY · BUILT ACROSS SWITZERLAND AND EUROPE</sub>
+
+</div>
+
+<br />
+
+## 06 — Commercial engagements
 
 I work best on serious builds with a defined business problem, a real budget, access to decision-makers, and a direct path to execution.
 
@@ -189,8 +245,8 @@ I work best on serious builds with a defined business problem, a real budget, ac
 
 ### Have an ambitious system to build?
 
-<a href="https://github.com/patrickswedish">
-  <img src="./assets/action-github.svg" width="188" height="40" alt="View Patrick Ribbsaeter on GitHub" />
+<a href="https://www.ribbsaetersystems.com/">
+  <img src="./assets/action-systems.svg" width="188" height="40" alt="Visit Ribbsaeter Systems" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/patrickribbsaeter/">

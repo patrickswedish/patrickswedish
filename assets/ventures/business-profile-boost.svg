@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="116" viewBox="0 0 360 116" role="img" aria-label="Business Profile Boost">
+  <rect x=".5" y=".5" width="359" height="115" rx="16" fill="#071422" stroke="#18C5FF" stroke-opacity=".42"/>
+  <path d="M25 81V35h20c15 0 23 6 23 17 0 6-3 11-9 13l13 16H56L45 67h-6v14Zm14-34v9h7c5 0 8-1 8-5s-3-4-8-4Z" fill="#18C5FF"/>
+  <text x="86" y="42" fill="#92AEC4" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="2">BUSINESS PROFILE</text>
+  <text x="86" y="66" fill="#F3FAFF" font-family="Arial,sans-serif" font-size="24" font-weight="800" letter-spacing=".5">BOOST</text>
+  <text x="86" y="89" fill="#18C5FF" font-family="Arial,sans-serif" font-size="9" font-weight="700" letter-spacing="1.5">GROWTH SYSTEMS &amp; DIGITAL AUTHORITY  ↗</text>
+</svg>
