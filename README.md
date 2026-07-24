@@ -265,6 +265,6 @@ I work best on serious builds with a defined business problem, a real budget, ac
 
 <br /><br />
 
-<sub>DESIGN THE SYSTEM · SHIP IT · VERIFY IT · IMPROVE FROM EVIDENCE</sub>
+<img src="./assets/closing-banner.svg" width="100%" alt="Design, ship, verify, compound" />
 
 </div>

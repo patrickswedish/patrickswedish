@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-labelledby="title desc">
+  <title id="title">Design, ship, verify, compound</title>
+  <desc id="desc">An animated closing banner representing systems moving from design through verified compounding results.</desc>
+  <defs>
+    <style>
+      .flow-a{stroke-dasharray:9 15;animation:flowA 7s linear infinite}
+      .flow-b{stroke-dasharray:4 18;animation:flowB 10s linear infinite reverse}
+      .pulse-a{animation:pulse 2.8s ease-in-out infinite}
+      .pulse-b{animation:pulse 2.8s ease-in-out 1.4s infinite}
+      .sweep{animation:sweep 9s ease-in-out infinite}
+      .headline{animation:headline 4.5s ease-in-out infinite}
+      @keyframes flowA{to{stroke-dashoffset:-96}}
+      @keyframes flowB{to{stroke-dashoffset:-88}}
+      @keyframes pulse{0%,100%{opacity:.3}50%{opacity:1}}
+      @keyframes sweep{0%,15%{transform:translateX(-280px);opacity:0}28%{opacity:.12}68%{opacity:.05}82%,100%{transform:translateX(1380px);opacity:0}}
+      @keyframes headline{0%,100%{opacity:.82}50%{opacity:1}}
+      @media(prefers-reduced-motion:reduce){.flow-a,.flow-b,.pulse-a,.pulse-b,.sweep,.headline{animation:none}}
+    </style>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050A12"/><stop offset=".55" stop-color="#0A1423"/><stop offset="1" stop-color="#10243A"/></linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00B8D9"/><stop offset=".5" stop-color="#5FE7FF"/><stop offset="1" stop-color="#2F81F7"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#26D9FF" stop-opacity=".16"/><stop offset="1" stop-color="#07111E" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#B8D8EE" stroke-opacity=".05"/></pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="frame"><rect width="1200" height="190" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="190" fill="url(#bg)"/>
+    <rect width="1200" height="190" fill="url(#grid)"/>
+    <ellipse cx="600" cy="95" rx="330" ry="170" fill="url(#halo)"/>
+    <path class="sweep" d="M-220 0h110L70 190H-40Z" fill="#BFF5FF" opacity="0"/>
+    <g fill="none" stroke="url(#signal)">
+      <path class="flow-a" d="M0 48h165l48 47h142" stroke-width="1.5" opacity=".55"/>
+      <path class="flow-b" d="M0 142h165l48-47h142" stroke-width="1.2" opacity=".42"/>
+      <path class="flow-b" d="M1200 48h-165l-48 47H845" stroke-width="1.2" opacity=".42"/>
+      <path class="flow-a" d="M1200 142h-165l-48-47H845" stroke-width="1.5" opacity=".55"/>
+    </g>
+    <g fill="#5FE7FF">
+      <circle class="pulse-a" cx="165" cy="48" r="4"/><circle class="pulse-b" cx="165" cy="142" r="4"/>
+      <circle class="pulse-b" cx="1035" cy="48" r="4"/><circle class="pulse-a" cx="1035" cy="142" r="4"/>
+    </g>
+    <rect x="348" y="49" width="504" height="92" rx="18" fill="#08131F" stroke="url(#signal)" stroke-opacity=".7"/>
+    <rect x="379" y="78" width="442" height="34" rx="17" fill="none" stroke="#5FE7FF" stroke-opacity=".1"/>
+    <text class="headline" x="600" y="106" fill="#F4F9FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="29" font-weight="800" letter-spacing="1.3" text-anchor="middle" filter="url(#glow)">DESIGN · SHIP · VERIFY · COMPOUND</text>
+  </g>
+</svg>
