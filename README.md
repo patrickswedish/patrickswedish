@@ -112,53 +112,53 @@ Automated systems for image, video, synthetic media, identity continuity, and hi
 
 ### Languages
 
-<a href="https://www.python.org/" title="Python"><img src="./assets/stack/python.svg" width="44" height="44" alt="Python" /></a>&nbsp;&nbsp;
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="./assets/stack/typescript.svg" width="44" height="44" alt="TypeScript" /></a>&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="./assets/stack/javascript.svg" width="44" height="44" alt="JavaScript" /></a>&nbsp;&nbsp;
-<a href="https://nodejs.org/" title="Node.js"><img src="./assets/stack/nodejs.svg" width="44" height="44" alt="Node.js" /></a>&nbsp;&nbsp;
-<a href="https://go.dev/" title="Go"><img src="./assets/stack/go.svg" width="44" height="44" alt="Go" /></a>&nbsp;&nbsp;
-<a href="https://www.rust-lang.org/" title="Rust"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack/rust-dark.svg"><img src="./assets/stack/rust.svg" width="44" height="44" alt="Rust" /></picture></a>&nbsp;&nbsp;
-<a href="https://www.open-std.org/jtc1/sc22/wg14/" title="C"><img src="./assets/stack/c.svg" width="44" height="44" alt="C" /></a>&nbsp;&nbsp;
-<a href="https://isocpp.org/" title="C++"><img src="./assets/stack/cplusplus.svg" width="44" height="44" alt="C++" /></a>&nbsp;&nbsp;
-<a href="https://dotnet.microsoft.com/languages/csharp" title="C#"><img src="./assets/stack/csharp.svg" width="44" height="44" alt="C#" /></a>&nbsp;&nbsp;
-<a href="https://www.java.com/" title="Java"><img src="./assets/stack/java.svg" width="44" height="44" alt="Java" /></a>&nbsp;&nbsp;
-<a href="https://kotlinlang.org/" title="Kotlin"><img src="./assets/stack/kotlin.svg" width="44" height="44" alt="Kotlin" /></a>&nbsp;&nbsp;
+<a href="https://www.python.org/" title="Python"><img src="./assets/stack/python.svg" width="44" height="44" alt="Python" /></a>&nbsp;
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="./assets/stack/typescript.svg" width="44" height="44" alt="TypeScript" /></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="./assets/stack/javascript.svg" width="44" height="44" alt="JavaScript" /></a>&nbsp;
+<a href="https://nodejs.org/" title="Node.js"><img src="./assets/stack/nodejs.svg" width="44" height="44" alt="Node.js" /></a>&nbsp;
+<a href="https://go.dev/" title="Go"><img src="./assets/stack/go.svg" width="44" height="44" alt="Go" /></a>&nbsp;
+<a href="https://www.rust-lang.org/" title="Rust"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack/rust-dark.svg"><img src="./assets/stack/rust.svg" width="44" height="44" alt="Rust" /></picture></a>&nbsp;
+<a href="https://www.open-std.org/jtc1/sc22/wg14/" title="C"><img src="./assets/stack/c.svg" width="44" height="44" alt="C" /></a>&nbsp;
+<a href="https://isocpp.org/" title="C++"><img src="./assets/stack/cplusplus.svg" width="44" height="44" alt="C++" /></a>&nbsp;
+<a href="https://dotnet.microsoft.com/languages/csharp" title="C#"><img src="./assets/stack/csharp.svg" width="44" height="44" alt="C#" /></a>&nbsp;
+<a href="https://www.java.com/" title="Java"><img src="./assets/stack/java.svg" width="44" height="44" alt="Java" /></a>&nbsp;
+<a href="https://kotlinlang.org/" title="Kotlin"><img src="./assets/stack/kotlin.svg" width="44" height="44" alt="Kotlin" /></a>&nbsp;
 <a href="https://www.swift.org/" title="Swift"><img src="./assets/stack/swift.svg" width="44" height="44" alt="Swift" /></a>
 
 ### Applications & APIs
 
-<a href="https://react.dev/" title="React"><img src="./assets/stack/react.svg" width="44" height="44" alt="React" /></a>&nbsp;&nbsp;
-<a href="https://nextjs.org/" title="Next.js"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack/nextjs-dark.svg"><img src="./assets/stack/nextjs.svg" width="44" height="44" alt="Next.js" /></picture></a>&nbsp;&nbsp;
-<a href="https://nodejs.org/" title="Node.js"><img src="./assets/stack/nodejs.svg" width="44" height="44" alt="Node.js" /></a>&nbsp;&nbsp;
-<a href="https://www.djangoproject.com/" title="Django"><img src="./assets/stack/django.svg" width="44" height="44" alt="Django" /></a>&nbsp;&nbsp;
-<a href="https://flask.palletsprojects.com/" title="Flask"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack/flask-dark.svg"><img src="./assets/stack/flask.svg" width="44" height="44" alt="Flask" /></picture></a>&nbsp;&nbsp;
-<a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="./assets/stack/fastapi.svg" width="44" height="44" alt="FastAPI" /></a>&nbsp;&nbsp;
-<a href="https://spring.io/" title="Spring"><img src="./assets/stack/spring.svg" width="44" height="44" alt="Spring" /></a>&nbsp;&nbsp;
-<a href="https://dotnet.microsoft.com/" title=".NET"><img src="./assets/stack/dotnet.svg" width="44" height="44" alt=".NET" /></a>&nbsp;&nbsp;
+<a href="https://react.dev/" title="React"><img src="./assets/stack/react.svg" width="44" height="44" alt="React" /></a>&nbsp;
+<a href="https://nextjs.org/" title="Next.js"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack/nextjs-dark.svg"><img src="./assets/stack/nextjs.svg" width="44" height="44" alt="Next.js" /></picture></a>&nbsp;
+<a href="https://nodejs.org/" title="Node.js"><img src="./assets/stack/nodejs.svg" width="44" height="44" alt="Node.js" /></a>&nbsp;
+<a href="https://www.djangoproject.com/" title="Django"><img src="./assets/stack/django.svg" width="44" height="44" alt="Django" /></a>&nbsp;
+<a href="https://flask.palletsprojects.com/" title="Flask"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack/flask-dark.svg"><img src="./assets/stack/flask.svg" width="44" height="44" alt="Flask" /></picture></a>&nbsp;
+<a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="./assets/stack/fastapi.svg" width="44" height="44" alt="FastAPI" /></a>&nbsp;
+<a href="https://spring.io/" title="Spring"><img src="./assets/stack/spring.svg" width="44" height="44" alt="Spring" /></a>&nbsp;
+<a href="https://dotnet.microsoft.com/" title=".NET"><img src="./assets/stack/dotnet.svg" width="44" height="44" alt=".NET" /></a>&nbsp;
 <a href="https://graphql.org/" title="GraphQL"><img src="./assets/stack/graphql.svg" width="44" height="44" alt="GraphQL" /></a>
 
 ### Cloud & platform
 
-<a href="https://www.linuxfoundation.org/" title="Linux"><img src="./assets/stack/linux.svg" width="44" height="44" alt="Linux" /></a>&nbsp;&nbsp;
-<a href="https://www.docker.com/" title="Docker"><img src="./assets/stack/docker.svg" width="44" height="44" alt="Docker" /></a>&nbsp;&nbsp;
-<a href="https://kubernetes.io/" title="Kubernetes"><img src="./assets/stack/kubernetes.svg" width="44" height="44" alt="Kubernetes" /></a>&nbsp;&nbsp;
-<a href="https://git-scm.com/" title="Git"><img src="./assets/stack/git.svg" width="44" height="44" alt="Git" /></a>&nbsp;&nbsp;
-<a href="https://github.com/" title="GitHub"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack/github.svg"><img src="./assets/stack/github-light.svg" width="44" height="44" alt="GitHub" /></picture></a>&nbsp;&nbsp;
-<a href="https://github.com/features/actions" title="GitHub Actions"><img src="./assets/stack/github-actions.svg" width="44" height="44" alt="GitHub Actions" /></a>&nbsp;&nbsp;
-<a href="https://aws.amazon.com/" title="Amazon Web Services"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack/aws-dark.svg"><img src="./assets/stack/aws.svg" width="44" height="44" alt="Amazon Web Services" /></picture></a>&nbsp;&nbsp;
-<a href="https://azure.microsoft.com/" title="Microsoft Azure"><img src="./assets/stack/azure.svg" width="44" height="44" alt="Microsoft Azure" /></a>&nbsp;&nbsp;
-<a href="https://cloud.google.com/" title="Google Cloud"><img src="./assets/stack/google-cloud.svg" width="44" height="44" alt="Google Cloud" /></a>&nbsp;&nbsp;
-<a href="https://developer.hashicorp.com/terraform" title="Terraform"><img src="./assets/stack/terraform.svg" width="44" height="44" alt="Terraform" /></a>&nbsp;&nbsp;
-<a href="https://www.ansible.com/" title="Ansible"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack/ansible-dark.svg"><img src="./assets/stack/ansible.svg" width="44" height="44" alt="Ansible" /></picture></a>&nbsp;&nbsp;
+<a href="https://www.linuxfoundation.org/" title="Linux"><img src="./assets/stack/linux.svg" width="44" height="44" alt="Linux" /></a>&nbsp;
+<a href="https://www.docker.com/" title="Docker"><img src="./assets/stack/docker.svg" width="44" height="44" alt="Docker" /></a>&nbsp;
+<a href="https://kubernetes.io/" title="Kubernetes"><img src="./assets/stack/kubernetes.svg" width="44" height="44" alt="Kubernetes" /></a>&nbsp;
+<a href="https://git-scm.com/" title="Git"><img src="./assets/stack/git.svg" width="44" height="44" alt="Git" /></a>&nbsp;
+<a href="https://github.com/" title="GitHub"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack/github.svg"><img src="./assets/stack/github-light.svg" width="44" height="44" alt="GitHub" /></picture></a>&nbsp;
+<a href="https://github.com/features/actions" title="GitHub Actions"><img src="./assets/stack/github-actions.svg" width="44" height="44" alt="GitHub Actions" /></a>&nbsp;
+<a href="https://aws.amazon.com/" title="Amazon Web Services"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack/aws-dark.svg"><img src="./assets/stack/aws.svg" width="44" height="44" alt="Amazon Web Services" /></picture></a>&nbsp;
+<a href="https://azure.microsoft.com/" title="Microsoft Azure"><img src="./assets/stack/azure.svg" width="44" height="44" alt="Microsoft Azure" /></a>&nbsp;
+<a href="https://cloud.google.com/" title="Google Cloud"><img src="./assets/stack/google-cloud.svg" width="44" height="44" alt="Google Cloud" /></a>&nbsp;
+<a href="https://developer.hashicorp.com/terraform" title="Terraform"><img src="./assets/stack/terraform.svg" width="44" height="44" alt="Terraform" /></a>&nbsp;
+<a href="https://www.ansible.com/" title="Ansible"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack/ansible-dark.svg"><img src="./assets/stack/ansible.svg" width="44" height="44" alt="Ansible" /></picture></a>&nbsp;
 <a href="https://www.cloudflare.com/" title="Cloudflare"><img src="./assets/stack/cloudflare.svg" width="44" height="44" alt="Cloudflare" /></a>
 
 ### Data & intelligence
 
-<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="./assets/stack/postgresql.svg" width="44" height="44" alt="PostgreSQL" /></a>&nbsp;&nbsp;
-<a href="https://redis.io/" title="Redis"><img src="./assets/stack/redis.svg" width="44" height="44" alt="Redis" /></a>&nbsp;&nbsp;
-<a href="https://www.mongodb.com/" title="MongoDB"><img src="./assets/stack/mongodb.svg" width="44" height="44" alt="MongoDB" /></a>&nbsp;&nbsp;
-<a href="https://www.elastic.co/elasticsearch" title="Elasticsearch"><img src="./assets/stack/elasticsearch.svg" width="44" height="44" alt="Elasticsearch" /></a>&nbsp;&nbsp;
-<a href="https://pytorch.org/" title="PyTorch"><img src="./assets/stack/pytorch.svg" width="44" height="44" alt="PyTorch" /></a>&nbsp;&nbsp;
+<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="./assets/stack/postgresql.svg" width="44" height="44" alt="PostgreSQL" /></a>&nbsp;
+<a href="https://redis.io/" title="Redis"><img src="./assets/stack/redis.svg" width="44" height="44" alt="Redis" /></a>&nbsp;
+<a href="https://www.mongodb.com/" title="MongoDB"><img src="./assets/stack/mongodb.svg" width="44" height="44" alt="MongoDB" /></a>&nbsp;
+<a href="https://www.elastic.co/elasticsearch" title="Elasticsearch"><img src="./assets/stack/elasticsearch.svg" width="44" height="44" alt="Elasticsearch" /></a>&nbsp;
+<a href="https://pytorch.org/" title="PyTorch"><img src="./assets/stack/pytorch.svg" width="44" height="44" alt="PyTorch" /></a>&nbsp;
 <a href="https://www.tensorflow.org/" title="TensorFlow"><img src="./assets/stack/tensorflow.svg" width="44" height="44" alt="TensorFlow" /></a>
 
 </div>
@@ -169,20 +169,20 @@ Automated systems for image, video, synthetic media, identity continuity, and hi
 
 ### Design, motion & visual suite
 
-<a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="./assets/stack/photoshop.svg" width="44" height="44" alt="Adobe Photoshop" /></a>&nbsp;&nbsp;
-<a href="https://www.adobe.com/products/indesign.html" title="Adobe InDesign"><img src="./assets/stack/indesign.svg" width="44" height="44" alt="Adobe InDesign" /></a>&nbsp;&nbsp;
-<a href="https://www.adobe.com/creativecloud.html" title="Adobe Creative Cloud"><img src="./assets/stack/creative-cloud.svg" width="44" height="44" alt="Adobe Creative Cloud" /></a>&nbsp;&nbsp;
-<a href="https://www.adobe.com/products/firefly.html" title="Adobe Firefly"><img src="./assets/stack/firefly.svg" width="44" height="44" alt="Adobe Firefly" /></a>&nbsp;&nbsp;
-<a href="https://www.canva.com/" title="Canva"><img src="./assets/stack/canva.svg" width="44" height="44" alt="Canva" /></a>&nbsp;&nbsp;
-<a href="https://www.blackmagicdesign.com/products/davinciresolve" title="DaVinci Resolve"><img src="./assets/stack/davinci-resolve.svg" width="44" height="44" alt="DaVinci Resolve" /></a>&nbsp;&nbsp;
+<a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="./assets/stack/photoshop.svg" width="44" height="44" alt="Adobe Photoshop" /></a>&nbsp;
+<a href="https://www.adobe.com/products/indesign.html" title="Adobe InDesign"><img src="./assets/stack/indesign.svg" width="44" height="44" alt="Adobe InDesign" /></a>&nbsp;
+<a href="https://www.adobe.com/creativecloud.html" title="Adobe Creative Cloud"><img src="./assets/stack/creative-cloud.svg" width="44" height="44" alt="Adobe Creative Cloud" /></a>&nbsp;
+<a href="https://www.adobe.com/products/firefly.html" title="Adobe Firefly"><img src="./assets/stack/firefly.svg" width="44" height="44" alt="Adobe Firefly" /></a>&nbsp;
+<a href="https://www.canva.com/" title="Canva"><img src="./assets/stack/canva.svg" width="44" height="44" alt="Canva" /></a>&nbsp;
+<a href="https://www.blackmagicdesign.com/products/davinciresolve" title="DaVinci Resolve"><img src="./assets/stack/davinci-resolve.svg" width="44" height="44" alt="DaVinci Resolve" /></a>&nbsp;
 <a href="https://www.apple.com/final-cut-pro/" title="Final Cut Pro"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack/final-cut-pro.svg"><img src="./assets/stack/final-cut-pro-light.svg" width="44" height="44" alt="Final Cut Pro" /></picture></a>
 
 ### Enterprise analytics & data suite
 
-<a href="https://www.microsoft.com/power-platform/products/power-bi/" title="Microsoft Power BI"><img src="./assets/stack/power-bi.svg" width="44" height="44" alt="Microsoft Power BI" /></a>&nbsp;&nbsp;
-<a href="https://www.tableau.com/" title="Tableau"><img src="./assets/stack/tableau.svg" width="44" height="44" alt="Tableau" /></a>&nbsp;&nbsp;
-<a href="https://www.microsoft.com/microsoft-365/excel" title="Microsoft Excel"><img src="./assets/stack/excel.svg" width="44" height="44" alt="Microsoft Excel" /></a>&nbsp;&nbsp;
-<a href="https://workspace.google.com/products/sheets/" title="Google Sheets"><img src="./assets/stack/google-sheets.svg" width="44" height="44" alt="Google Sheets" /></a>&nbsp;&nbsp;
+<a href="https://www.microsoft.com/power-platform/products/power-bi/" title="Microsoft Power BI"><img src="./assets/stack/power-bi.svg" width="44" height="44" alt="Microsoft Power BI" /></a>&nbsp;
+<a href="https://www.tableau.com/" title="Tableau"><img src="./assets/stack/tableau.svg" width="44" height="44" alt="Tableau" /></a>&nbsp;
+<a href="https://www.microsoft.com/microsoft-365/excel" title="Microsoft Excel"><img src="./assets/stack/excel.svg" width="44" height="44" alt="Microsoft Excel" /></a>&nbsp;
+<a href="https://workspace.google.com/products/sheets/" title="Google Sheets"><img src="./assets/stack/google-sheets.svg" width="44" height="44" alt="Google Sheets" /></a>&nbsp;
 <a href="https://www.microsoft.com/microsoft-365" title="Microsoft 365"><img src="./assets/stack/microsoft-365.svg" width="44" height="44" alt="Microsoft 365" /></a>
 
 </div>
