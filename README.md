@@ -102,8 +102,6 @@ Automated systems for image, video, synthetic media, identity continuity, and hi
 <a href="https://groq.com"><img src="./assets/models/groq.svg" width="136" height="40" alt="Groq" /></a>
 <a href="https://www.cerebras.ai"><img src="./assets/models/cerebras.svg" width="136" height="40" alt="Cerebras" /></a>
 
-<sub>Provider marks link to their official websites. Trademarks belong to their respective owners.</sub>
-
 </div>
 
 <br />
@@ -132,31 +130,45 @@ Automated systems for image, video, synthetic media, identity continuity, and hi
 
 <br />
 
+<div align="center">
+
 ### Design, motion & visual suite
 
-<table>
-<tr>
-<td align="center" width="14%"><img src="https://api.iconify.design/logos:adobe-photoshop.svg" height="30" alt="Adobe Photoshop" /><br /><sub>Photoshop</sub></td>
-<td align="center" width="14%"><img src="https://api.iconify.design/logos:adobe-indesign.svg" height="30" alt="Adobe InDesign" /><br /><sub>InDesign</sub></td>
-<td align="center" width="14%"><img src="https://api.iconify.design/cib:adobe-creative-cloud.svg?color=%23ed1c24" height="30" alt="Adobe Creative Cloud" /><br /><sub>Creative Cloud</sub></td>
-<td align="center" width="14%"><img src="https://api.iconify.design/selfhst:adobe-firefly.svg" height="30" alt="Adobe Firefly" /><br /><sub>Firefly</sub></td>
-<td align="center" width="14%"><img src="https://api.iconify.design/devicon:canva.svg" height="30" alt="Canva" /><br /><sub>Canva</sub></td>
-<td align="center" width="14%"><img src="https://cdn.simpleicons.org/davinciresolve" height="30" alt="DaVinci Resolve" /><br /><sub>DaVinci Resolve</sub></td>
-<td align="center" width="14%"><img src="https://api.iconify.design/logos:apple.svg" height="30" alt="Final Cut Pro" /><br /><sub>Final Cut Pro</sub></td>
-</tr>
-</table>
+<img src="https://api.iconify.design/logos:adobe-photoshop.svg" width="48" height="48" alt="Adobe Photoshop" title="Adobe Photoshop" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://api.iconify.design/logos:adobe-indesign.svg" width="48" height="48" alt="Adobe InDesign" title="Adobe InDesign" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://api.iconify.design/cib:adobe-creative-cloud.svg?color=%23ed1c24" width="48" height="48" alt="Adobe Creative Cloud" title="Adobe Creative Cloud" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://api.iconify.design/selfhst:adobe-firefly.svg" width="48" height="48" alt="Adobe Firefly" title="Adobe Firefly" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://api.iconify.design/devicon:canva.svg" width="48" height="48" alt="Canva" title="Canva" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/davinciresolve" width="48" height="48" alt="DaVinci Resolve" title="DaVinci Resolve" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons:apple.svg?color=%23FFFFFF" width="48" height="48" alt="Final Cut Pro" title="Final Cut Pro" />
+
+<br />
+
+<sub>PHOTOSHOP · INDESIGN · CREATIVE CLOUD · FIREFLY · CANVA · DAVINCI RESOLVE · FINAL CUT PRO</sub>
 
 ### Enterprise analytics & data suite
 
-<table>
-<tr>
-<td align="center" width="20%"><img src="https://api.iconify.design/logos:microsoft-power-bi.svg" height="30" alt="Microsoft Power BI" /><br /><sub>Power BI</sub></td>
-<td align="center" width="20%"><img src="https://api.iconify.design/logos:tableau-icon.svg" height="30" alt="Tableau" /><br /><sub>Tableau</sub></td>
-<td align="center" width="20%"><img src="https://api.iconify.design/selfhst:microsoft-excel.svg" height="30" alt="Microsoft Excel" /><br /><sub>Excel</sub></td>
-<td align="center" width="20%"><img src="https://cdn.simpleicons.org/googlesheets/34A853" height="30" alt="Google Sheets" /><br /><sub>Google Sheets</sub></td>
-<td align="center" width="20%"><img src="https://api.iconify.design/selfhst:microsoft-365.svg" height="30" alt="Microsoft 365" /><br /><sub>Microsoft 365</sub></td>
-</tr>
-</table>
+<img src="https://api.iconify.design/logos:microsoft-power-bi.svg" width="48" height="48" alt="Microsoft Power BI" title="Microsoft Power BI" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://api.iconify.design/logos:tableau-icon.svg" width="48" height="48" alt="Tableau" title="Tableau" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://api.iconify.design/selfhst:microsoft-excel.svg" width="48" height="48" alt="Microsoft Excel" title="Microsoft Excel" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/googlesheets/34A853" width="48" height="48" alt="Google Sheets" title="Google Sheets" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://api.iconify.design/selfhst:microsoft-365.svg" width="48" height="48" alt="Microsoft 365" title="Microsoft 365" />
+
+<br />
+
+<sub>POWER BI · TABLEAU · MICROSOFT EXCEL · GOOGLE SHEETS · MICROSOFT 365</sub>
+
+</div>
 
 <br />
 
