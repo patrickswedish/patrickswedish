@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/patrickswedish" aria-label="Patrick Ribbsaeter on GitHub">
-    <img src="./assets/header-v2.svg" width="100%" alt="Patrick Ribbsaeter — AI Systems Architect, Founding Engineer, AI Infrastructure and Autonomous Systems" />
+    <img src="./assets/header-v2.svg" width="100%" alt="Patrick Ribbsaeter â€” AI Systems Architect, Founding Engineer, AI Infrastructure and Autonomous Systems" />
   </a>
 </p>
 
@@ -8,12 +8,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/patrickribbsaeter/" aria-label="Connect with Patrick Ribbsaeter on LinkedIn"><img src="./assets/action-linkedin.svg" width="188" height="40" alt="Connect with Patrick Ribbsaeter on LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.patrickribbsaeter.com" aria-label="Visit Personal Portfolio Website"><img src="./assets/action-personal.svg" width="188" height="40" alt="Visit Patrick Ribbsaeter Portfolio" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://ribbsaetersystems.com" aria-label="Visit Ribbsaeter Systems"><img src="./assets/action-website.svg" width="188" height="40" alt="Visit the Ribbsaeter Systems website" /></a>
+  <a href="https://www.patrickribbsaeter.com" aria-label="Visit Patrick Ribbsaeter Website"><img src="./assets/action-website.svg" width="188" height="40" alt="Visit Patrick Ribbsaeter Website" /></a>
 </p>
 
 <p align="center">
-  <code>⌖&nbsp; BASED IN · SWITZERLAND</code> &nbsp;•&nbsp; <code>$ status -- founder · Less talking. More building.</code>
+  <code>âŒ–&nbsp; BASED IN Â· SWITZERLAND</code> &nbsp;â€¢&nbsp; <code>$ status -- founder Â· Less talking. More building.</code>
 </p>
 
 <br />
@@ -22,7 +21,7 @@ I'm **Patrick Ribbsaeter**, an **AI systems architect and founding engineer** bu
 
 ---
 
-### 🎯 Core Thesis
+### ðŸŽ¯ Core Thesis
 > *"The value of an AI agent is proportional to the size and complexity of the tasks it can complete without human intervention."*
 
 > *"The edge is not access to AI. The edge is controlling the system that turns AI into execution."*
@@ -47,7 +46,7 @@ I'm **Patrick Ribbsaeter**, an **AI systems architect and founding engineer** bu
 
 ## Large language models and AI ecosystems
 
-I work across proprietary and open-model ecosystems, provider APIs, model hubs, and accelerated inference platforms—selecting models by capability, reliability, latency, privacy, and operating cost rather than brand loyalty.
+I work across proprietary and open-model ecosystems, provider APIs, model hubs, and accelerated inference platformsâ€”selecting models by capability, reliability, latency, privacy, and operating cost rather than brand loyalty.
 
 <p align="center">
   <a href="https://chatgpt.com/" aria-label="Open ChatGPT"><img src="./assets/models/openai-chatgpt.svg" width="148" height="42" alt="OpenAI and ChatGPT" /></a>&nbsp;
@@ -74,7 +73,7 @@ I work across proprietary and open-model ecosystems, provider APIs, model hubs, 
 
 <p align="center"><sub>Provider marks sourced from <a href="https://github.com/lobehub/lobe-icons">Lobe Icons</a> under the MIT License. All trademarks remain the property of their respective owners.</sub></p>
 
-**Model territory:** OpenAI / ChatGPT · Anthropic / Claude · Google Gemini · Meta Llama · Hugging Face · Mistral AI · DeepSeek · Moonshot AI / Kimi · Alibaba Qwen · xAI / Grok · Cohere · 01.AI / Yi · Z.ai / GLM · AI21 Labs · MiniMax · Azure AI · AWS Bedrock · NVIDIA AI · Groq · Cerebras
+**Model territory:** OpenAI / ChatGPT Â· Anthropic / Claude Â· Google Gemini Â· Meta Llama Â· Hugging Face Â· Mistral AI Â· DeepSeek Â· Moonshot AI / Kimi Â· Alibaba Qwen Â· xAI / Grok Â· Cohere Â· 01.AI / Yi Â· Z.ai / GLM Â· AI21 Labs Â· MiniMax Â· Azure AI Â· AWS Bedrock Â· NVIDIA AI Â· Groq Â· Cerebras
 
 <br />
 
@@ -92,7 +91,7 @@ The stack follows the problem. **AI expands delivery breadth; builds, tests, rev
   <a href="https://github.com/tandpfun/skill-icons" aria-label="Skill Icons source repository"><img src="https://skillicons.dev/icons?i=php,ruby,scala,elixir,clojure,haskell,dart,lua,perl,r,matlab,solidity,bash,powershell" alt="Extended language coverage" /></a>
 </p>
 
-**Language domains:** Python · TypeScript · JavaScript · Go · Rust · C · C++ · C# · Java · Kotlin · Swift · PHP · Ruby · Scala · Elixir · Clojure · Haskell · Dart · Lua · Perl · R · MATLAB · Solidity · SQL · Bash · PowerShell
+**Language domains:** Python Â· TypeScript Â· JavaScript Â· Go Â· Rust Â· C Â· C++ Â· C# Â· Java Â· Kotlin Â· Swift Â· PHP Â· Ruby Â· Scala Â· Elixir Â· Clojure Â· Haskell Â· Dart Â· Lua Â· Perl Â· R Â· MATLAB Â· Solidity Â· SQL Â· Bash Â· PowerShell
 
 ### Frameworks, AI, data, and infrastructure
 
@@ -113,7 +112,7 @@ The stack follows the problem. **AI expands delivery breadth; builds, tests, rev
 
 ## How I work
 
-**Business outcome → narrow production slice → instrument and verify → scale from evidence**
+**Business outcome â†’ narrow production slice â†’ instrument and verify â†’ scale from evidence**
 
 - **Outcome-first:** technology is selected for business impact, not novelty.
 - **Production-minded:** security, failure modes, observability, and operating cost are part of the design.
@@ -124,7 +123,7 @@ The stack follows the problem. **AI expands delivery breadth; builds, tests, rev
 
 ## Commercial Engagement Protocol
 
-> ⚠️ **PLEASE READ BEFORE CONTACTING**
+> âš ï¸ **PLEASE READ BEFORE CONTACTING**
 > 
 > **Selective projects and technical partnerships only.**
 > 
@@ -138,10 +137,10 @@ The stack follows the problem. **AI expands delivery breadth; builds, tests, rev
 > 
 > *I only respond to defined commercial engagements with a clear path forward.*
 > 
-> - ✕ No vague networking
-> - ✕ No unpaid consulting
-> - ✕ No speculative collaborations
-> - ✕ No prolonged discussions without intent
+> - âœ• No vague networking
+> - âœ• No unpaid consulting
+> - âœ• No speculative collaborations
+> - âœ• No prolonged discussions without intent
 
 <br />
 
@@ -152,4 +151,3 @@ Building original, production-grade AI and automation projects while contributin
 <p align="center"><strong>Design the system. Ship the smallest complete version. Verify it. Improve from evidence.</strong></p>
 
 <!-- GitHub profile README -->
-
