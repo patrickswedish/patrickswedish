@@ -8,6 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/patrickribbsaeter/" aria-label="Connect with Patrick Ribbsaeter on LinkedIn"><img src="./assets/action-linkedin.svg" width="188" height="40" alt="Connect with Patrick Ribbsaeter on LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.patrickribbsaeter.com" aria-label="Visit Personal Portfolio Website"><img src="./assets/action-personal.svg" width="188" height="40" alt="Visit Patrick Ribbsaeter Portfolio" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://ribbsaetersystems.com" aria-label="Visit Ribbsaeter Systems"><img src="./assets/action-website.svg" width="188" height="40" alt="Visit the Ribbsaeter Systems website" /></a>
 </p>
 
@@ -151,3 +152,4 @@ Building original, production-grade AI and automation projects while contributin
 <p align="center"><strong>Design the system. Ship the smallest complete version. Verify it. Improve from evidence.</strong></p>
 
 <!-- GitHub profile README -->
+
