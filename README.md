@@ -137,6 +137,12 @@ Automated systems for image, video, synthetic media, identity continuity, and hi
 <a href="https://dotnet.microsoft.com/" title=".NET"><img src="./assets/stack/dotnet.svg" width="44" height="44" alt=".NET" /></a>&nbsp;
 <a href="https://graphql.org/" title="GraphQL"><img src="./assets/stack/graphql.svg" width="44" height="44" alt="GraphQL" /></a>
 
+### Automation & orchestration
+
+<a href="https://n8n.io/" title="n8n"><img src="./assets/stack/n8n.svg" width="44" height="44" alt="n8n" /></a>&nbsp;
+<a href="https://zapier.com/" title="Zapier"><img src="./assets/stack/zapier.svg" width="44" height="44" alt="Zapier" /></a>&nbsp;
+<a href="https://www.make.com/" title="Make"><img src="./assets/stack/make.svg" width="44" height="44" alt="Make" /></a>
+
 ### Cloud & platform
 
 <a href="https://www.linuxfoundation.org/" title="Linux"><img src="./assets/stack/linux.svg" width="44" height="44" alt="Linux" /></a>&nbsp;
