@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="188" height="40" viewBox="0 0 188 40" role="img" aria-labelledby="title desc">
+  <title id="title">View Patrick Ribbsaeter on GitHub</title>
+  <desc id="desc">A dark navy button with a GitHub mark and cyan accent.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#102846"/>
+      <stop offset="1" stop-color="#0B1B31"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00B8D9"/>
+      <stop offset="1" stop-color="#5FE7FF"/>
+    </linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="187" height="39" rx="10" fill="url(#bg)" stroke="#35D4FF" stroke-opacity=".34"/>
+  <rect width="4" height="40" rx="2" fill="url(#accent)"/>
+  <g transform="translate(16 9)" fill="#5FE7FF">
+    <path d="M10 0C4.48 0 0 4.59 0 10.25c0 4.53 2.87 8.37 6.84 9.73.5.1.68-.22.68-.5v-1.92c-2.78.62-3.37-1.21-3.37-1.21-.45-1.19-1.11-1.5-1.11-1.5-.91-.64.07-.63.07-.63 1 .08 1.53 1.06 1.53 1.06.9 1.57 2.35 1.12 2.92.86.09-.66.35-1.12.64-1.37-2.22-.26-4.56-1.14-4.56-5.07 0-1.12.39-2.03 1.03-2.75-.1-.26-.45-1.3.1-2.72 0 0 .84-.27 2.75 1.05A9.3 9.3 0 0 1 10 4.98a9.3 9.3 0 0 1 2.5.35c1.91-1.33 2.75-1.05 2.75-1.05.55 1.41.2 2.46.1 2.72.64.72 1.03 1.63 1.03 2.75 0 3.94-2.34 4.8-4.57 5.06.36.32.68.94.68 1.9v2.82c0 .28.18.6.69.5A10.23 10.23 0 0 0 20 10.25C20 4.59 15.52 0 10 0Z"/>
+  </g>
+  <text x="47" y="17" fill="#93A8C5" font-family="Arial,sans-serif" font-size="8" font-weight="700" letter-spacing="1.2">PROFILE</text>
+  <text x="47" y="29" fill="#F6F9FF" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing=".7">VIEW GITHUB</text>
+  <text x="169" y="25" text-anchor="middle" fill="#35D4FF" font-family="Arial,sans-serif" font-size="16" font-weight="700">↗</text>
+</svg>
