@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/patrickswedish" aria-label="Patrick Ribbsaeter on GitHub">
-    <img src="./assets/header-v2.svg" width="100%" alt="Patrick Ribbsaeter â€” AI Systems Architect, Founding Engineer, AI Infrastructure and Autonomous Systems" />
+    <img src="./assets/header-v2.svg" width="100%" alt="Patrick Ribbsaeter — AI Systems Architect, Founding Engineer, AI Infrastructure and Autonomous Systems" />
   </a>
 </p>
 
@@ -12,41 +12,60 @@
 </p>
 
 <p align="center">
-  <code>âŒ–&nbsp; BASED IN Â· SWITZERLAND</code> &nbsp;â€¢&nbsp; <code>$ status -- founder Â· Less talking. More building.</code>
+  <code>⌖&nbsp; BASED IN · SWITZERLAND</code> &nbsp;•&nbsp; <code>$ status -- founder · Less talking. More building.</code>
 </p>
 
 <br />
 
-I'm **Patrick Ribbsaeter**, an **AI systems architect and founding engineer** building enterprise AI systems, autonomous-agent infrastructure, automation engines, and production software from the interface to the infrastructure. My focus is high-leverage engineering: turning expensive operational problems into secure, reliable systems that can be measured, maintained, and scaled.
+I'm Patrick Ribbsaeter, an AI systems architect and founding engineer building enterprise AI systems, autonomous-agent infrastructure, automation engines, and production software from the interface to the infrastructure. My focus is high-leverage engineering: turning expensive operational problems into secure, reliable systems that can be measured, maintained, and scaled.
 
----
+🎯 Core Thesis
 
-### ðŸŽ¯ Core Thesis
-> *"The value of an AI agent is proportional to the size and complexity of the tasks it can complete without human intervention."*
+"The value of an AI agent is proportional to the size and complexity of the tasks it can complete without human intervention."
 
-> *"The edge is not access to AI. The edge is controlling the system that turns AI into execution."*
-
----
+"The edge is not access to AI. The edge is controlling the system that turns AI into execution."
 
 <br />
 
-## High-value engineering focus
+High-value engineering focus
 
-| Capability | What I build |
-|---|---|
-| **Enterprise AI systems** | Agent platforms, retrieval systems, evaluations, guardrails, model routing, and human-in-the-loop control |
-| **Forward-deployed engineering** | Production solutions shaped around real users, workflows, constraints, and business outcomes |
-| **AI infrastructure & MLOps** | Model serving, observability, data pipelines, deployment systems, reliability, and cost control |
-| **Platform engineering** | Internal developer platforms, APIs, cloud architecture, CI/CD, infrastructure as code, and secure operations |
-| **Intelligent automation** | Multi-step workflow engines, tool orchestration, document pipelines, integrations, and exception handling |
-| **Full-stack AI products** | High-quality product interfaces backed by dependable AI, data, and distributed-system foundations |
-| **Design engineering & visual direction** | Luxury-caliber visual systems, editorial composition, interaction, motion, and polished product experiences built with production rigor |
+Capability
+
+What I build
+
+Enterprise AI systems
+
+Agent platforms, retrieval systems, evaluations, guardrails, model routing, and human-in-the-loop control
+
+Forward-deployed engineering
+
+Production solutions shaped around real users, workflows, constraints, and business outcomes
+
+AI infrastructure & MLOps
+
+Model serving, observability, data pipelines, deployment systems, reliability, and cost control
+
+Platform engineering
+
+Internal developer platforms, APIs, cloud architecture, CI/CD, infrastructure as code, and secure operations
+
+Intelligent automation
+
+Multi-step workflow engines, tool orchestration, document pipelines, integrations, and exception handling
+
+Full-stack AI products
+
+High-quality product interfaces backed by dependable AI, data, and distributed-system foundations
+
+Design engineering & visual direction
+
+Luxury-caliber visual systems, editorial composition, interaction, motion, and polished product experiences built with production rigor
 
 <br />
 
-## Large language models and AI ecosystems
+Large language models and AI ecosystems
 
-I work across proprietary and open-model ecosystems, provider APIs, model hubs, and accelerated inference platformsâ€”selecting models by capability, reliability, latency, privacy, and operating cost rather than brand loyalty.
+I work across proprietary and open-model ecosystems, provider APIs, model hubs, and accelerated inference platforms—selecting models by capability, reliability, latency, privacy, and operating cost rather than brand loyalty.
 
 <p align="center">
   <a href="https://chatgpt.com/" aria-label="Open ChatGPT"><img src="./assets/models/openai-chatgpt.svg" width="148" height="42" alt="OpenAI and ChatGPT" /></a>&nbsp;
@@ -73,15 +92,15 @@ I work across proprietary and open-model ecosystems, provider APIs, model hubs, 
 
 <br />
 
-**Model territory:** OpenAI / ChatGPT Â· Anthropic / Claude Â· Google Gemini Â· Meta Llama Â· Hugging Face Â· Mistral AI Â· DeepSeek Â· Moonshot AI / Kimi Â· Alibaba Qwen Â· xAI / Grok Â· Cohere Â· 01.AI / Yi Â· Z.ai / GLM Â· AI21 Labs Â· MiniMax Â· Azure AI Â· AWS Bedrock Â· NVIDIA AI Â· Groq Â· Cerebras
+Model territory: OpenAI / ChatGPT · Anthropic / Claude · Google Gemini · Meta Llama · Hugging Face · Mistral AI · DeepSeek · Moonshot AI / Kimi · Alibaba Qwen · xAI / Grok · Cohere · 01.AI / Yi · Z.ai / GLM · AI21 Labs · MiniMax · Azure AI · AWS Bedrock · NVIDIA AI · Groq · Cerebras
 
 <br />
 
-## Polyglot engineering
+Polyglot engineering
 
-The stack follows the problem. **AI expands delivery breadth; builds, tests, reviews, and target-system conventions establish correctness.**
+The stack follows the problem. AI expands delivery breadth; builds, tests, reviews, and target-system conventions establish correctness.
 
-### Languages, frameworks, and systems
+Languages, frameworks, and systems
 
 <p align="center">
   <a href="https://github.com/tandpfun/skill-icons" aria-label="Skill Icons source repository"><img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,react,nextjs,go,rust,cpp,cs,java,kotlin,swift" alt="Core product, backend, systems, and native technologies" /></a>
@@ -91,58 +110,83 @@ The stack follows the problem. **AI expands delivery breadth; builds, tests, rev
   <a href="https://github.com/tandpfun/skill-icons" aria-label="Skill Icons source repository"><img src="https://skillicons.dev/icons?i=php,ruby,scala,elixir,clojure,haskell,dart,lua,perl,r,matlab,solidity,bash,powershell" alt="Extended language coverage" /></a>
 </p>
 
-**Language domains:** Python Â· TypeScript Â· JavaScript Â· Go Â· Rust Â· C Â· C++ Â· C# Â· Java Â· Kotlin Â· Swift Â· PHP Â· Ruby Â· Scala Â· Elixir Â· Clojure Â· Haskell Â· Dart Â· Lua Â· Perl Â· R Â· MATLAB Â· Solidity Â· SQL Â· Bash Â· PowerShell
+Language domains: Python · TypeScript · JavaScript · Go · Rust · C · C++ · C# · Java · Kotlin · Swift · PHP · Ruby · Scala · Elixir · Clojure · Haskell · Dart · Lua · Perl · R · MATLAB · Solidity · SQL · Bash · PowerShell
 
-### Frameworks, AI, data, and infrastructure
+Frameworks, AI, data, and infrastructure
 
 <p align="center">
   <a href="https://github.com/tandpfun/skill-icons" aria-label="Skill Icons source repository"><img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,githubactions,postgres,redis,mongodb,aws,azure,gcp,terraform,ansible,cloudflare" alt="Cloud, platform, data, and delivery technologies" /></a>
 </p>
 
-| Area | Technology territory |
-|---|---|
-| **AI & data** | PyTorch, TensorFlow, Hugging Face, LLM APIs, RAG, evaluation systems, pandas, Spark, PostgreSQL, Redis, vector search |
-| **Applications & APIs** | React, Next.js, Node.js, FastAPI, Django, Flask, NestJS, Spring Boot, .NET, REST, GraphQL, event-driven services |
-| **Cloud & platform** | Linux, Docker, Kubernetes, AWS, Azure, GCP, Terraform, Ansible, GitHub Actions, observability, security controls |
-| **Architecture** | Distributed systems, asynchronous workflows, multi-agent orchestration, integration architecture, reliability engineering |
+Area
+
+Technology territory
+
+AI & data
+
+PyTorch, TensorFlow, Hugging Face, LLM APIs, RAG, evaluation systems, pandas, Spark, PostgreSQL, Redis, vector search
+
+Applications & APIs
+
+React, Next.js, Node.js, FastAPI, Django, Flask, NestJS, Spring Boot, .NET, REST, GraphQL, event-driven services
+
+Cloud & platform
+
+Linux, Docker, Kubernetes, AWS, Azure, GCP, Terraform, Ansible, GitHub Actions, observability, security controls
+
+Architecture
+
+Distributed systems, asynchronous workflows, multi-agent orchestration, integration architecture, reliability engineering
 
 <br />
 
-## How I work
+How I work
 
-**Business outcome â†’ narrow production slice â†’ instrument and verify â†’ scale from evidence**
+Business outcome → narrow production slice → instrument and verify → scale from evidence
 
-- **Outcome-first:** technology is selected for business impact, not novelty.
-- **Production-minded:** security, failure modes, observability, and operating cost are part of the design.
-- **Full-stack ownership:** product, model, data, backend, infrastructure, and delivery are one system.
-- **Evidence over claims:** working software, tests, benchmarks, reviews, and releases establish credibility.
+Outcome-first: technology is selected for business impact, not novelty.
 
-<br />
+Production-minded: security, failure modes, observability, and operating cost are part of the design.
 
-## Commercial Engagement Protocol
+Full-stack ownership: product, model, data, backend, infrastructure, and delivery are one system.
 
-> âš ï¸ **PLEASE READ BEFORE CONTACTING**
-> 
-> **Selective projects and technical partnerships only.**
-> 
-> Please include:
-> 1. What is being built
-> 2. The problem to be solved
-> 3. Defined commercial scope and deliverables
-> 4. Realistic budget and timeline
-> 5. Current project stage
-> 6. Your role and decision-making authority
-> 
-> *I only respond to defined commercial engagements with a clear path forward.*
-> 
-> - âœ• No vague networking
-> - âœ• No unpaid consulting
-> - âœ• No speculative collaborations
-> - âœ• No prolonged discussions without intent
+Evidence over claims: working software, tests, benchmarks, reviews, and releases establish credibility.
 
 <br />
 
-## Current direction
+Commercial Engagement Protocol
+
+⚠️ PLEASE READ BEFORE CONTACTING
+
+Selective projects and technical partnerships only.
+
+Please include:
+
+What is being built
+
+The problem to be solved
+
+Defined commercial scope and deliverables
+
+Realistic budget and timeline
+
+Current project stage
+
+Your role and decision-making authority
+
+I only respond to defined commercial engagements with a clear path forward.
+
+✕ No vague networking
+
+✕ No unpaid consulting
+
+✕ No speculative collaborations
+
+✕ No prolonged discussions without intent
+
+<br />
+
+Current direction
 
 Building original, production-grade AI and automation projects while contributing focused improvements to established open-source systems.
 
