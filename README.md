@@ -4,7 +4,7 @@
   <img src="./assets/header-v2.svg" width="100%" alt="Patrick Ribbsaeter — AI Systems Architect and Founding Engineer" />
 </a>
 
-<br />
+<br /><br />
 
 <a href="https://www.ribbsaeter.com/">
   <img src="./assets/action-website.svg" width="188" height="40" alt="Visit Patrick Ribbsaeter's private website" />
@@ -14,7 +14,7 @@
   <img src="./assets/action-linkedin.svg" width="188" height="40" alt="Connect with Patrick Ribbsaeter on LinkedIn" />
 </a>
 
-<br /><br />
+<br />
 
 `SWITZERLAND` &nbsp;·&nbsp; `AI SYSTEMS ARCHITECT` &nbsp;·&nbsp; `FOUNDING ENGINEER`
 
