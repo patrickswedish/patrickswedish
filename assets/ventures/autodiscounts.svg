@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="360" height="116" viewBox="0 0 360 116" role="img" aria-label="AutoDiscounts.nl">
-  <rect x=".5" y=".5" width="359" height="115" rx="16" fill="#111315" stroke="#F04B3F" stroke-opacity=".55"/>
-  <g transform="translate(22 31)" fill="none" stroke="#F04B3F" stroke-width="3"><path d="M3 34h57l-7-17H17L9 34v12h8m36 0h7V34"/><circle cx="24" cy="44" r="7"/><circle cx="49" cy="44" r="7"/></g>
-  <text x="96" y="53" fill="#F7F7F7" font-family="Arial,sans-serif" font-size="22" font-weight="800">AutoDiscounts<tspan fill="#F04B3F">.nl</tspan></text>
-  <text x="96" y="76" fill="#F04B3F" font-family="Arial,sans-serif" font-size="9" font-weight="700" letter-spacing="1.4">AUTOMOTIVE &amp; MOBILITY BENEFITS</text>
-  <text x="96" y="94" fill="#8E969E" font-family="Arial,sans-serif" font-size="9" letter-spacing="1.1">NETHERLANDS  ↗</text>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101214"/><stop offset="1" stop-color="#1B1515"/></linearGradient></defs>
+  <rect x=".5" y=".5" width="359" height="115" rx="16" fill="url(#g)" stroke="#F04B3F" stroke-opacity=".52"/>
+  <rect x="24" y="20" width="42" height="2" rx="1" fill="#F04B3F"/>
+  <text x="180" y="66" fill="#F7F7F7" font-family="Inter,Arial,sans-serif" font-size="20" font-weight="800" letter-spacing=".5" text-anchor="middle">AUTODISCOUNTS.NL</text>
 </svg>

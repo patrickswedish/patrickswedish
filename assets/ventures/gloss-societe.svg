@@ -1,8 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="360" height="116" viewBox="0 0 360 116" role="img" aria-label="Gloss Société">
-  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#19130F"/><stop offset="1" stop-color="#30231B"/></linearGradient></defs>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#14100E"/><stop offset="1" stop-color="#241B16"/></linearGradient></defs>
   <rect x=".5" y=".5" width="359" height="115" rx="16" fill="url(#g)" stroke="#D8B792" stroke-opacity=".45"/>
-  <path d="M24 25v66" stroke="#D8B792" stroke-width="2"/><circle cx="42" cy="37" r="7" fill="none" stroke="#D8B792"/><path d="M42 44v28m-10 0h20" stroke="#D8B792"/>
-  <text x="70" y="49" fill="#F6EEE5" font-family="Georgia,serif" font-size="22" letter-spacing="1">GLOSS SOCIÉTÉ</text>
-  <text x="70" y="72" fill="#D8B792" font-family="Arial,sans-serif" font-size="9" font-weight="700" letter-spacing="1.8">LUXURY BRAND TRANSFORMATION</text>
-  <text x="70" y="91" fill="#9F8B7B" font-family="Arial,sans-serif" font-size="9" letter-spacing="1.2">ATELIER  ↗</text>
+  <rect x="24" y="20" width="42" height="2" rx="1" fill="#D8B792"/>
+  <text x="180" y="66" fill="#F6EEE5" font-family="Inter,Arial,sans-serif" font-size="20" font-weight="800" letter-spacing=".5" text-anchor="middle">GLOSS SOCIÉTÉ</text>
 </svg>
