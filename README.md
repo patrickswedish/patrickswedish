@@ -71,7 +71,7 @@ I work across proprietary and open-model ecosystems, provider APIs, model hubs, 
   <a href="https://www.cerebras.ai/" aria-label="Visit Cerebras"><img src="./assets/models/cerebras.svg" width="148" height="42" alt="Cerebras" /></a>
 </p>
 
-<p align="center"><sub>Provider marks sourced from <a href="https://github.com/lobehub/lobe-icons">Lobe Icons</a> under the MIT License. All trademarks remain the property of their respective owners.</sub></p>
+<br />
 
 **Model territory:** OpenAI / ChatGPT Â· Anthropic / Claude Â· Google Gemini Â· Meta Llama Â· Hugging Face Â· Mistral AI Â· DeepSeek Â· Moonshot AI / Kimi Â· Alibaba Qwen Â· xAI / Grok Â· Cohere Â· 01.AI / Yi Â· Z.ai / GLM Â· AI21 Labs Â· MiniMax Â· Azure AI Â· AWS Bedrock Â· NVIDIA AI Â· Groq Â· Cerebras
 
@@ -98,8 +98,6 @@ The stack follows the problem. **AI expands delivery breadth; builds, tests, rev
 <p align="center">
   <a href="https://github.com/tandpfun/skill-icons" aria-label="Skill Icons source repository"><img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,githubactions,postgres,redis,mongodb,aws,azure,gcp,terraform,ansible,cloudflare" alt="Cloud, platform, data, and delivery technologies" /></a>
 </p>
-
-<p align="center"><sub>Technology marks rendered with <a href="https://github.com/tandpfun/skill-icons">Skill Icons</a> under the MIT License.</sub></p>
 
 | Area | Technology territory |
 |---|---|
