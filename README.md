@@ -5,78 +5,56 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/patrickribbsaeter/" aria-label="Connect with Patrick Ribbsaeter on LinkedIn">
-    <img src="./assets/action-linkedin.svg" width="188" height="40" alt="Connect with Patrick Ribbsaeter on LinkedIn" />
+  <a href="https://www.linkedin.com/in/patrickribbsaeter/">
+    <img src="./assets/action-linkedin.svg" width="188" height="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.patrickribbsaeter.com" aria-label="Visit Patrick Ribbsaeter's website">
-    <img src="./assets/action-website.svg" width="188" height="40" alt="Visit Patrick Ribbsaeter's website" />
+  <a href="https://www.patrickribbsaeter.com">
+    <img src="./assets/action-website.svg" width="188" height="40" alt="Website" />
   </a>
 </p>
 
 <p align="center">
-  <code>⌖ BASED IN · SWITZERLAND</code>
+  <code>⌖ SWITZERLAND</code>
   &nbsp;•&nbsp;
-  <code>$ status -- founder · Less talking. More building.</code>
+  <code>$ founder · Less talking. More building.</code>
 </p>
 
-AI systems architect. Founding engineer. Full-stack execution.
+AI systems architect · Founding engineer
 
-I build enterprise AI systems, autonomous-agent infrastructure, automation engines, internal platforms, SaaS products, and production software from interface to infrastructure.
+I build enterprise AI systems, autonomous-agent infrastructure, automation platforms, SaaS products, internal tools, and production software from interface to infrastructure.
 
-My work connects product strategy, AI agents, data, APIs, cloud systems, security, deployment, testing, optimization, and launch into one operating system for execution.
-
-From February to July 2026, I managed a pipeline of 3.7B Codex tokens to automate, debug, and execute 979 multi-step technical workflows across 80+ operational skills and 28 emerging capabilities.
-
-The value of an AI agent is proportional to the size and complexity of the tasks it can complete without human intervention.
+<p align="center">
+  <strong>3.7B Codex tokens</strong>
+  &nbsp;•&nbsp;
+  <strong>979 multi-step workflows</strong>
+  &nbsp;•&nbsp;
+  <strong>80+ operational skills</strong>
+  &nbsp;•&nbsp;
+  <strong>28 emerging capabilities</strong>
+</p>
 
 The edge is not access to AI. The edge is controlling the system that turns AI into execution.
 
-What I build
+Core capability map
 
-Capability
+<p align="center">
+  <img src="https://img.shields.io/badge/Enterprise_AI-111827?style=for-the-badge" alt="Enterprise AI" />
+  <img src="https://img.shields.io/badge/Autonomous_Agents-111827?style=for-the-badge" alt="Autonomous Agents" />
+  <img src="https://img.shields.io/badge/AI_Infrastructure-111827?style=for-the-badge" alt="AI Infrastructure" />
+  <img src="https://img.shields.io/badge/MLOps-111827?style=for-the-badge" alt="MLOps" />
+  <img src="https://img.shields.io/badge/Platform_Engineering-111827?style=for-the-badge" alt="Platform Engineering" />
+</p>
 
-Production focus
+<p align="center">
+  <img src="https://img.shields.io/badge/Workflow_Automation-111827?style=for-the-badge" alt="Workflow Automation" />
+  <img src="https://img.shields.io/badge/Full--Stack_AI-111827?style=for-the-badge" alt="Full-Stack AI" />
+  <img src="https://img.shields.io/badge/Cloud_Architecture-111827?style=for-the-badge" alt="Cloud Architecture" />
+  <img src="https://img.shields.io/badge/Data_Systems-111827?style=for-the-badge" alt="Data Systems" />
+  <img src="https://img.shields.io/badge/Design_Engineering-111827?style=for-the-badge" alt="Design Engineering" />
+</p>
 
-Enterprise AI systems
-
-Agent platforms, retrieval systems, evaluations, guardrails, model routing, memory, orchestration, and human-in-the-loop control
-
-Autonomous-agent infrastructure
-
-Multi-step execution, tool use, planning, state management, exception handling, observability, and recovery
-
-Forward-deployed engineering
-
-Production systems shaped around real users, workflows, constraints, and measurable business outcomes
-
-AI infrastructure & MLOps
-
-Model serving, inference, data pipelines, deployment systems, reliability, monitoring, privacy, and cost control
-
-Platform engineering
-
-Internal developer platforms, APIs, cloud architecture, CI/CD, infrastructure as code, access control, and secure operations
-
-Intelligent automation
-
-Workflow engines, document pipelines, integrations, CRM systems, outreach systems, dashboards, and operational automation
-
-Full-stack AI products
-
-SaaS platforms, internal tools, client portals, production websites, interfaces, backend systems, and distributed services
-
-Design engineering
-
-Luxury-caliber visual systems, editorial composition, product interfaces, interaction, motion, and production-grade digital experiences
-
-Analytics & decision systems
-
-Dashboards, reporting systems, operational intelligence, business metrics, data transformation, and executive visibility
-
-AI model and inference ecosystem
-
-I work across proprietary and open-model ecosystems, provider APIs, model hubs, retrieval stacks, and accelerated inference platforms. Models are selected by capability, reliability, latency, privacy, controllability, and operating cost—not brand loyalty.
+AI ecosystem
 
 <p align="center">
   <img src="./assets/models/openai-chatgpt.svg" width="132" height="38" alt="OpenAI and ChatGPT" />
@@ -95,186 +73,128 @@ I work across proprietary and open-model ecosystems, provider APIs, model hubs, 
   &nbsp;
   <img src="./assets/models/deepseek.svg" width="132" height="38" alt="DeepSeek" />
   &nbsp;
-  <img src="./assets/models/moonshot-kimi.svg" width="132" height="38" alt="Moonshot AI and Kimi" />
+  <img src="./assets/models/moonshot-kimi.svg" width="132" height="38" alt="Moonshot Kimi" />
   &nbsp;
   <img src="./assets/models/alibaba-qwen.svg" width="132" height="38" alt="Alibaba Qwen" />
   &nbsp;
-  <img src="./assets/models/xai-grok.svg" width="132" height="38" alt="xAI and Grok" />
+  <img src="./assets/models/xai-grok.svg" width="132" height="38" alt="xAI Grok" />
 </p>
 
 <details>
-<summary><strong>Extended model and infrastructure territory</strong></summary>
+<summary><strong>Extended AI and inference platforms</strong></summary>
 
 <br />
 
-OpenAI / ChatGPT · Anthropic / Claude · Google Gemini · Meta Llama · Hugging Face · Mistral AI · DeepSeek · Moonshot AI / Kimi · Alibaba Qwen · xAI / Grok · Cohere · 01.AI / Yi · Z.ai / GLM · AI21 Labs · MiniMax · Azure AI Foundry · AWS Bedrock · NVIDIA AI · Groq · Cerebras
+Cohere · 01.AI / Yi · Z.ai / GLM · AI21 Labs · MiniMax · Azure AI Foundry · AWS Bedrock · NVIDIA AI · Groq · Cerebras
 
 </details>
 
 Engineering stack
 
-The stack follows the problem. AI expands delivery breadth; builds, tests, reviews, benchmarks, and target-system conventions establish correctness.
-
-Core languages
-
 <p align="center">
-  <a href="https://github.com/tandpfun/skill-icons" aria-label="Skill Icons source repository">
-    <img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,react,nextjs,go,rust,cpp,cs,java,kotlin,swift,bash,powershell" alt="Core programming languages and frameworks" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,react,nextjs,go,rust,cpp,cs,java,kotlin,swift" alt="Core engineering stack" />
 </p>
 
-Primary territory: Python · TypeScript · JavaScript · Go · Rust · C · C++ · C# · Java · Kotlin · Swift · SQL · Bash · PowerShell
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,githubactions,postgres,redis,mongodb,aws,azure,gcp,terraform,ansible,cloudflare" alt="Infrastructure and platform stack" />
+</p>
 
 <details>
-<summary><strong>Extended language coverage</strong></summary>
+<summary><strong>Extended language and framework coverage</strong></summary>
 
 <br />
 
-PHP · Ruby · Scala · Elixir · Clojure · Haskell · Dart · Lua · Perl · R · MATLAB · Solidity
+PHP · Ruby · Scala · Elixir · Clojure · Haskell · Dart · Lua · Perl · R · MATLAB · Solidity · SQL · Bash · PowerShell
+
+FastAPI · Django · Flask · NestJS · Spring Boot · .NET · REST · GraphQL · event-driven services
 
 </details>
 
-AI, application, data, and infrastructure systems
-
-Domain
-
-Technology territory
-
-AI & machine learning
-
-PyTorch, TensorFlow, Hugging Face, LLM APIs, RAG, evaluation systems, embeddings, vector search, model routing, multimodal systems
-
-Agent systems
-
-Tool orchestration, planning, memory, multi-agent workflows, state machines, retries, recovery, human approval, observability
-
-Applications & APIs
-
-React, Next.js, Node.js, FastAPI, Django, Flask, NestJS, Spring Boot, .NET, REST, GraphQL, event-driven services
-
-Data systems
-
-PostgreSQL, Redis, MongoDB, pandas, Spark, data pipelines, document processing, analytics, search, structured and unstructured data
-
-Cloud & platform
-
-Linux, Docker, Kubernetes, AWS, Azure, GCP, Terraform, Ansible, Cloudflare, GitHub Actions, CI/CD
-
-Architecture
-
-Distributed systems, asynchronous workflows, integration architecture, service design, reliability engineering, secure operations
-
-Production operations
-
-Logging, tracing, monitoring, alerting, testing, benchmarking, failure analysis, deployment, scaling, cost control
+AI, data, automation, and architecture
 
 <p align="center">
-  <a href="https://github.com/tandpfun/skill-icons" aria-label="Skill Icons source repository">
-    <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,githubactions,postgres,redis,mongodb,aws,azure,gcp,terraform,ansible,cloudflare" alt="Cloud, infrastructure, platform, and data technologies" />
-  </a>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square" alt="Pinecone" />
+  <img src="https://img.shields.io/badge/RAG-111827?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/Vector_Search-111827?style=flat-square" alt="Vector Search" />
+  <img src="https://img.shields.io/badge/Multi--Agent_Systems-111827?style=flat-square" alt="Multi-Agent Systems" />
 </p>
 
-Product, automation, and platform territory
+<p align="center">
+  <img src="https://img.shields.io/badge/Distributed_Systems-111827?style=flat-square" alt="Distributed Systems" />
+  <img src="https://img.shields.io/badge/Event--Driven_Architecture-111827?style=flat-square" alt="Event-Driven Architecture" />
+  <img src="https://img.shields.io/badge/Observability-111827?style=flat-square" alt="Observability" />
+  <img src="https://img.shields.io/badge/CI%2FCD-111827?style=flat-square" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Infrastructure_as_Code-111827?style=flat-square" alt="Infrastructure as Code" />
+</p>
 
-My work spans:
+Design, motion, and generative production
 
-AI agents · workflow automation · SaaS platforms · internal tools · CRM systems · dashboards · client portals · data pipelines · APIs · outreach systems · production-grade websites
+<p align="center">
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Adobe_InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" alt="InDesign" />
+  <img src="https://img.shields.io/badge/Creative_Cloud-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white" alt="Creative Cloud" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+</p>
 
-I work across the full delivery stack:
+<p align="center">
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-111827?style=for-the-badge" alt="DaVinci Resolve" />
+  <img src="https://img.shields.io/badge/Final_Cut_Pro-111827?style=for-the-badge&logo=apple&logoColor=white" alt="Final Cut Pro" />
+  <img src="https://img.shields.io/badge/Remotion-111827?style=for-the-badge" alt="Remotion" />
+  <img src="https://img.shields.io/badge/Generative_Media-111827?style=for-the-badge" alt="Generative Media" />
+</p>
 
-strategy · architecture · product · full-stack development · automation · AI agents · APIs · deployment · testing · optimization · launch
+<details>
+<summary><strong>Creative production territory</strong></summary>
 
-Design, motion, and visual systems
+<br />
 
-I combine engineering rigor with high-end visual direction for products, interfaces, campaigns, and digital experiences.
+Figma · Adobe Firefly · Sora · Higgsfield · ComfyUI · synthetic-model workflows · luxury advertising systems · automated video pipelines · campaign asset systems · identity continuity · multi-format rendering
 
-Area
+</details>
 
-Tools and capabilities
+Analytics and business platforms
 
-Interface and product design
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets" />
+  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft 365" />
+</p>
 
-Figma, design systems, responsive UI, interaction design, component architecture, product polish
+<p align="center">
+  <img src="https://img.shields.io/badge/CRM_Systems-111827?style=flat-square" alt="CRM Systems" />
+  <img src="https://img.shields.io/badge/Dashboards-111827?style=flat-square" alt="Dashboards" />
+  <img src="https://img.shields.io/badge/Client_Portals-111827?style=flat-square" alt="Client Portals" />
+  <img src="https://img.shields.io/badge/Outreach_Systems-111827?style=flat-square" alt="Outreach Systems" />
+  <img src="https://img.shields.io/badge/Operational_Automation-111827?style=flat-square" alt="Operational Automation" />
+</p>
 
-Visual direction
+Build territory
 
-Photoshop, InDesign, Creative Cloud, Adobe Firefly, Canva, editorial systems, campaign composition
-
-Motion and video
-
-DaVinci Resolve, Final Cut Pro X, Remotion, motion systems, automated video pipelines, cinematic presentation
-
-Generative media
-
-Sora, Higgsfield, ComfyUI, synthetic-model workflows, luxury advertising systems, AI-assisted campaign production
-
-Creative infrastructure
-
-Asset pipelines, prompt systems, identity continuity, automated rendering, production templates, multi-format delivery
-
-Analytics and business systems
-
-Area
-
-Platforms and systems
-
-Analytics
-
-Power BI, Tableau, dashboards, operational reporting, executive metrics, data visualization
-
-Productivity and operations
-
-Microsoft Excel, Google Sheets, Microsoft 365, structured workflows, reporting automation
-
-Business infrastructure
-
-CRM systems, client portals, outreach systems, internal tools, operational dashboards
-
-Execution systems
-
-Workflow automation, approval flows, document pipelines, integrations, notifications, exception handling
-
-How I work
-
-Business outcome → narrow production slice → instrument and verify → scale from evidence
-
-Outcome-first: technology is selected for measurable business impact, not novelty.
-
-Production-minded: security, failure modes, observability, reliability, and operating cost are part of the design.
-
-Full-stack ownership: product, model, data, backend, infrastructure, deployment, and delivery are treated as one system.
-
-Evidence over claims: working software, tests, benchmarks, reviews, releases, and operational results establish credibility.
-
-Systems over fragments: the objective is not to add more software. It is to build better systems.
-
-Current direction
-
-Building original, production-grade AI and automation companies, products, and infrastructure while contributing focused improvements to established open-source systems.
-
-Current ventures include AI-native advertising, synthetic talent infrastructure, generative production systems, and scalable platforms designed to turn creative and operational complexity into controlled execution.
+<p align="center">
+  <strong>AI agents</strong> ·
+  <strong>workflow automation</strong> ·
+  <strong>SaaS platforms</strong> ·
+  <strong>internal tools</strong> ·
+  <strong>CRM systems</strong> ·
+  <strong>dashboards</strong> ·
+  <strong>client portals</strong> ·
+  <strong>data pipelines</strong> ·
+  <strong>APIs</strong> ·
+  <strong>production websites</strong>
+</p>
 
 Commercial engagement
 
 Selective projects and technical partnerships only.
 
-Please include:
+Defined scope · Real budget · Clear timeline · Decision-maker involvement · Direct path to execution
 
-What is being built
-
-The problem to be solved
-
-Defined commercial scope and deliverables
-
-Realistic budget and timeline
-
-Current project stage
-
-Your role and decision-making authority
-
-I respond to defined commercial engagements with a clear path to execution.
-
-No vague networking · No unpaid consulting · No speculative collaborations · No prolonged discussions without intent
+No vague networking · No unpaid consulting · No speculative collaborations
 
 <p align="center">
   <strong>Design the system. Ship the smallest complete version. Verify it. Improve from evidence.</strong>
