@@ -12,12 +12,21 @@
 </p>
 
 <p align="center">
-  <code>⌖&nbsp; BASED IN · SWITZERLAND</code>
+  <code>⌖&nbsp; BASED IN · SWITZERLAND</code> &nbsp;•&nbsp; <code>$ status -- founder · Less talking. More building.</code>
 </p>
 
 <br />
 
 I'm **Patrick Ribbsaeter**, an **AI systems architect and founding engineer** building enterprise AI systems, autonomous-agent infrastructure, automation engines, and production software from the interface to the infrastructure. My focus is high-leverage engineering: turning expensive operational problems into secure, reliable systems that can be measured, maintained, and scaled.
+
+---
+
+### 🎯 Core Thesis
+> *"The value of an AI agent is proportional to the size and complexity of the tasks it can complete without human intervention."*
+
+> *"The edge is not access to AI. The edge is controlling the system that turns AI into execution."*
+
+---
 
 <br />
 
@@ -77,6 +86,7 @@ The stack follows the problem. **AI expands delivery breadth; builds, tests, rev
 <p align="center">
   <a href="https://github.com/tandpfun/skill-icons" aria-label="Skill Icons source repository"><img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,react,nextjs,go,rust,cpp,cs,java,kotlin,swift" alt="Core product, backend, systems, and native technologies" /></a>
 </p>
+
 <p align="center">
   <a href="https://github.com/tandpfun/skill-icons" aria-label="Skill Icons source repository"><img src="https://skillicons.dev/icons?i=php,ruby,scala,elixir,clojure,haskell,dart,lua,perl,r,matlab,solidity,bash,powershell" alt="Extended language coverage" /></a>
 </p>
@@ -102,14 +112,35 @@ The stack follows the problem. **AI expands delivery breadth; builds, tests, rev
 
 ## How I work
 
-```text
-Business outcome → narrow production slice → instrument and verify → scale from evidence
-```
+**Business outcome → narrow production slice → instrument and verify → scale from evidence**
 
 - **Outcome-first:** technology is selected for business impact, not novelty.
 - **Production-minded:** security, failure modes, observability, and operating cost are part of the design.
 - **Full-stack ownership:** product, model, data, backend, infrastructure, and delivery are one system.
 - **Evidence over claims:** working software, tests, benchmarks, reviews, and releases establish credibility.
+
+<br />
+
+## Commercial Engagement Protocol
+
+> ⚠️ **PLEASE READ BEFORE CONTACTING**
+> 
+> **Selective projects and technical partnerships only.**
+> 
+> Please include:
+> 1. What is being built
+> 2. The problem to be solved
+> 3. Defined commercial scope and deliverables
+> 4. Realistic budget and timeline
+> 5. Current project stage
+> 6. Your role and decision-making authority
+> 
+> *I only respond to defined commercial engagements with a clear path forward.*
+> 
+> - ✕ No vague networking
+> - ✕ No unpaid consulting
+> - ✕ No speculative collaborations
+> - ✕ No prolonged discussions without intent
 
 <br />
 
