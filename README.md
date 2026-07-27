@@ -292,6 +292,8 @@ I work best on serious builds with a defined business problem, a real budget, ac
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=patrickswedish&amp;label=PROFILE+VIEWS&amp;color=00B8D9&amp;style=for-the-badge" alt="Patrick Ribbsaeter GitHub profile views" />
+<!-- The 1px image records page hits; the branded telemetry card is refreshed automatically. -->
+<img src="https://komarev.com/ghpvc/?username=patrickswedish&amp;style=pixel" width="1" height="1" alt="" />
+<img src="https://raw.githubusercontent.com/patrickswedish/patrickswedish/metrics/profile-views.svg" width="100%" alt="Patrick Ribbsaeter visitor telemetry — recorded GitHub profile page hits" />
 
 </div>
