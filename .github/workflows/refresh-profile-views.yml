@@ -52,12 +52,19 @@ jobs:
               (candidate for pattern in patterns if (candidate := re.search(pattern, counter_svg))),
               None,
           )
-          if not match:
+          text_counts = re.findall(
+              r'<text[^>]*>\s*([0-9][0-9,]*)\s*</text>',
+              counter_svg,
+          )
+          if match:
+              count = match.group(1)
+          elif text_counts:
+              count = text_counts[-1]
+          else:
               print("Could not extract a numeric profile-view count.", file=sys.stderr)
-              print(counter_svg[:500], file=sys.stderr)
               raise SystemExit(1)
 
-          print(match.group(1).replace(",", ""))
+          print(count.replace(",", ""))
           PY
           )"
 
