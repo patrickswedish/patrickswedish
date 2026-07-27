@@ -290,4 +290,8 @@ I work best on serious builds with a defined business problem, a real budget, ac
 
 <img src="./assets/closing-banner.svg" width="100%" alt="Design, ship, verify, compound" />
 
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=patrickswedish&amp;label=PROFILE+VIEWS&amp;color=00B8D9&amp;style=for-the-badge" alt="Patrick Ribbsaeter GitHub profile views" />
+
 </div>
