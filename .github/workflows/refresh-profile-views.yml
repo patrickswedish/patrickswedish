@@ -43,9 +43,18 @@ jobs:
           with urllib.request.urlopen(request, timeout=20) as response:
               counter_svg = response.read().decode("utf-8")
 
-          match = re.search(r'aria-label="[^"]*?:\s*([0-9][0-9,]*)"', counter_svg)
+          patterns = (
+              r'aria-label="[^"]*?:\s*([0-9][0-9,]*)"',
+              r'<text[^>]*font-weight="bold"[^>]*>([0-9][0-9,]*)</text>',
+              r'<title>[^<]*?([0-9][0-9,]*)</title>',
+          )
+          match = next(
+              (candidate for pattern in patterns if (candidate := re.search(pattern, counter_svg))),
+              None,
+          )
           if not match:
               print("Could not extract a numeric profile-view count.", file=sys.stderr)
+              print(counter_svg[:500], file=sys.stderr)
               raise SystemExit(1)
 
           print(match.group(1).replace(",", ""))
