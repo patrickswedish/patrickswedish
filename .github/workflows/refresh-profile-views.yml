@@ -1,0 +1,96 @@
+name: Refresh profile visitor telemetry
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-visitor-telemetry
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Check out telemetry branch
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          ref: metrics
+          fetch-depth: 1
+
+      - name: Refresh factual page-hit count
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          counter_svg="$(curl --fail --silent --show-error --retry 3 \
+            'https://komarev.com/ghpvc/?username=patrickswedish&label=PROFILE+VIEWS&style=flat-square')"
+
+          raw_count="$(printf '%s' "$counter_svg" \
+            | sed -n 's/.*aria-label="PROFILE VIEWS: \([0-9][0-9]*\)".*/\1/p')"
+
+          if [[ ! "$raw_count" =~ ^[0-9]+$ ]]; then
+            echo "Could not extract a numeric profile-view count."
+            exit 1
+          fi
+
+          current_offset="$(sed -n 's/.*refresh-offset: \([0-9][0-9]*\).*/\1/p' profile-views.svg)"
+          if [[ ! "$current_offset" =~ ^[0-9]+$ ]]; then
+            echo "Could not read the refresh offset."
+            exit 1
+          fi
+
+          next_offset=$((current_offset + 1))
+          visible_count=$((raw_count - next_offset))
+          if (( visible_count < 0 )); then
+            visible_count=0
+          fi
+
+          padded_count="$(printf '%06d' "$visible_count")"
+          updated_at="$(date -u +'%Y-%m-%d %H:%M UTC')"
+
+          python3 - "$next_offset" "$visible_count" "$padded_count" "$updated_at" <<'PY'
+          from pathlib import Path
+          import re
+          import sys
+
+          path = Path("profile-views.svg")
+          svg = path.read_text(encoding="utf-8")
+          offset, count, padded, updated = sys.argv[1:]
+
+          replacements = (
+              (r"refresh-offset: \d+", f"refresh-offset: {offset}"),
+              (r"(<desc id=\"desc\">).*?(</desc>)", rf"\g<1>{count} recorded GitHub profile page hits.\g<2>"),
+              (r"(<text id=\"view-count\"[^>]*>).*?(</text>)", rf"\g<1>{padded}\g<2>"),
+              (r"(<text id=\"updated-at\"[^>]*>).*?(</text>)", rf"\g<1>SYNCED {updated}\g<2>"),
+          )
+
+          for pattern, replacement in replacements:
+              svg, changed = re.subn(pattern, replacement, svg, count=1)
+              if changed != 1:
+                  raise SystemExit(f"Expected exactly one match for {pattern!r}, got {changed}")
+
+          path.write_text(svg, encoding="utf-8")
+          PY
+
+      - name: Publish refreshed telemetry
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          if git diff --quiet -- profile-views.svg; then
+            echo "Telemetry is already current."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-views.svg
+          git commit --amend --no-edit
+          git push --force-with-lease origin HEAD:metrics
