@@ -19,7 +19,7 @@ jobs:
 
     steps:
       - name: Check out telemetry branch
-        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
         with:
           ref: metrics
           fetch-depth: 1
@@ -29,16 +29,28 @@ jobs:
         run: |
           set -euo pipefail
 
-          counter_svg="$(curl --fail --silent --show-error --retry 3 \
-            'https://komarev.com/ghpvc/?username=patrickswedish&label=PROFILE+VIEWS&style=flat-square')"
+          raw_count="$(python3 - <<'PY'
+          import re
+          import sys
+          import urllib.request
 
-          raw_count="$(printf '%s' "$counter_svg" \
-            | sed -n 's/.*aria-label="PROFILE VIEWS: \([0-9][0-9]*\)".*/\1/p')"
+          url = (
+              "https://komarev.com/ghpvc/"
+              "?username=patrickswedish&label=PROFILE%20VIEWS&style=flat-square"
+          )
+          request = urllib.request.Request(url, headers={"User-Agent": "GitHub-Actions"})
 
-          if [[ ! "$raw_count" =~ ^[0-9]+$ ]]; then
-            echo "Could not extract a numeric profile-view count."
-            exit 1
-          fi
+          with urllib.request.urlopen(request, timeout=20) as response:
+              counter_svg = response.read().decode("utf-8")
+
+          match = re.search(r'aria-label="[^"]*?:\s*([0-9][0-9,]*)"', counter_svg)
+          if not match:
+              print("Could not extract a numeric profile-view count.", file=sys.stderr)
+              raise SystemExit(1)
+
+          print(match.group(1).replace(",", ""))
+          PY
+          )"
 
           current_offset="$(sed -n 's/.*refresh-offset: \([0-9][0-9]*\).*/\1/p' profile-views.svg)"
           if [[ ! "$current_offset" =~ ^[0-9]+$ ]]; then
