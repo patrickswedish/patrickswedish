@@ -292,6 +292,12 @@ I work best on serious builds with a defined business problem, a real budget, ac
 
 <br /><br />
 
+<a href="https://www.buymeacoffee.com/patrickribbsaeter">
+  <img src="https://img.buymeacoffee.com/button-api/?text=Support%20my%20open-source%20work&amp;emoji=%E2%98%95&amp;slug=patrickribbsaeter&amp;button_colour=FFDD00&amp;font_colour=000000&amp;font_family=Poppins&amp;outline_colour=000000&amp;coffee_colour=ffffff" height="50" alt="Support Patrick Ribbsaeter's open-source work on Buy Me a Coffee" />
+</a>
+
+<br /><br />
+
 <!-- The 1px image records page hits; the branded telemetry card is refreshed automatically. -->
 <img src="https://komarev.com/ghpvc/?username=patrickswedish&amp;style=pixel" width="1" height="1" alt="" />
 <img src="https://raw.githubusercontent.com/patrickswedish/patrickswedish/metrics/profile-views.svg" width="100%" alt="Patrick Ribbsaeter visitor telemetry — recorded GitHub profile page hits" />
