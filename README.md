@@ -203,11 +203,10 @@ Automated systems for image, video, synthetic media, identity continuity, and hi
 <a href="https://windsurf.com/" title="Windsurf"><img src="https://windsurf.com/favicon.svg" width="52" height="52" alt="Windsurf IDE" /></a>&nbsp;&nbsp;
 <a href="https://www.jetbrains.com/idea/" title="IntelliJ IDEA"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" width="52" height="52" alt="IntelliJ IDEA" /></a>&nbsp;&nbsp;
 <a href="https://developer.android.com/studio" title="Android Studio"><img src="https://developer.android.com/static/studio/images/studio-icon.svg" width="52" height="52" alt="Android Studio" /></a>&nbsp;&nbsp;
-<a href="https://antigravity.google/" title="Google Antigravity"><img src="https://antigravity.google/assets/image/antigravity-logo.png" width="52" height="52" alt="Google Antigravity" /></a>&nbsp;&nbsp;
-<a href="https://antigravity.google/product/antigravity-ide" title="Antigravity IDE"><img src="https://antigravity.google/assets/image/antigravity-logo.png" width="52" height="52" alt="Antigravity IDE" /></a>
+<a href="https://antigravity.google/" title="Google Antigravity"><img src="https://antigravity.google/assets/image/antigravity-logo.png" width="52" height="52" alt="Google Antigravity" /></a>
 
 <br />
-<sub><strong>Cursor</strong> · <strong>Windsurf</strong> · <strong>IntelliJ IDEA</strong> · <strong>Android Studio</strong> · <strong>Google Antigravity</strong> · <strong>Antigravity IDE</strong></sub>
+<sub><strong>Cursor</strong> · <strong>Windsurf</strong> · <strong>IntelliJ IDEA</strong> · <strong>Android Studio</strong> · <strong>Google Antigravity</strong></sub>
 
 </div>
 
@@ -222,7 +221,7 @@ Automated systems for image, video, synthetic media, identity continuity, and hi
 | **Infrastructure** | Linux · Docker · Kubernetes · AWS · Azure · Google Cloud · Terraform · Ansible · CI/CD · distributed systems · observability · reliability engineering |
 | **Data** | PostgreSQL · Redis · MongoDB · pandas · Apache Spark · Power BI · Tableau · Excel · Google Sheets |
 | **Production** | Figma · Adobe Creative Cloud · Canva · DaVinci Resolve · Final Cut Pro · Remotion · Sora · Higgsfield · ComfyUI · FFmpeg |
-| **Engineering environment** | Cursor · Windsurf · IntelliJ IDEA · Android Studio · Google Antigravity · Antigravity IDE · OpenAI Codex · Claude Code · GitHub CLI · PowerShell |
+| **Engineering environment** | Cursor · Windsurf · IntelliJ IDEA · Android Studio · Google Antigravity · OpenAI Codex · Claude Code · GitHub CLI · PowerShell |
 | **Systems** | AI agents · SaaS platforms · automation engines · CRM systems · dashboards · client portals · APIs · outreach systems · production websites |
 
 <br />
