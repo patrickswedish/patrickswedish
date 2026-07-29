@@ -203,10 +203,9 @@ Automated systems for image, video, synthetic media, identity continuity, and hi
 <a href="https://windsurf.com/" title="Windsurf"><img src="https://windsurf.com/favicon.svg" width="52" height="52" alt="Windsurf IDE" /></a>&nbsp;&nbsp;
 <a href="https://www.jetbrains.com/idea/" title="IntelliJ IDEA"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" width="52" height="52" alt="IntelliJ IDEA" /></a>&nbsp;&nbsp;
 <a href="https://developer.android.com/studio" title="Android Studio"><img src="https://developer.android.com/static/studio/images/studio-icon.svg" width="52" height="52" alt="Android Studio" /></a>&nbsp;&nbsp;
-<a href="https://antigravity.google/" title="Google Antigravity"><img src="https://antigravity.google/assets/image/antigravity-logo.png" width="52" height="52" alt="Google Antigravity" /></a>
-
-<br />
-<sub><strong>Cursor</strong> · <strong>Windsurf</strong> · <strong>IntelliJ IDEA</strong> · <strong>Android Studio</strong> · <strong>Google Antigravity</strong></sub>
+<a href="https://antigravity.google/" title="Google Antigravity"><img src="https://antigravity.google/assets/image/antigravity-logo.png" width="52" height="52" alt="Google Antigravity" /></a>&nbsp;&nbsp;
+<a href="https://developers.openai.com/codex/" title="OpenAI Codex"><img src="https://developers.openai.com/favicon.svg" width="52" height="52" alt="OpenAI Codex" /></a>&nbsp;&nbsp;
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://raw.githubusercontent.com/microsoft/vscode/main/resources/linux/code.png" width="52" height="52" alt="Visual Studio Code" /></a>
 
 </div>
 
