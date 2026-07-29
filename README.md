@@ -204,7 +204,7 @@ Automated systems for image, video, synthetic media, identity continuity, and hi
 | **Infrastructure** | Linux · Docker · Kubernetes · AWS · Azure · Google Cloud · Terraform · Ansible · CI/CD · distributed systems · observability · reliability engineering |
 | **Data** | PostgreSQL · Redis · MongoDB · pandas · Apache Spark · Power BI · Tableau · Excel · Google Sheets |
 | **Production** | Figma · Adobe Creative Cloud · Canva · DaVinci Resolve · Final Cut Pro · Remotion · Sora · Higgsfield · ComfyUI · FFmpeg |
-| **Engineering environment** | Cursor · Android Studio · OpenAI Codex · Claude Code · GitHub CLI · PowerShell |
+| **Engineering environment** | Cursor · Windsurf · IntelliJ IDEA · Android Studio · Google Antigravity · Antigravity IDE · OpenAI Codex · Claude Code · GitHub CLI · PowerShell |
 | **Systems** | AI agents · SaaS platforms · automation engines · CRM systems · dashboards · client portals · APIs · outreach systems · production websites |
 
 <br />
