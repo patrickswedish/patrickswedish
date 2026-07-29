@@ -195,6 +195,24 @@ Automated systems for image, video, synthetic media, identity continuity, and hi
 
 <br />
 
+<div align="center">
+
+### AI-native development environment
+
+<a href="https://cursor.com/" title="Cursor"><img src="https://www.cursor.com/brand/icon.svg" width="52" height="52" alt="Cursor IDE" /></a>&nbsp;&nbsp;
+<a href="https://windsurf.com/" title="Windsurf"><img src="https://windsurf.com/favicon.svg" width="52" height="52" alt="Windsurf IDE" /></a>&nbsp;&nbsp;
+<a href="https://www.jetbrains.com/idea/" title="IntelliJ IDEA"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" width="52" height="52" alt="IntelliJ IDEA" /></a>&nbsp;&nbsp;
+<a href="https://developer.android.com/studio" title="Android Studio"><img src="https://developer.android.com/static/studio/images/studio-icon.svg" width="52" height="52" alt="Android Studio" /></a>&nbsp;&nbsp;
+<a href="https://antigravity.google/" title="Google Antigravity"><img src="https://antigravity.google/assets/image/antigravity-logo.png" width="52" height="52" alt="Google Antigravity" /></a>&nbsp;&nbsp;
+<a href="https://antigravity.google/product/antigravity-ide" title="Antigravity IDE"><img src="https://antigravity.google/assets/image/antigravity-logo.png" width="52" height="52" alt="Antigravity IDE" /></a>
+
+<br />
+<sub><strong>Cursor</strong> · <strong>Windsurf</strong> · <strong>IntelliJ IDEA</strong> · <strong>Android Studio</strong> · <strong>Google Antigravity</strong> · <strong>Antigravity IDE</strong></sub>
+
+</div>
+
+<br />
+
 ### Extended capability map
 
 | Domain | Capabilities |
