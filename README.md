@@ -91,6 +91,7 @@ Scoped contributions built around existing architecture, explicit invariants, re
 
 | Project | Engineering focus | Status |
 |---|---|---|
+| **TheBushidoCollective Han** | Windows project-path slug compatibility with Claude Code conventions, including transcript lookup and reverse conversion | **Merged · [PR #105](https://github.com/TheBushidoCollective/han/pull/105)** |
 | **Apache DataFusion** | Execution-layer schema conformance across in-memory execution and aggregation, including recursive nested Arrow Struct/List/Union adaptation | **Merged · [PR #24394](https://github.com/apache/datafusion/pull/24394)** |
 | **Meta Velox** | TopNRowNumber ordering correctness across in-memory and spilled execution paths | **Merged · [PR #18529](https://github.com/facebookincubator/velox/pull/18529)** |
 | **LLVM** | X86 lowering for non-power-of-two vector integer division while preserving full-lane vectorization | **Merged · [PR #215076](https://github.com/llvm/llvm-project/pull/215076)** |
