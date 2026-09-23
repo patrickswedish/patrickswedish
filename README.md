@@ -2,11 +2,11 @@
 
 # Patrick Ribbsaeter
 
-### Systems Engineer · Founder · Entrepreneur
+### Founder · Systems Engineer · AI Systems Architect
 
 **Systems. Intelligence. Product. Business.**
 
-Building across distributed systems, AI infrastructure, compilers, low-latency software, agentic automation, and production products — backed by hands-on experience building businesses across technology, computer retail, fashion, e-commerce, websites, media, marketing, branding, sales, and digital execution.
+Building and deploying across distributed systems, AI infrastructure, compilers and runtimes, concurrency, low-latency software, agentic systems, and production engineering.
 
 **AI-accelerated execution. Human-directed judgment.**
 
@@ -28,83 +28,66 @@ Building across distributed systems, AI infrastructure, compilers, low-latency s
 
 ## Operating profile
 
-A cross-disciplinary builder operating at the intersection of **systems engineering, AI, product, and business**.
+A cross-disciplinary founder and systems engineer operating at the intersection of **systems engineering, AI, product, and business**.
 
-Strongest at entering unfamiliar systems quickly, isolating the real failure mode, identifying the execution path and architectural invariant, directing agents and automation, validating edge cases, and shipping minimal durable corrections with deterministic regression coverage.
+Strong in unfamiliar systems: tracing execution behavior to the actual failure mode, identifying the architectural invariant, directing agents and automation, validating edge cases, and shipping the smallest durable correction with deterministic regression coverage.
 
-The commercial background matters as much as the technical one. Experience across offline and online businesses, retail, fashion, e-commerce, media, marketing, branding, sales, websites, and technology provides the context to connect architecture to customers, positioning, distribution, monetization, and execution.
+AI functions as part of the engineering system — accelerating research, codebase exploration, implementation, testing, orchestration, and deployment while keeping architecture, tradeoffs, review interpretation, and final decisions human-directed.
 
-AI is used as an engineering and business multiplier — accelerating research, implementation, validation, orchestration, and delivery while keeping problem selection, architecture, tradeoffs, review interpretation, and final decisions human-directed.
+The commercial foundation spans technology, computer retail, fashion, e-commerce, websites, media, marketing, branding, sales, and digital products. Engineering is approached from an operator's perspective: software as infrastructure for building, operating, automating, and scaling real businesses.
+
+**Industry is not the constraint.** The same systems and AI capabilities apply across technology, financial services and banking, healthcare, real estate, retail, commerce, media, and other complex operating environments.
 
 ---
 
-## What I build
-
-<table>
-<tr>
-<td width="50%" valign="top">
+## What gets built
 
 ### Systems engineering
 
 Distributed systems, backend architecture, concurrency, memory ownership, low-latency runtimes, compiler/runtime behavior, performance, reliability, and production debugging.
 
-`DISTRIBUTED SYSTEMS` `RUNTIMES` `COMPILERS` `PERFORMANCE` `RELIABILITY`
-
-</td>
-<td width="50%" valign="top">
+`DISTRIBUTED SYSTEMS` `RUNTIMES` `COMPILERS` `CONCURRENCY` `PERFORMANCE`
 
 ### Agentic systems
 
-Production AI agents, tool-using workflows, orchestration, MCP integrations, model/API integration, human-in-the-loop execution, evaluation, retrieval, and automation.
+Production AI agents, tool-using workflows, orchestration, MCP integrations, model/API integration, human-directed execution, evaluation, retrieval, and automation.
 
 `AGENTS` `MCP` `ORCHESTRATION` `AUTOMATION` `TOOL USE`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### Product systems
 
-### Product engineering
-
-From architecture and APIs to SaaS products, internal platforms, deployment, observability, analytics, billing, and operational workflows.
+Architecture, APIs, SaaS products, internal platforms, deployment, observability, analytics, billing, and operational workflows.
 
 `PRODUCT SYSTEMS` `APIs` `SAAS` `CLOUD` `DEPLOYMENT`
 
-</td>
-<td width="50%" valign="top">
-
 ### Business building
 
-Founder-led product strategy, business development, sales, positioning, branding, marketing, digital commerce, and go-to-market execution — connecting technical capability to real commercial outcomes.
+Founder-led product strategy, business development, sales, positioning, branding, marketing, digital commerce, and go-to-market execution.
 
-`FOUNDER` `PRODUCT` `GTM` `SALES` `BRAND` `BUSINESS`
-
-</td>
-</tr>
-</table>
+`FOUNDER` `PRODUCT` `GTM` `SALES` `BUSINESS`
 
 ---
 
 ## Selected upstream engineering
 
-Scoped contributions built around existing architecture, explicit invariants, regression coverage, and repository-native conventions.
+Substantive contributions to established production codebases, working within existing architecture, repository conventions, explicit invariants, review feedback, and regression requirements.
 
 | Project | Engineering focus | Status |
 |---|---|---|
-| **TheBushidoCollective Han** | Windows project-path slug compatibility with Claude Code conventions, including transcript lookup and reverse conversion | **Merged · [PR #105](https://github.com/TheBushidoCollective/han/pull/105)** |
 | **Apache DataFusion** | Execution-layer schema conformance across in-memory execution and aggregation, including recursive nested Arrow Struct/List/Union adaptation | **Merged · [PR #24394](https://github.com/apache/datafusion/pull/24394)** |
-| **Meta Velox** | TopNRowNumber ordering correctness across in-memory and spilled execution paths | **Merged · [PR #18529](https://github.com/facebookincubator/velox/pull/18529)** |
 | **LLVM** | X86 lowering for non-power-of-two vector integer division while preserving full-lane vectorization | **Merged · [PR #215076](https://github.com/llvm/llvm-project/pull/215076)** |
+| **Meta Velox** | TopNRowNumber ordering correctness across in-memory and spilled execution paths | **Merged · [PR #18529](https://github.com/facebookincubator/velox/pull/18529)** |
 | **Microsoft Agent Governance Toolkit** | Fail-closed approval-chain correctness for zero-required-stage configurations | **Merged · [PR #3448](https://github.com/microsoft/agent-governance-toolkit/pull/3448)** |
-| **Microsoft TypeSpec** | Playground state synchronization; prevented stale Monaco callbacks from overwriting newly loaded sample configuration | **Merged · [PR #11660](https://github.com/microsoft/typespec/pull/11660)** |
-| **Redpanda** | RPC transport memory ownership so backpressure follows queued/send-buffer lifetime rather than timed-out response futures | **Open · [PR #31594](https://github.com/redpanda-data/redpanda/pull/31594)** |
+| **Microsoft TypeSpec** | Playground state synchronization and deterministic regression coverage | **Merged · [PR #11660](https://github.com/microsoft/typespec/pull/11660)** |
+| **TheBushidoCollective Han** | Windows project-path compatibility with Claude Code conventions | **Merged · [PR #105](https://github.com/TheBushidoCollective/han/pull/105)** |
+| **Redpanda** | RPC transport memory ownership and backpressure behavior | **Open · [PR #31594](https://github.com/redpanda-data/redpanda/pull/31594)** |
 | **Supabase Supavisor** | PostgreSQL cancellation synchronization across backend reuse | **Open · [PR #1149](https://github.com/supabase/supavisor/pull/1149)** |
-| **Microsoft Pyright** | Inherited asymmetric descriptor detection across effective `__get__` / `__set__` MRO behavior | **Open · [PR #11605](https://github.com/microsoft/pyright/pull/11605)** |
-| **Vercel Next.js** | Segment-cache navigation failure recovery with full-page fallback while preserving requested URL and navigation intent | **Open · [PR #97815](https://github.com/vercel/next.js/pull/97815)** |
+| **Microsoft Pyright** | Inherited asymmetric descriptor detection across effective MRO behavior | **Open · [PR #11605](https://github.com/microsoft/pyright/pull/11605)** |
+| **Vercel Next.js** | Segment-cache navigation recovery with full-page fallback | **Open · [PR #97815](https://github.com/vercel/next.js/pull/97815)** |
 
-Additional upstream work spans **Meta Pyrefly, iCalendar, Vercel AI SDK, Claude Agent SDK ecosystems, Docker, JAX, Cloudflare Workers, Solana Web3.js**, and other production-grade systems.
+Additional upstream work spans **Meta Pyrefly, Google ADK, OpenAI Python, Ethereum go-ethereum, Bitcoin Core, iCalendar, Vercel AI SDK, Claude Agent SDK ecosystems, Docker, JAX, Cloudflare Workers, Solana Web3.js**, and other production systems.
 
-> Open-source contributions are independent upstream engineering work and do not imply employment, partnership, endorsement, or client relationships with the projects or organizations listed above.
+> Independent upstream engineering. Contributions do not imply employment, partnership, endorsement, or client relationships with the organizations listed above.
 
 ---
 
@@ -123,13 +106,11 @@ The objective is not maximum code output. It is the **smallest correct change th
 
 ---
 
-## Commercial operating model
+## Operating model
 
-Technical depth is paired with founder-level commercial context: understanding not only how a system works, but what should be built, why it matters, how it reaches users, how it creates value, and how to execute without unnecessary complexity.
+Technical depth is paired with founder-level commercial context: understanding what should be built, why it matters, how it reaches users, how it creates value, and how to execute without unnecessary complexity.
 
-Open to **selective projects, founder collaborations, brands, and ambitious companies** with real budgets, clear decision-making, and urgency to execute — particularly where the problem is difficult, the ambition is high, and there is no artificial ceiling on scope.
-
----
+Open to **selective projects, founder collaborations, and technically ambitious companies** with real budgets, clear decision-making, and urgency to execute — particularly where the problem is difficult and there is no artificial ceiling on scope or industry.
 
 <div align="center">
 
