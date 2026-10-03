@@ -1,6 +1,8 @@
 <div align="center">
 
-# Patrick Ribbsaeter
+<img src="./assets/header-v2.svg" width="100%" alt="Patrick Ribbsaeter — Principal Systems Consultant & Founder" />
+
+<br/><br/>
 
 ### Principal Systems Consultant & Founder · Systems Engineering · AI Infrastructure
 
@@ -9,6 +11,8 @@
 Building and deploying across distributed systems, AI infrastructure, compilers and runtimes, concurrency, low-latency software, agentic systems, and production engineering.
 
 **AI-accelerated execution. Human-directed judgment.**
+
+<br/>
 
 <a href="https://www.ribbsaeter.com/">
   <img src="./assets/action-website.svg" width="188" height="40" alt="Patrick Ribbsaeter" />
@@ -72,23 +76,23 @@ Founder-led product strategy, business development, sales, positioning, branding
 
 Substantive contributions to established production codebases, working within existing architecture, repository conventions, explicit invariants, review feedback, and regression requirements.
 
-| Project | Engineering focus | Status |
-|---|---|---|
-| **Valkey** | Cluster key-slot resolution & client cache validation for commands touching arbitrary keys | **Merged · [PR #4424](https://github.com/valkey-io/valkey/pull/4424)** |
-| **Meta Velox** | TopNRowNumber in-memory rank ordering correctness & partition stream parity | **Merged · [PR #18529](https://github.com/facebookincubator/velox/pull/18529)** |
-| **LLVM** | X86 SelectionDAG non-power-of-two vector integer division vectorization & lowering | **Merged · [PR #215076](https://github.com/llvm/llvm-project/pull/215076)** |
-| **Apache DataFusion** | Execution-layer schema conformance across in-memory execution and aggregation, including recursive nested Arrow Struct/List/Union adaptation | **Shipped · [PR #24394](https://github.com/apache/datafusion/pull/24394)** |
-| **Microsoft Agent Governance Toolkit** | Fail-closed approval-chain correctness for zero-required-stage configurations | **Merged · [PR #3448](https://github.com/microsoft/agent-governance-toolkit/pull/3448)** |
-| **Microsoft TypeSpec** | Playground state synchronization and deterministic regression coverage | **Merged · [PR #11660](https://github.com/microsoft/typespec/pull/11660)** |
-| **TheBushidoCollective Han** | Windows project-path compatibility with Claude Code conventions | **Merged · [PR #105](https://github.com/TheBushidoCollective/han/pull/105)** |
-| **Microsoft Pyright** | Inherited asymmetric descriptor detection across effective MRO behavior | **4 Approvals · Mergeable · [PR #11605](https://github.com/microsoft/pyright/pull/11605)** |
-| **Cloudflare Workers SDK** | Raw TCP socket streaming & backpressure handling for rejected WebSocket upgrades | **All CI Green · Mergeable · [PR #15205](https://github.com/cloudflare/workers-sdk/pull/15205)** |
-| **Hugging Face Diffusers** | Deterministic negative condition scale & guidance parameterization | **Review Addressed · Tests Green · [PR #14481](https://github.com/huggingface/diffusers/pull/14481)** |
-| **Web3.py (Ethereum)** | Async socket teardown lifecycle & deterministic future regression harness | **Review Addressed · Tests Green · [PR #3872](https://github.com/ApeWorX/web3.py/pull/3872)** |
-| **ClickHouse** | Secondary query analyzer & parallel replicas distributed execution metadata alignment | **Review Addressed · [PR #114954](https://github.com/ClickHouse/ClickHouse/pull/114954)** |
-| **Redpanda** | RPC transport memory ownership and backpressure behavior | **Open · [PR #31594](https://github.com/redpanda-data/redpanda/pull/31594)** |
-| **Supabase Supavisor** | PostgreSQL cancellation synchronization across backend reuse | **Open · [PR #1149](https://github.com/supabase/supavisor/pull/1149)** |
-| **Vercel Next.js** | Segment-cache navigation recovery with full-page fallback | **Open · [PR #97815](https://github.com/vercel/next.js/pull/97815)** |
+| Project | Domain & Stack | Engineering Focus | Status |
+|---|---|---|---|
+| **Valkey** | Distributed Storage · C99 | Cluster key-slot resolution & client cache validation for commands touching arbitrary keys | **Merged · [PR #4424](https://github.com/valkey-io/valkey/pull/4424)** |
+| **Meta Velox** | Vectorized Kernels · C++20 | TopNRowNumber in-memory rank ordering correctness & partition stream parity | **Merged · [PR #18529](https://github.com/facebookincubator/velox/pull/18529)** |
+| **LLVM** | Compiler Backend · C++ | X86 SelectionDAG non-power-of-two vector integer division vectorization & lowering | **Merged · [PR #215076](https://github.com/llvm/llvm-project/pull/215076)** |
+| **Apache DataFusion** | Query Engine · Rust | Execution-layer schema conformance across in-memory execution and aggregation (nested Struct/List/Union) | **Shipped · [PR #24394](https://github.com/apache/datafusion/pull/24394)** |
+| **Microsoft Agent Governance** | AI Governance · Python | Fail-closed approval-chain correctness for zero-required-stage configurations | **Merged · [PR #3448](https://github.com/microsoft/agent-governance-toolkit/pull/3448)** |
+| **Microsoft TypeSpec** | Compiler Tooling · TypeScript | Playground state synchronization and deterministic regression coverage | **Merged · [PR #11660](https://github.com/microsoft/typespec/pull/11660)** |
+| **TheBushidoCollective Han** | CLI Tooling · Rust | Windows project-path compatibility with Claude Code slug conventions | **Merged · [PR #105](https://github.com/TheBushidoCollective/han/pull/105)** |
+| **Microsoft Pyright** | Type Evaluator · TypeScript | Inherited asymmetric descriptor detection across effective MRO behavior | **4 Approvals · Mergeable · [PR #11605](https://github.com/microsoft/pyright/pull/11605)** |
+| **Cloudflare Workers SDK** | Edge Runtime · TypeScript | Raw TCP socket streaming & backpressure handling for rejected WebSocket upgrades | **All CI Green · Mergeable · [PR #15205](https://github.com/cloudflare/workers-sdk/pull/15205)** |
+| **Hugging Face Diffusers** | Generative Models · Python | Deterministic negative condition scale & guidance parameterization | **Review Addressed · Tests Green · [PR #14481](https://github.com/huggingface/diffusers/pull/14481)** |
+| **Web3.py (Ethereum)** | Blockchain Client · Python | Async socket teardown lifecycle & deterministic future regression harness | **Review Addressed · Tests Green · [PR #3872](https://github.com/ApeWorX/web3.py/pull/3872)** |
+| **ClickHouse** | Analytical DB · C++ | Secondary query analyzer & parallel replicas distributed execution metadata alignment | **Review Addressed · [PR #114954](https://github.com/ClickHouse/ClickHouse/pull/114954)** |
+| **Redpanda** | Streaming Storage · C++20 | RPC transport memory ownership and backpressure behavior | **Open · [PR #31594](https://github.com/redpanda-data/redpanda/pull/31594)** |
+| **Supabase Supavisor** | Connection Pooler · Elixir | PostgreSQL cancellation synchronization across backend reuse | **Open · [PR #1149](https://github.com/supabase/supavisor/pull/1149)** |
+| **Vercel Next.js** | Web Framework · TS/Rust | Segment-cache navigation recovery with full-page fallback | **Open · [PR #97815](https://github.com/vercel/next.js/pull/97815)** |
 
 Additional upstream work spans **Meta Pyrefly, Google ADK, OpenAI Python, Ethereum go-ethereum, Bitcoin Core, iCalendar, Vercel AI SDK, Claude Agent SDK ecosystems, Docker, JAX, Cloudflare Workers, Solana Web3.js**, and other production systems.
 
@@ -117,7 +121,13 @@ Technical depth is paired with founder-level commercial context: understanding w
 
 Open to **selective projects, founder collaborations, and technically ambitious companies** with real budgets, clear decision-making, and urgency to execute — particularly where the problem is difficult and there is no artificial ceiling on scope or industry.
 
+<br/>
+
 <div align="center">
+
+<img src="./assets/closing-banner.svg" width="100%" alt="Design · Ship · Verify · Compound" />
+
+<br/><br/>
 
 ### Less talking. More building.
 
