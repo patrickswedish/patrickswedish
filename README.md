@@ -2,7 +2,7 @@
 
 # Patrick Ribbsaeter
 
-### Founder · Systems Engineer · AI Systems Architect
+### Principal Systems Consultant & Founder · Systems Engineering · AI Infrastructure
 
 **Systems. Intelligence. Product. Business.**
 
@@ -28,9 +28,9 @@ Building and deploying across distributed systems, AI infrastructure, compilers 
 
 ## Operating profile
 
-A cross-disciplinary founder and systems engineer operating at the intersection of **systems engineering, AI, product, and business**.
+A cross-disciplinary founder, principal consultant, and systems engineer operating at the intersection of **systems engineering, AI, product, and business**.
 
-Strong in unfamiliar systems: tracing execution behavior to the actual failure mode, identifying the architectural invariant, directing agents and automation, validating edge cases, and shipping the smallest durable correction with deterministic regression coverage.
+Strong in unfamiliar systems: tracing execution behavior to the actual failure mode, identifying the architectural invariant, directing heavy-context AI orchestration and automation, validating edge cases, and shipping the smallest durable correction with deterministic regression coverage.
 
 AI functions as part of the engineering system — accelerating research, codebase exploration, implementation, testing, orchestration, and deployment while keeping architecture, tradeoffs, review interpretation, and final decisions human-directed.
 
@@ -74,15 +74,20 @@ Substantive contributions to established production codebases, working within ex
 
 | Project | Engineering focus | Status |
 |---|---|---|
-| **Apache DataFusion** | Execution-layer schema conformance across in-memory execution and aggregation, including recursive nested Arrow Struct/List/Union adaptation | **Merged · [PR #24394](https://github.com/apache/datafusion/pull/24394)** |
-| **LLVM** | X86 lowering for non-power-of-two vector integer division while preserving full-lane vectorization | **Merged · [PR #215076](https://github.com/llvm/llvm-project/pull/215076)** |
-| **Meta Velox** | TopNRowNumber ordering correctness across in-memory and spilled execution paths | **Merged · [PR #18529](https://github.com/facebookincubator/velox/pull/18529)** |
+| **Valkey** | Cluster key-slot resolution & client cache validation for commands touching arbitrary keys | **Merged · [PR #4424](https://github.com/valkey-io/valkey/pull/4424)** |
+| **Meta Velox** | TopNRowNumber in-memory rank ordering correctness & partition stream parity | **Merged · [PR #18529](https://github.com/facebookincubator/velox/pull/18529)** |
+| **LLVM** | X86 SelectionDAG non-power-of-two vector integer division vectorization & lowering | **Merged · [PR #215076](https://github.com/llvm/llvm-project/pull/215076)** |
+| **Apache DataFusion** | Execution-layer schema conformance across in-memory execution and aggregation, including recursive nested Arrow Struct/List/Union adaptation | **Shipped · [PR #24394](https://github.com/apache/datafusion/pull/24394)** |
 | **Microsoft Agent Governance Toolkit** | Fail-closed approval-chain correctness for zero-required-stage configurations | **Merged · [PR #3448](https://github.com/microsoft/agent-governance-toolkit/pull/3448)** |
 | **Microsoft TypeSpec** | Playground state synchronization and deterministic regression coverage | **Merged · [PR #11660](https://github.com/microsoft/typespec/pull/11660)** |
 | **TheBushidoCollective Han** | Windows project-path compatibility with Claude Code conventions | **Merged · [PR #105](https://github.com/TheBushidoCollective/han/pull/105)** |
+| **Microsoft Pyright** | Inherited asymmetric descriptor detection across effective MRO behavior | **4 Approvals · Mergeable · [PR #11605](https://github.com/microsoft/pyright/pull/11605)** |
+| **Cloudflare Workers SDK** | Raw TCP socket streaming & backpressure handling for rejected WebSocket upgrades | **All CI Green · Mergeable · [PR #15205](https://github.com/cloudflare/workers-sdk/pull/15205)** |
+| **Hugging Face Diffusers** | Deterministic negative condition scale & guidance parameterization | **Review Addressed · Tests Green · [PR #14481](https://github.com/huggingface/diffusers/pull/14481)** |
+| **Web3.py (Ethereum)** | Async socket teardown lifecycle & deterministic future regression harness | **Review Addressed · Tests Green · [PR #3872](https://github.com/ApeWorX/web3.py/pull/3872)** |
+| **ClickHouse** | Secondary query analyzer & parallel replicas distributed execution metadata alignment | **Review Addressed · [PR #114954](https://github.com/ClickHouse/ClickHouse/pull/114954)** |
 | **Redpanda** | RPC transport memory ownership and backpressure behavior | **Open · [PR #31594](https://github.com/redpanda-data/redpanda/pull/31594)** |
 | **Supabase Supavisor** | PostgreSQL cancellation synchronization across backend reuse | **Open · [PR #1149](https://github.com/supabase/supavisor/pull/1149)** |
-| **Microsoft Pyright** | Inherited asymmetric descriptor detection across effective MRO behavior | **Open · [PR #11605](https://github.com/microsoft/pyright/pull/11605)** |
 | **Vercel Next.js** | Segment-cache navigation recovery with full-page fallback | **Open · [PR #97815](https://github.com/vercel/next.js/pull/97815)** |
 
 Additional upstream work spans **Meta Pyrefly, Google ADK, OpenAI Python, Ethereum go-ethereum, Bitcoin Core, iCalendar, Vercel AI SDK, Claude Agent SDK ecosystems, Docker, JAX, Cloudflare Workers, Solana Web3.js**, and other production systems.
