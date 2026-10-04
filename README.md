@@ -92,6 +92,7 @@ Substantive contributions to established production codebases, working within ex
 | **Apache DataFusion** | Query Engine · Rust | Sort-merge semi/anti/mark key equality routing via JoinKeyComparator | **All CI Green · [PR #26006](https://github.com/apache/datafusion/pull/26006)** |
 | **Paradigm Reth** | Blockchain Execution · Rust | Txpool live candidate demotion under chain reorgs & monotonic nonce ordering | **Open · [PR #27707](https://github.com/paradigmxyz/reth/pull/27707)** |
 | **DuckDB** | Vectorized Engine · C++ | PIVOT IN list zero-argument row() expression preservation & null dereference guard | **Open · [PR #26443](https://github.com/duckdb/duckdb/pull/26443)** |
+| **Bun** | High-Performance Runtime · C++/Zig | Node.js Buffer per-encoding methods ERR_INVALID_ARG_TYPE receiver conformance in JSC bindings | **Open · [PR #44571](https://github.com/oven-sh/bun/pull/44571)** |
 | **ClickHouse** | Analytical DB · C++ | Secondary query analyzer & parallel replicas distributed execution metadata alignment | **AI Review Approved · [PR #114954](https://github.com/ClickHouse/ClickHouse/pull/114954)** |
 | **Redpanda** | Streaming Storage · C++20 | RPC transport memory ownership and backpressure behavior | **Open · [PR #31594](https://github.com/redpanda-data/redpanda/pull/31594)** |
 | **Supabase Supavisor** | Connection Pooler · Elixir | PostgreSQL cancellation synchronization across backend reuse | **Open · [PR #1149](https://github.com/supabase/supavisor/pull/1149)** |
