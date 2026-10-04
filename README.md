@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-### Principal Systems Consultant & Founder · Systems Engineering · AI Infrastructure
+### Principal Systems Architect & Technical Founder · Production Applications · Distributed Systems · Heavy-Context AI
 
 **Systems. Intelligence. Product. Business.**
 
@@ -89,7 +89,9 @@ Substantive contributions to established production codebases, working within ex
 | **Cloudflare Workers SDK** | Edge Runtime · TypeScript | Raw TCP socket streaming & backpressure handling for rejected WebSocket upgrades | **All CI Green · Mergeable · [PR #15205](https://github.com/cloudflare/workers-sdk/pull/15205)** |
 | **Hugging Face Diffusers** | Generative Models · Python | Deterministic negative condition scale & guidance parameterization | **Review Addressed · Tests Green · [PR #14481](https://github.com/huggingface/diffusers/pull/14481)** |
 | **Web3.py (Ethereum)** | Blockchain Client · Python | Async socket teardown lifecycle & deterministic future regression harness | **Review Addressed · Tests Green · [PR #3872](https://github.com/ApeWorX/web3.py/pull/3872)** |
-| **ClickHouse** | Analytical DB · C++ | Secondary query analyzer & parallel replicas distributed execution metadata alignment | **Review Addressed · [PR #114954](https://github.com/ClickHouse/ClickHouse/pull/114954)** |
+| **Apache DataFusion** | Query Engine · Rust | Sort-merge semi/anti/mark key equality routing via JoinKeyComparator | **All CI Green · [PR #26006](https://github.com/apache/datafusion/pull/26006)** |
+| **Paradigm Reth** | Blockchain Execution · Rust | Txpool live candidate demotion under chain reorgs & monotonic nonce ordering | **Open · [PR #27707](https://github.com/paradigmxyz/reth/pull/27707)** |
+| **ClickHouse** | Analytical DB · C++ | Secondary query analyzer & parallel replicas distributed execution metadata alignment | **AI Review Approved · [PR #114954](https://github.com/ClickHouse/ClickHouse/pull/114954)** |
 | **Redpanda** | Streaming Storage · C++20 | RPC transport memory ownership and backpressure behavior | **Open · [PR #31594](https://github.com/redpanda-data/redpanda/pull/31594)** |
 | **Supabase Supavisor** | Connection Pooler · Elixir | PostgreSQL cancellation synchronization across backend reuse | **Open · [PR #1149](https://github.com/supabase/supavisor/pull/1149)** |
 | **Vercel Next.js** | Web Framework · TS/Rust | Segment-cache navigation recovery with full-page fallback | **Open · [PR #97815](https://github.com/vercel/next.js/pull/97815)** |
@@ -118,6 +120,8 @@ The objective is not maximum code output. It is the **smallest correct change th
 ## Operating model
 
 Technical depth is paired with founder-level commercial context: understanding what should be built, why it matters, how it reaches users, how it creates value, and how to execute without unnecessary complexity.
+
+Private systems architecture, client advisory, and commercial engagements operate under strict institutional confidentiality.
 
 Open to **selective projects, founder collaborations, and technically ambitious companies** with real budgets, clear decision-making, and urgency to execute — particularly where the problem is difficult and there is no artificial ceiling on scope or industry.
 
