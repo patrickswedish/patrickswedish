@@ -80,6 +80,7 @@ Substantive contributions to established production codebases, working within ex
 |---|---|---|---|
 | **Valkey** | Distributed Storage · C99 | Cluster key-slot resolution & client cache validation for commands touching arbitrary keys | **Merged · [PR #4424](https://github.com/valkey-io/valkey/pull/4424)** |
 | **Meta Velox** | Vectorized Kernels · C++20 | TopNRowNumber in-memory rank ordering correctness & partition stream parity | **Merged · [PR #18529](https://github.com/facebookincubator/velox/pull/18529)** |
+| **DuckDB** | Vectorized Engine · C++ | PIVOT IN list zero-argument row() expression preservation & null dereference guard | **Merged · [PR #26443](https://github.com/duckdb/duckdb/pull/26443)** |
 | **LLVM** | Compiler Backend · C++ | X86 SelectionDAG non-power-of-two vector integer division vectorization & lowering | **Merged · [PR #215076](https://github.com/llvm/llvm-project/pull/215076)** |
 | **Apache DataFusion** | Query Engine · Rust | Execution-layer schema conformance across in-memory execution and aggregation (nested Struct/List/Union) | **Shipped · [PR #24394](https://github.com/apache/datafusion/pull/24394)** |
 | **Microsoft Agent Governance** | AI Governance · Python | Fail-closed approval-chain correctness for zero-required-stage configurations | **Merged · [PR #3448](https://github.com/microsoft/agent-governance-toolkit/pull/3448)** |
@@ -87,13 +88,12 @@ Substantive contributions to established production codebases, working within ex
 | **TheBushidoCollective Han** | CLI Tooling · Rust | Windows project-path compatibility with Claude Code slug conventions | **Merged · [PR #105](https://github.com/TheBushidoCollective/han/pull/105)** |
 | **Microsoft Pyright** | Type Evaluator · TypeScript | Inherited asymmetric descriptor detection across effective MRO behavior | **4 Approvals · Mergeable · [PR #11605](https://github.com/microsoft/pyright/pull/11605)** |
 | **Cloudflare Workers SDK** | Edge Runtime · TypeScript | Raw TCP socket streaming & backpressure handling for rejected WebSocket upgrades | **All CI Green · Mergeable · [PR #15205](https://github.com/cloudflare/workers-sdk/pull/15205)** |
-| **Hugging Face Diffusers** | Generative Models · Python | Deterministic negative condition scale & guidance parameterization | **Review Addressed · Tests Green · [PR #14481](https://github.com/huggingface/diffusers/pull/14481)** |
-| **Web3.py (Ethereum)** | Blockchain Client · Python | Async socket teardown lifecycle & deterministic future regression harness | **Review Addressed · Tests Green · [PR #3872](https://github.com/ApeWorX/web3.py/pull/3872)** |
+| **Hugging Face Diffusers** | Generative Models · Python | InpaintProcessor 3-tuple return contract preservation when mask is None | **Approved · Tests Green · [PR #14481](https://github.com/huggingface/diffusers/pull/14481)** |
 | **Apache DataFusion** | Query Engine · Rust | Sort-merge semi/anti/mark key equality routing via JoinKeyComparator | **All CI Green · [PR #26006](https://github.com/apache/datafusion/pull/26006)** |
-| **Paradigm Reth** | Blockchain Execution · Rust | Txpool live candidate demotion under chain reorgs & monotonic nonce ordering | **Open · [PR #27707](https://github.com/paradigmxyz/reth/pull/27707)** |
-| **DuckDB** | Vectorized Engine · C++ | PIVOT IN list zero-argument row() expression preservation & null dereference guard | **Open · [PR #26443](https://github.com/duckdb/duckdb/pull/26443)** |
-| **Bun** | High-Performance Runtime · C++/Zig | Node.js Buffer per-encoding methods ERR_INVALID_ARG_TYPE receiver conformance in JSC bindings | **Open · [PR #44571](https://github.com/oven-sh/bun/pull/44571)** |
+| **Web3.py (Ethereum)** | Blockchain Client · Python | Async socket teardown lifecycle & deterministic future regression harness | **Review Addressed · Tests Green · [PR #3872](https://github.com/ApeWorX/web3.py/pull/3872)** |
+| **Bun** | High-Performance Runtime · C++/Zig | Node.js Buffer per-encoding methods ERR_INVALID_ARG_TYPE receiver conformance in JSC bindings | **Pre-Merge Checks Passed · [PR #44571](https://github.com/oven-sh/bun/pull/44571)** |
 | **SGLang** | AI Inference Serving · Python | Mid-turn inline system message in-place attachment preserving RadixAttention prefix caching | **Open · [PR #42533](https://github.com/sgl-project/sglang/pull/42533)** |
+| **Paradigm Reth** | Blockchain Execution · Rust | Txpool live candidate demotion under chain reorgs & monotonic nonce ordering | **Open · [PR #27707](https://github.com/paradigmxyz/reth/pull/27707)** |
 | **ClickHouse** | Analytical DB · C++ | Secondary query analyzer & parallel replicas distributed execution metadata alignment | **AI Review Approved · [PR #114954](https://github.com/ClickHouse/ClickHouse/pull/114954)** |
 | **Redpanda** | Streaming Storage · C++20 | RPC transport memory ownership and backpressure behavior | **Open · [PR #31594](https://github.com/redpanda-data/redpanda/pull/31594)** |
 | **Supabase Supavisor** | Connection Pooler · Elixir | PostgreSQL cancellation synchronization across backend reuse | **Open · [PR #1149](https://github.com/supabase/supavisor/pull/1149)** |
