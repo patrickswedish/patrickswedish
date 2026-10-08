@@ -62,7 +62,21 @@ Production AI agents, tool-using workflows, orchestration, MCP integrations, mod
 
 Architecture, APIs, SaaS products, internal platforms, deployment, observability, analytics, billing, and operational workflows.
 
-- **[ZeroSlop™](https://www.ribbsaetersystems.com/zeroslop)** ([GitHub Action](https://github.com/patrickswedish/zeroslop-action)) — Production pull request invariant gatekeeper and automated diff minimization engine engineered for zero-regression CI/CD pipelines.
+#### Featured Release · [ZeroSlop™ by Ribbsaeter Systems](https://github.com/marketplace/actions/zeroslop-by-ribbsaeter-systems)
+
+[![GitHub Marketplace](https://img.shields.io/badge/Marketplace-ZeroSlop™-E33126?style=flat-square&logo=github&logoColor=white)](https://github.com/marketplace/actions/zeroslop-by-ribbsaeter-systems)
+[![Action Version](https://img.shields.io/badge/release-v1.0.0-050505?style=flat-square&logo=github)](https://github.com/patrickswedish/zeroslop-action/releases/tag/v1.0.0)
+[![License](https://img.shields.io/badge/license-Apache--2.0-050505?style=flat-square)](https://github.com/patrickswedish/zeroslop-action/blob/main/LICENSE)
+[![Portal](https://img.shields.io/badge/Ribbsaeter_Systems-ZeroSlop™_Portal-050505?style=flat-square&logo=safari)](https://ribbsaetersystems.com/zeroslop)
+[![Press Release](https://img.shields.io/badge/Journal-Official_Launch_Dispatch-050505?style=flat-square)](https://ribbsaetersystems.com/blog/zeroslop-pr-gatekeeper-official-release)
+
+> **Autonomous CI pull request invariant gatekeeper and automated diff minimization engine.** Intercepts AI slop, phantom refactorings, unauthorized test deletions, and scope inflation before code merges into production.
+> 
+> - **GitHub Marketplace Action**: [`zeroslop-by-ribbsaeter-systems`](https://github.com/marketplace/actions/zeroslop-by-ribbsaeter-systems)
+> - **Source Repository**: [`patrickswedish/zeroslop-action`](https://github.com/patrickswedish/zeroslop-action)
+> - **Product Portal & Engine Details**: [`ribbsaetersystems.com/zeroslop`](https://ribbsaetersystems.com/zeroslop)
+> - **Official Launch Press Release**: [`ribbsaetersystems.com/blog/zeroslop-pr-gatekeeper-official-release`](https://ribbsaetersystems.com/blog/zeroslop-pr-gatekeeper-official-release)
+> - **Media & Press Desk**: `press@ribbsaetersystems.com`
 
 `PRODUCT SYSTEMS` `APIs` `SAAS` `CLOUD` `DEPLOYMENT`
 
