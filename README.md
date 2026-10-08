@@ -14,7 +14,7 @@ Building and deploying across distributed systems, AI infrastructure, compilers 
 
 <br/>
 
-<a href="https://www.ribbsaeter.com/">
+<a href="https://www.patrickribbsaeter.com/">
   <img src="./assets/action-website.svg" width="188" height="40" alt="Patrick Ribbsaeter" />
 </a>
 &nbsp;&nbsp;
@@ -22,7 +22,7 @@ Building and deploying across distributed systems, AI infrastructure, compilers 
   <img src="./assets/action-systems.svg" width="188" height="40" alt="Ribbsaeter Systems" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/patrickribbsaeter/">
+<a href="https://www.linkedin.com/patrickribbsaeter">
   <img src="./assets/action-linkedin.svg" width="188" height="40" alt="LinkedIn" />
 </a>
 
@@ -140,6 +140,6 @@ Open to **selective projects, founder collaborations, and technically ambitious 
 
 ### Less talking. More building.
 
-[Website](https://www.ribbsaeter.com/) · [Ribbsaeter Systems](https://www.ribbsaetersystems.com/) · [LinkedIn](https://www.linkedin.com/in/patrickribbsaeter/)
+[Personal Website](https://www.patrickribbsaeter.com/) · [Ribbsaeter Systems](https://www.ribbsaetersystems.com/) · [LinkedIn](https://www.linkedin.com/patrickribbsaeter)
 
 </div>

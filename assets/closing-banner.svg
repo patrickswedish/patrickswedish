@@ -29,17 +29,17 @@
     <ellipse cx="600" cy="95" rx="330" ry="170" fill="url(#halo)"/>
     <path class="sweep" d="M-220 0h110L70 190H-40Z" fill="#BFF5FF" opacity="0"/>
     <g fill="none" stroke="url(#signal)">
-      <path class="flow-a" d="M0 48h165l48 47h142" stroke-width="1.5" opacity=".55"/>
-      <path class="flow-b" d="M0 142h165l48-47h142" stroke-width="1.2" opacity=".42"/>
-      <path class="flow-b" d="M1200 48h-165l-48 47H845" stroke-width="1.2" opacity=".42"/>
-      <path class="flow-a" d="M1200 142h-165l-48-47H845" stroke-width="1.5" opacity=".55"/>
+      <path class="flow-a" d="M0 48h165l48 47H260" stroke-width="1.5" opacity=".55"/>
+      <path class="flow-b" d="M0 142h165l48-47H260" stroke-width="1.2" opacity=".42"/>
+      <path class="flow-b" d="M1200 48h-165l-48 47H940" stroke-width="1.2" opacity=".42"/>
+      <path class="flow-a" d="M1200 142h-165l-48-47H940" stroke-width="1.5" opacity=".55"/>
     </g>
     <g fill="#5FE7FF">
       <circle class="pulse-a" cx="165" cy="48" r="4"/><circle class="pulse-b" cx="165" cy="142" r="4"/>
       <circle class="pulse-b" cx="1035" cy="48" r="4"/><circle class="pulse-a" cx="1035" cy="142" r="4"/>
     </g>
-    <rect x="348" y="49" width="504" height="92" rx="18" fill="#08131F" stroke="url(#signal)" stroke-opacity=".7"/>
-    <rect x="379" y="78" width="442" height="34" rx="17" fill="none" stroke="#5FE7FF" stroke-opacity=".1"/>
-    <text class="headline" x="600" y="106" fill="#F4F9FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="29" font-weight="800" letter-spacing="1.3" text-anchor="middle" filter="url(#glow)">DESIGN · SHIP · VERIFY · COMPOUND</text>
+    <rect x="260" y="49" width="680" height="92" rx="16" fill="#08131F" stroke="url(#signal)" stroke-opacity=".7" stroke-width="1.5"/>
+    <rect x="278" y="65" width="644" height="60" rx="10" fill="none" stroke="#5FE7FF" stroke-opacity=".12"/>
+    <text class="headline" x="600" y="95" dominant-baseline="central" fill="#F4F9FF" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="21" font-weight="800" letter-spacing="3" text-anchor="middle" filter="url(#glow)">DESIGN · SHIP · VERIFY · COMPOUND</text>
   </g>
 </svg>
