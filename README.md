@@ -62,6 +62,8 @@ Production AI agents, tool-using workflows, orchestration, MCP integrations, mod
 
 Architecture, APIs, SaaS products, internal platforms, deployment, observability, analytics, billing, and operational workflows.
 
+- **[ZeroSlop™](https://www.ribbsaetersystems.com/zeroslop)** ([GitHub Action](https://github.com/patrickswedish/zeroslop-action)) — Production pull request invariant gatekeeper and automated diff minimization engine engineered for zero-regression CI/CD pipelines.
+
 `PRODUCT SYSTEMS` `APIs` `SAAS` `CLOUD` `DEPLOYMENT`
 
 ### Business building
@@ -78,6 +80,7 @@ Substantive contributions to established production codebases, working within ex
 
 | Project | Domain & Stack | Engineering Focus | Status |
 |---|---|---|---|
+| **Hugging Face Diffusers** | Generative Models · Python | InpaintProcessor 3-tuple return contract preservation when mask is None | **Merged · [PR #14481](https://github.com/huggingface/diffusers/pull/14481)** |
 | **Valkey** | Distributed Storage · C99 | Cluster key-slot resolution & client cache validation for commands touching arbitrary keys | **Merged · [PR #4424](https://github.com/valkey-io/valkey/pull/4424)** |
 | **Meta Velox** | Vectorized Kernels · C++20 | TopNRowNumber in-memory rank ordering correctness & partition stream parity | **Merged · [PR #18529](https://github.com/facebookincubator/velox/pull/18529)** |
 | **DuckDB** | Vectorized Engine · C++ | PIVOT IN list zero-argument row() expression preservation & null dereference guard | **Merged · [PR #26443](https://github.com/duckdb/duckdb/pull/26443)** |
@@ -88,7 +91,6 @@ Substantive contributions to established production codebases, working within ex
 | **Microsoft TypeSpec** | Compiler Tooling · TypeScript | Playground state synchronization and deterministic regression coverage | **Merged · [PR #11660](https://github.com/microsoft/typespec/pull/11660)** |
 | **TheBushidoCollective Han** | CLI Tooling · Rust | Windows project-path compatibility with Claude Code slug conventions | **Merged · [PR #105](https://github.com/TheBushidoCollective/han/pull/105)** |
 | **Cloudflare Workers SDK** | Edge Runtime · TypeScript | Raw TCP socket streaming & backpressure handling for rejected WebSocket upgrades | **All CI Green · Mergeable · [PR #15205](https://github.com/cloudflare/workers-sdk/pull/15205)** |
-| **Hugging Face Diffusers** | Generative Models · Python | InpaintProcessor 3-tuple return contract preservation when mask is None | **Approved · Tests Green · [PR #14481](https://github.com/huggingface/diffusers/pull/14481)** |
 | **Apache DataFusion** | Query Engine · Rust | Sort-merge semi/anti/mark key equality routing via JoinKeyComparator | **All CI Green · [PR #26006](https://github.com/apache/datafusion/pull/26006)** |
 | **Web3.py (Ethereum)** | Blockchain Client · Python | Async socket teardown lifecycle & deterministic future regression harness | **Review Addressed · Tests Green · [PR #3872](https://github.com/ApeWorX/web3.py/pull/3872)** |
 | **Bun** | High-Performance Runtime · C++/Zig | Node.js Buffer per-encoding methods ERR_INVALID_ARG_TYPE receiver conformance in JSC bindings | **Pre-Merge Checks Passed · [PR #44571](https://github.com/oven-sh/bun/pull/44571)** |
