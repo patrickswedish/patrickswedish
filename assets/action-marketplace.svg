@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="214" height="42" viewBox="0 0 214 42" role="img" aria-labelledby="title-mkt desc-mkt">
+  <title id="title-mkt">Install ZeroSlop on GitHub Marketplace</title>
+  <desc id="desc-mkt">Button linking to the official ZeroSlop action on GitHub Marketplace.</desc>
+  <defs>
+    <linearGradient id="bg-mkt" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#1A080B"/>
+      <stop offset="1" stop-color="#0E0406"/>
+    </linearGradient>
+    <linearGradient id="acc-mkt" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#E33126"/>
+      <stop offset="1" stop-color="#FF5544"/>
+    </linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="213" height="41" rx="10" fill="url(#bg-mkt)" stroke="#FF5544" stroke-opacity=".42"/>
+  <rect width="4" height="42" rx="2" fill="url(#acc-mkt)"/>
+  <!-- GitHub Marketplace Bag / Tag Icon -->
+  <g transform="translate(15 11)" fill="none" stroke="#FF6E63" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M4 2v4a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V2"/>
+    <rect x="2" y="2" width="16" height="16" rx="2"/>
+    <path d="m7 12 3 3 5-5"/>
+  </g>
+  <text x="44" y="17" fill="#FFA399" font-family="'Inter',Arial,sans-serif" font-size="7.5" font-weight="700" letter-spacing="1.2">GITHUB MARKETPLACE</text>
+  <text x="44" y="30" fill="#FFF5F5" font-family="'Inter',Arial,sans-serif" font-size="10.5" font-weight="800" letter-spacing=".55">INSTALL ZEROSLOP™</text>
+  <text x="195" y="26" text-anchor="middle" fill="#FF5544" font-family="'Inter',Arial,sans-serif" font-size="16" font-weight="700">↗</text>
+</svg>

@@ -62,21 +62,33 @@ Production AI agents, tool-using workflows, orchestration, MCP integrations, mod
 
 Architecture, APIs, SaaS products, internal platforms, deployment, observability, analytics, billing, and operational workflows.
 
-#### Featured Release · [ZeroSlop™ by Ribbsaeter Systems](https://github.com/marketplace/actions/zeroslop-by-ribbsaeter-systems)
+<br/>
 
-[![GitHub Marketplace](https://img.shields.io/badge/Marketplace-ZeroSlop™-E33126?style=flat-square&logo=github&logoColor=white)](https://github.com/marketplace/actions/zeroslop-by-ribbsaeter-systems)
-[![Action Version](https://img.shields.io/badge/release-v1.0.0-050505?style=flat-square&logo=github)](https://github.com/patrickswedish/zeroslop-action/releases/tag/v1.0.0)
-[![License](https://img.shields.io/badge/license-Apache--2.0-050505?style=flat-square)](https://github.com/patrickswedish/zeroslop-action/blob/main/LICENSE)
-[![Portal](https://img.shields.io/badge/Ribbsaeter_Systems-ZeroSlop™_Portal-050505?style=flat-square&logo=safari)](https://ribbsaetersystems.com/zeroslop)
-[![Press Release](https://img.shields.io/badge/Journal-Official_Launch_Dispatch-050505?style=flat-square)](https://ribbsaetersystems.com/blog/zeroslop-pr-gatekeeper-official-release)
+<div align="center">
+  <a href="https://github.com/marketplace/actions/zeroslop-by-ribbsaeter-systems">
+    <img src="./assets/zeroslop-banner.svg" width="100%" alt="ZeroSlop™ by Ribbsaeter Systems — Autonomous CI Pull Request Invariant Gatekeeper & Diff Minimization Engine on GitHub Marketplace" />
+  </a>
 
-> **Autonomous CI pull request invariant gatekeeper and automated diff minimization engine.** Intercepts AI slop, phantom refactorings, unauthorized test deletions, and scope inflation before code merges into production.
-> 
-> - **GitHub Marketplace Action**: [`zeroslop-by-ribbsaeter-systems`](https://github.com/marketplace/actions/zeroslop-by-ribbsaeter-systems)
-> - **Source Repository**: [`patrickswedish/zeroslop-action`](https://github.com/patrickswedish/zeroslop-action)
-> - **Product Portal & Engine Details**: [`ribbsaetersystems.com/zeroslop`](https://ribbsaetersystems.com/zeroslop)
-> - **Official Launch Press Release**: [`ribbsaetersystems.com/blog/zeroslop-pr-gatekeeper-official-release`](https://ribbsaetersystems.com/blog/zeroslop-pr-gatekeeper-official-release)
-> - **Media & Press Desk**: `press@ribbsaetersystems.com`
+  <br/><br/>
+
+  <a href="https://github.com/marketplace/actions/zeroslop-by-ribbsaeter-systems">
+    <img src="./assets/action-marketplace.svg" width="200" height="42" alt="Install ZeroSlop on GitHub Marketplace" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/patrickswedish/zeroslop-action">
+    <img src="./assets/action-zeroslop-repo.svg" width="200" height="42" alt="ZeroSlop Engine Repository" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://ribbsaetersystems.com/zeroslop">
+    <img src="./assets/action-zeroslop-portal.svg" width="200" height="42" alt="Ribbsaeter Systems ZeroSlop Portal" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://ribbsaetersystems.com/blog/zeroslop-pr-gatekeeper-official-release">
+    <img src="./assets/action-press-release.svg" width="200" height="42" alt="Official ZeroSlop Launch Press Release" />
+  </a>
+</div>
+
+<br/>
 
 `PRODUCT SYSTEMS` `APIs` `SAAS` `CLOUD` `DEPLOYMENT`
 
