@@ -72,19 +72,19 @@ Architecture, APIs, SaaS products, internal platforms, deployment, observability
   <br/><br/>
 
   <a href="https://github.com/marketplace/actions/zeroslop-by-ribbsaeter-systems">
-    <img src="./assets/action-marketplace.svg" width="200" height="42" alt="Install ZeroSlop on GitHub Marketplace" />
+    <img src="./assets/action-marketplace.svg" width="188" height="40" alt="Install ZeroSlop on GitHub Marketplace" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/patrickswedish/zeroslop-action">
-    <img src="./assets/action-zeroslop-repo.svg" width="200" height="42" alt="ZeroSlop Engine Repository" />
+    <img src="./assets/action-zeroslop-repo.svg" width="188" height="40" alt="ZeroSlop Engine Repository" />
   </a>
   &nbsp;&nbsp;
   <a href="https://ribbsaetersystems.com/zeroslop">
-    <img src="./assets/action-zeroslop-portal.svg" width="200" height="42" alt="Ribbsaeter Systems ZeroSlop Portal" />
+    <img src="./assets/action-zeroslop-portal.svg" width="188" height="40" alt="Ribbsaeter Systems ZeroSlop Portal" />
   </a>
   &nbsp;&nbsp;
   <a href="https://ribbsaetersystems.com/blog/zeroslop-pr-gatekeeper-official-release">
-    <img src="./assets/action-press-release.svg" width="200" height="42" alt="Official ZeroSlop Launch Press Release" />
+    <img src="./assets/action-press-release.svg" width="188" height="40" alt="Official ZeroSlop Launch Press Release" />
   </a>
 </div>
 
