@@ -52,6 +52,18 @@ Distributed systems, backend architecture, concurrency, memory ownership, low-la
 
 `DISTRIBUTED SYSTEMS` `RUNTIMES` `COMPILERS` `CONCURRENCY` `PERFORMANCE`
 
+### Hardware engineering & diagnostics lab
+
+Component-level board diagnostics, trinocular stereomicroscope SMD micro-soldering, shorted power rail tracing (FLIR thermal imaging), multi-GPU liquid-cooled compute rigs, and physical computer retail & repair operations servicing thousands of consumer and enterprise client machines.
+
+`HARDWARE LAB` `MICRO-SOLDERING` `SMD REWORK` `CUSTOM RIGS` `COMPUTER SHOP FOUNDER`
+
+### Consumer mobile apps & web platforms
+
+Native iOS (Swift), Android (Kotlin), cross-platform React Native and Flutter mobile applications, and high-performance, resilient Next.js/React web platforms. Built for fluid gesture fidelity, offline-first reliability, sub-100ms response, and conversion-optimized commercial execution across banking, healthcare, retail, real estate, and B2B SaaS.
+
+`MOBILE APPS (iOS/ANDROID)` `REACT NATIVE` `FLUTTER` `NEXT.JS` `WEB PLATFORMS` `CROSS-INDUSTRY`
+
 ### Agentic systems
 
 Production AI agents, tool-using workflows, orchestration, MCP integrations, model/API integration, human-directed execution, evaluation, retrieval, and automation.
