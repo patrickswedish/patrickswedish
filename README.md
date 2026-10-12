@@ -122,41 +122,41 @@ Founder-led product strategy, business development, sales, positioning, branding
 
 Substantive contributions to established production codebases, working within existing architecture, repository conventions, explicit invariants, review feedback, and regression requirements.
 
-| System & Stack | Architectural Invariant | Status |
-| :--- | :--- | :--- |
-| **LLVM** · *C++*<br/>`llvm-project` | X86 SelectionDAG vector integer<br/>division lowering & vectorization | **Merged**<br/>[PR #215076](https://github.com/llvm/llvm-project/pull/215076) |
-| **Meta Velox** · *C++20*<br/>`velox` | TopNRowNumber in-memory rank<br/>ordering & partition stream parity | **Merged**<br/>[PR #18529](https://github.com/facebookincubator/velox/pull/18529) |
-| **DuckDB** · *C++*<br/>`duckdb` | PIVOT IN list zero-arg `row()`<br/>preservation & null guard | **Merged**<br/>[PR #26443](https://github.com/duckdb/duckdb/pull/26443) |
-| **Apache DataFusion** · *Rust*<br/>`datafusion` | Execution-layer schema conformance<br/>across in-memory aggregation | **Merged**<br/>[PR #24394](https://github.com/apache/datafusion/pull/24394) |
-| **Microsoft Pyright** · *TS*<br/>`pyright` | Inherited asymmetric descriptor<br/>detection across MRO hierarchy | **Merged**<br/>[PR #11605](https://github.com/microsoft/pyright/pull/11605) |
-| **Hugging Face** · *Python*<br/>`diffusers` | InpaintProcessor 3-tuple return<br/>contract when mask is None | **Merged**<br/>[PR #14481](https://github.com/huggingface/diffusers/pull/14481) |
-| **Valkey** · *C99*<br/>`valkey` | Cluster key-slot resolution &<br/>client cache key validation | **Merged**<br/>[PR #4424](https://github.com/valkey-io/valkey/pull/4424) |
-| **eBay NuRaft** · *C++17*<br/>`NuRaft` | Reject concurrent snapshot sync<br/>during async finalization race | **Merged**<br/>[PR #663](https://github.com/eBay/NuRaft/pull/663) |
-| **Microsoft TypeSpec** · *TS*<br/>`typespec` | Playground state synchronization<br/>& deterministic regression suite | **Merged**<br/>[PR #11660](https://github.com/microsoft/typespec/pull/11660) |
-| **Microsoft** · *Python*<br/>`agent-governance` | Fail-closed approval-chain guard<br/>for zero-stage configurations | **Merged**<br/>[PR #3448](https://github.com/microsoft/agent-governance-toolkit/pull/3448) |
-| **Microsoft** · *Python*<br/>`agent-governance` | Policy fixture validation rejecting<br/>missing test expectations | **Merged**<br/>[PR #3442](https://github.com/microsoft/agent-governance-toolkit/pull/3442) |
-| **Bushido Han** · *Rust*<br/>`han` | Windows project-path conformance<br/>with Claude Code slug rules | **Merged**<br/>[PR #105](https://github.com/TheBushidoCollective/han/pull/105) |
-| **Tokio** · *Rust*<br/>`tokio` | Current-thread paused time wake<br/>tracking & timer preservation | **110/110 Green**<br/>[PR #8595](https://github.com/tokio-rs/tokio/pull/8595) |
-| **ClickHouse** · *C++20*<br/>`ClickHouse` | Bounds validation on parallel<br/>replicas legacy query plan limit | **174/176 Green**<br/>[PR #114954](https://github.com/ClickHouse/ClickHouse/pull/114954) |
-| **SGLang** · *Python/CUDA*<br/>`sglang` | Mid-turn inline system message<br/>preserving RadixAttention cache | **98 Green**<br/>[PR #42533](https://github.com/sgl-project/sglang/pull/42533) |
-| **Cloudflare** · *TypeScript*<br/>`workers-sdk` | Raw TCP socket streaming &<br/>backpressure for WS upgrades | **54/54 Green**<br/>[PR #15205](https://github.com/cloudflare/workers-sdk/pull/15205) |
-| **Apache DataFusion** · *Rust*<br/>`datafusion` | PushDownFilter clippy mutable<br/>key allow for Expr hash sets | **43/43 Green**<br/>[PR #26189](https://github.com/apache/datafusion/pull/26189) |
-| **Apache DataFusion** · *Rust*<br/>`datafusion` | FixedSizeBinaryArray downcast<br/>in CASE literal lookup table | **43/43 Green**<br/>[PR #26096](https://github.com/apache/datafusion/pull/26096) |
-| **Apache DataFusion** · *Rust*<br/>`datafusion` | Sort-merge semi/anti/mark key<br/>equality via JoinKeyComparator | **42/42 Green**<br/>[PR #26006](https://github.com/apache/datafusion/pull/26006) |
-| **Anthropic MCP** · *TS*<br/>`typescript-sdk` | Stream resumption for event IDs<br/>containing underscore tokens | **14/14 Green**<br/>[PR #2567](https://github.com/modelcontextprotocol/typescript-sdk/pull/2567) |
-| **LLVM** · *C++*<br/>`llvm-project` | X86 CodeGen preserve XMM liveness<br/>across VZEROUPPER register checks | **12/12 Green**<br/>[PR #218873](https://github.com/llvm/llvm-project/pull/218873) |
-| **Redpanda** · *C++20*<br/>`redpanda` | RPC transport memory semaphore<br/>unit retention in queued entries | **9/9 Green**<br/>[PR #31594](https://github.com/redpanda-data/redpanda/pull/31594) |
-| **OpenAI Triton** · *C++/Py*<br/>`triton` | Nanobind static build free-threaded<br/>PEP 703 GIL slot declaration | **Checks Green**<br/>[PR #12221](https://github.com/triton-lang/triton/pull/12221) |
-| **vLLM** · *Python*<br/>`vllm` | Empty & non-mapping YAML config<br/>validation preventing CLI crash | **Checks Green**<br/>[PR #60319](https://github.com/vllm-project/vllm/pull/60319) |
-| **Ledger Ragger** · *Python*<br/>`ragger` | Hardware wallet project discovery<br/>across linked git worktrees | **7/7 Green**<br/>[PR #291](https://github.com/LedgerHQ/ragger/pull/291) |
-| **AWS Firecracker** · *Rust*<br/>`firecracker` | Resolved clippy destructuring<br/>match on TimerFd release builds | **3/3 Green**<br/>[PR #6262](https://github.com/firecracker-microvm/firecracker/pull/6262) |
-| **Meta TorchTune** · *Python*<br/>`torchtune` | Mistral and Gemma end-token<br/>generation stopping control | **3/3 Green**<br/>[PR #2977](https://github.com/meta-pytorch/torchtune/pull/2977) |
-| **Bun** · *C++/Zig*<br/>`bun` | Node.js Buffer per-encoding<br/>receiver conformance in JSC | **2/2 Green**<br/>[PR #44571](https://github.com/oven-sh/bun/pull/44571) |
-| **Ethereum** · *Go*<br/>`go-ethereum` | Bound database batch size during<br/>filtermaps log index rollback | **Checks Green**<br/>[PR #35586](https://github.com/ethereum/go-ethereum/pull/35586) |
-| **Paradigm Reth** · *Rust*<br/>`reth` | Txpool live candidate demotion<br/>under reorgs & nonce ordering | **Mergeable**<br/>[PR #27707](https://github.com/paradigmxyz/reth/pull/27707) |
-| **Supabase** · *Elixir*<br/>`supavisor` | PostgreSQL cancellation sync<br/>across backend connection reuse | **Checks Green**<br/>[PR #1149](https://github.com/supabase/supavisor/pull/1149) |
-| **Web3.py** · *Python*<br/>`web3.py` | Async socket teardown lifecycle<br/>& deterministic future harness | **Tests Green**<br/>[PR #3872](https://github.com/ApeWorX/web3.py/pull/3872) |
-| **Vercel Next.js** · *TS/Rust*<br/>`next.js` | Segment-cache navigation recovery<br/>with full-page fallback guard | **3/3 Green**<br/>[PR #97815](https://github.com/vercel/next.js/pull/97815) |
+| Project | Domain & Stack | Architectural Invariant & Engineering Focus | Upstream Work |
+| :--- | :--- | :--- | :--- |
+| **LLVM** · `llvm-project` | Compiler · C++ | X86 SelectionDAG non-power-of-two vector integer division vectorization and target lowering | [PR #215076](https://github.com/llvm/llvm-project/pull/215076) · **Merged** |
+| **Meta Velox** · `velox` | Query Engine · C++20 | TopNRowNumber in-memory rank ordering correctness and partition stream execution parity | [PR #18529](https://github.com/facebookincubator/velox/pull/18529) · **Merged** |
+| **DuckDB** · `duckdb` | Database · C++ | PIVOT IN list zero-argument `row()` expression preservation and null dereference guard | [PR #26443](https://github.com/duckdb/duckdb/pull/26443) · **Merged** |
+| **Apache DataFusion** | Query Engine · Rust | Execution-layer schema conformance across in-memory physical execution and aggregation | [PR #24394](https://github.com/apache/datafusion/pull/24394) · **Merged** |
+| **Microsoft Pyright** | Type Checker · TS | Inherited asymmetric descriptor detection and type inference across effective MRO hierarchy | [PR #11605](https://github.com/microsoft/pyright/pull/11605) · **Merged** |
+| **Hugging Face** · `diffusers` | GenAI · Python | InpaintProcessor 3-tuple return contract preservation when mask tensor input is None | [PR #14481](https://github.com/huggingface/diffusers/pull/14481) · **Merged** |
+| **Valkey** · `valkey` | Datastore · C99 | Cluster key-slot resolution and client-side cache validation for arbitrary key commands | [PR #4424](https://github.com/valkey-io/valkey/pull/4424) · **Merged** |
+| **eBay NuRaft** · `NuRaft` | Consensus · C++17 | Rejection of concurrent snapshot sync requests during asynchronous finalization race window | [PR #663](https://github.com/eBay/NuRaft/pull/663) · **Merged** |
+| **Microsoft TypeSpec** | API Compiler · TS | Playground state synchronization and deterministic compiler regression suite coverage | [PR #11660](https://github.com/microsoft/typespec/pull/11660) · **Merged** |
+| **Microsoft Agent Gov** | Agent Safety · Python | Fail-closed approval-chain invariant enforcement for zero-required-stage configurations | [PR #3448](https://github.com/microsoft/agent-governance-toolkit/pull/3448) · **Merged** |
+| **Microsoft Agent Gov** | Agent Safety · Python | Policy fixture schema validation rejecting test definitions missing explicit expectations | [PR #3442](https://github.com/microsoft/agent-governance-toolkit/pull/3442) · **Merged** |
+| **Bushido Han** · `han` | Agent Tooling · Rust | Windows project-path normalization compatibility with Claude Code workspace slug rules | [PR #105](https://github.com/TheBushidoCollective/han/pull/105) · **Merged** |
+| **Tokio** · `tokio` | Async Runtime · Rust | Current-thread paused time wake tracking and zero-syscall timer queue preservation | [PR #8595](https://github.com/tokio-rs/tokio/pull/8595) · **110/110 Green** |
+| **ClickHouse** | OLAP Engine · C++20 | Bounds validation on parallel replicas legacy query plan limit enforcement pipeline | [PR #114954](https://github.com/ClickHouse/ClickHouse/pull/114954) · **174/176 Green** |
+| **SGLang** · `sglang` | LLM Runtime · CUDA | Mid-turn inline system message in-place attachment preserving RadixAttention prefix cache | [PR #42533](https://github.com/sgl-project/sglang/pull/42533) · **98 Green** |
+| **Cloudflare** · `workers-sdk` | Edge Runtime · TS | Raw TCP socket streaming and backpressure handling for rejected WebSocket upgrades | [PR #15205](https://github.com/cloudflare/workers-sdk/pull/15205) · **54/54 Green** |
+| **Apache DataFusion** | Query Engine · Rust | PushDownFilter clippy mutable key type allow annotations for logical Expr hash sets | [PR #26189](https://github.com/apache/datafusion/pull/26189) · **43/43 Green** |
+| **Apache DataFusion** | Query Engine · Rust | Safe downcast to FixedSizeBinaryArray in CASE literal vectorized lookup evaluation table | [PR #26096](https://github.com/apache/datafusion/pull/26096) · **43/43 Green** |
+| **Apache DataFusion** | Query Engine · Rust | Sort-merge semi, anti, and mark join key equality routing via JoinKeyComparator | [PR #26006](https://github.com/apache/datafusion/pull/26006) · **42/42 Green** |
+| **Anthropic MCP SDK** | Agent Protocol · TS | Stream resumption support for SSE event identifiers containing underscore delimiter tokens | [PR #2567](https://github.com/modelcontextprotocol/typescript-sdk/pull/2567) · **14/14 Green** |
+| **LLVM** · `llvm-project` | Compiler · C++ | X86 CodeGen preserve XMM register liveness across VZEROUPPER and check register clobbers | [PR #218873](https://github.com/llvm/llvm-project/pull/218873) · **12/12 Green** |
+| **Redpanda** · `redpanda` | Streaming · C++20 | RPC transport memory semaphore unit retention across queued outbound request entries | [PR #31594](https://github.com/redpanda-data/redpanda/pull/31594) · **9/9 Green** |
+| **OpenAI Triton** · `triton` | GPU Compiler · C++ | Nanobind static build free-threaded Python PEP 703 GIL module slot declaration | [PR #12221](https://github.com/triton-lang/triton/pull/12221) · **Checks Green** |
+| **vLLM** · `vllm` | LLM Serving · Python | Empty and non-mapping YAML configuration validation preventing unhandled CLI startup crash | [PR #60319](https://github.com/vllm-project/vllm/pull/60319) · **Checks Green** |
+| **Ledger Ragger** · `ragger` | Secure Element · Py | Hardware wallet firmware project discovery across linked git worktrees and submodules | [PR #291](https://github.com/LedgerHQ/ragger/pull/291) · **7/7 Green** |
+| **AWS Firecracker** | MicroVM · Rust | Resolved clippy infallible destructuring match on TimerFd in optimized release builds | [PR #6262](https://github.com/firecracker-microvm/firecracker/pull/6262) · **3/3 Green** |
+| **Meta TorchTune** | LLM Training · Py | Mistral and Gemma end-token generation stopping control and tokenizer parity | [PR #2977](https://github.com/meta-pytorch/torchtune/pull/2977) · **3/3 Green** |
+| **Bun** · `bun` | JS Runtime · Zig | Node.js Buffer per-encoding methods receiver type conformance in JavaScriptCore bindings | [PR #44571](https://github.com/oven-sh/bun/pull/44571) · **2/2 Green** |
+| **Ethereum** · `go-ethereum` | Execution · Go | Bound leveldb/pebble database batch memory size during filtermaps log index rollback | [PR #35586](https://github.com/ethereum/go-ethereum/pull/35586) · **Checks Green** |
+| **Paradigm Reth** · `reth` | Execution · Rust | Transaction pool live iterator candidate demotion when earlier transactions are reinserted | [PR #27707](https://github.com/paradigmxyz/reth/pull/27707) · **Mergeable** |
+| **Supabase** · `supavisor` | Pooler · Elixir | PostgreSQL query cancellation key synchronization across pooled backend connection reuse | [PR #1149](https://github.com/supabase/supavisor/pull/1149) · **Checks Green** |
+| **Web3.py** · `web3.py` | Ethereum SDK · Py | Async socket teardown lifecycle synchronization and deterministic future test harness | [PR #3872](https://github.com/ApeWorX/web3.py/pull/3872) · **Tests Green** |
+| **Vercel Next.js** · `next.js` | Web Framework · TS | Segment-cache client navigation recovery with full-page fallback guard on stale prefetches | [PR #97815](https://github.com/vercel/next.js/pull/97815) · **3/3 Green** |
 
 Additional upstream work spans **Meta Pyrefly, Google ADK, OpenAI Python, Ethereum go-ethereum, Bitcoin Core, iCalendar, Vercel AI SDK, Claude Agent SDK ecosystems, Docker, JAX, Cloudflare Workers, Solana Web3.js**, and other production systems.
 
