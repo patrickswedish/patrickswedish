@@ -72,7 +72,7 @@ Production AI agents, tool-using workflows, orchestration, MCP integrations, mod
 
 ### Product systems
 
-Architecture, APIs, SaaS products, internal platforms, deployment, observability, analytics, billing, and operational workflows.
+Architecture, APIs, SaaS products, internal platforms, deployment, observability, analytics, billing, and operational workflows — including **ZeroSlop™ by Ribbsaeter Systems**, the sovereign pre-flight pull request invariant airlock featuring a **10-Shield Deterministic CWE Security Engine** (`CWE-89`, `CWE-798`, `CWE-639` IDOR, `CWE-78`/`CWE-94`, `CWE-502`, `CWE-918`, `CWE-426` CI Pwn Requests, and `CVE-2021-42574` Trojan Source / Adversarial Prompt-Injection Immunity) and **Zero-Click Cross-Layer Blast Radius** directly inside GitHub Actions without external SaaS dashboard bloat.
 
 <br/>
 
@@ -102,7 +102,7 @@ Architecture, APIs, SaaS products, internal platforms, deployment, observability
 
 <br/>
 
-`PRODUCT SYSTEMS` `APIs` `SAAS` `CLOUD` `DEPLOYMENT`
+`PRODUCT SYSTEMS` `CWE SECURITY AIRLOCK` `ZERO-CLICK BLAST RADIUS` `APIs` `SAAS` `CLOUD`
 
 ### Business building
 
