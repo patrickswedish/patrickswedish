@@ -195,6 +195,10 @@ Open to **selective projects, founder collaborations, and technically ambitious 
 
 <br/><br/>
 
+[![Profile Visitors](https://api.visitorbadge.io/api/visitors?path=patrickswedish.profile&label=PROFILE+VISITORS&labelColor=%230b1b31&countColor=%2300b8d9&style=flat-square)](https://github.com/patrickswedish)
+
+<br/><br/>
+
 ### Less talking. More building.
 
 [Personal Website](https://www.patrickribbsaeter.com/) · [Ribbsaeter Systems](https://www.ribbsaetersystems.com/) · [LinkedIn](https://www.linkedin.com/in/patrickribbsaeter)
