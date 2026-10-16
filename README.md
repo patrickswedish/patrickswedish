@@ -52,25 +52,35 @@ Prior to focusing full-time on software and systems architecture, founded and op
 
 ## What gets built
 
-### Systems engineering
+### ⚙️ 1. Systems Engineering & Low-Latency Infrastructure
+*Distributed systems, backend architecture, concurrency, memory ownership, low-latency runtimes, and production debugging.*
 
 Distributed systems, backend architecture, concurrency, memory ownership, low-latency runtimes, compiler/runtime behavior, performance, reliability, and production debugging.
 
 `DISTRIBUTED SYSTEMS` `RUNTIMES` `COMPILERS` `CONCURRENCY` `PERFORMANCE`
 
-### Consumer mobile apps & web platforms
+<br/>
+
+### 📱 2. Consumer Mobile Apps & Web Platforms
+*Native iOS/Android, React Native, Flutter, and sub-100ms resilient Next.js/React web platforms.*
 
 Native iOS (Swift), Android (Kotlin), cross-platform React Native and Flutter mobile applications, and high-performance, resilient Next.js/React web platforms. Built for fluid gesture fidelity, offline-first reliability, sub-100ms response, and conversion-optimized commercial execution across banking, healthcare, retail, real estate, and B2B SaaS.
 
 `MOBILE APPS (iOS/ANDROID)` `REACT NATIVE` `FLUTTER` `NEXT.JS` `WEB PLATFORMS` `CROSS-INDUSTRY`
 
-### Agentic systems
+<br/>
+
+### 🤖 3. Autonomous Agent Protocols & AI Tooling
+*Production AI agents, tool-using workflows, orchestration, MCP integrations, and human-directed automation.*
 
 Production AI agents, tool-using workflows, orchestration, MCP integrations, model/API integration, human-directed execution, evaluation, retrieval, and automation.
 
 `AGENTS` `MCP` `ORCHESTRATION` `AUTOMATION` `TOOL USE`
 
-### Product systems
+<br/>
+
+### 🛡️ 4. Product Systems & Flagship Software (ZeroSlop™)
+*Autonomous CI pull request invariant gatekeeper, deterministic 12-Shield CWE security airlock, and zero-click blast radius.*
 
 Architecture, APIs, SaaS products, internal platforms, deployment, observability, analytics, billing, and operational workflows — including **ZeroSlop™ by Ribbsaeter Systems**, the sovereign pre-flight pull request invariant airlock featuring a **12-Shield Deterministic CWE Security Engine** (`CWE-89`, `CWE-798`, `CWE-639` IDOR, `CWE-78`/`CWE-94`, `CWE-502`, `CWE-918`, `CWE-426` CI Pwn Requests, `CWE-829` AI Slopsquatting, `CWE-400`, and `CVE-2021-42574` Trojan Source / Adversarial Prompt-Injection Immunity), **Single In-Place PR Verdict Card**, and **Zero-Click Cross-Layer Blast Radius** directly inside GitHub Actions without external SaaS dashboard bloat ([**Enterprise Zero-Retention Security Brief →**](https://www.ribbsaetersystems.com/zeroslop/security)).
 
@@ -80,12 +90,11 @@ Architecture, APIs, SaaS products, internal platforms, deployment, observability
   * **Senior Staff & Tech Leads**: Reclaims 60+ hours per sprint by eliminating AI boilerplate review churn and stopping human linter fatigue.
   * **Enterprise Infrastructure & VPs of Engineering**: Mathematically guarantees deterministic invariant integrity, zero unauthorized test deletions, and a 50%–70% reduction in wasted CI runner compute spend.
 
-
 <br/>
 
 <div align="center">
 
-### 🚀 Official Product Launch · ZeroSlop™ (Now 2-Week Free Trial)
+#### 🚀 Official Product Launch · ZeroSlop™ (Now 2-Week Free Trial)
 **Autonomous CI Pull Request Invariant Gatekeeper — Live on GitHub Marketplace for the Developer Community**
 
 <br/>
@@ -123,11 +132,17 @@ Architecture, APIs, SaaS products, internal platforms, deployment, observability
 
 `PRODUCT SYSTEMS` `12-SHIELD CWE AIRLOCK` `ZERO-CLICK BLAST RADIUS` `APIs` `SAAS` `CLOUD`
 
-### Business building
+<br/>
 
-Founder-led product strategy, business development, sales, positioning, branding, marketing, digital commerce, and go-to-market execution.
+### 💼 5. Commercial Execution & Venture Building
+*Translating technical depth into market defensibility, high-conversion digital assets, and scalable commercial ventures.*
 
-`FOUNDER` `PRODUCT` `GTM` `SALES` `BUSINESS`
+| Discipline | Strategic Focus & Execution | Core Capabilities |
+| :--- | :--- | :--- |
+| **Founder-Led Product Strategy** | 0-to-1 product roadmapping, technical defensibility, and developer-first product architecture | `PRODUCT` `0-TO-1` `ROADMAP` |
+| **Go-To-Market (GTM) & Distribution** | GitHub Marketplace launches, developer adoption funnels, and self-serve viral distribution | `GTM` `MARKETPLACE` `DEVREL` |
+| **Enterprise Sales & Client Advisory** | High-stakes B2B client advisory, commercial contracts, and institutional confidentiality | `B2B SALES` `CLIENT ADVISORY` `DEALS` |
+| **Brand Architecture & Digital Commerce** | Multi-channel media houses, high-converting digital platforms, and luxury brand positioning | `BRANDING` `E-COMMERCE` `MEDIA` |
 
 ---
 
@@ -238,7 +253,13 @@ Open to **selective projects, founder collaborations, and technically ambitious 
 
 <br/><br/>
 
-[![Profile Visitors](https://api.visitorbadge.io/api/visitors?path=patrickswedish.profile&label=PROFILE+VISITORS&labelColor=%230b1b31&countColor=%2300b8d9&style=flat-square)](https://github.com/patrickswedish)
+<a href="https://github.com/patrickswedish">
+  <img src="./assets/telemetry-live.svg" height="28" alt="Live Telemetry Status" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/patrickswedish">
+  <img src="https://komarev.com/ghpvc/?username=patrickswedish&style=for-the-badge&color=00b8d9&labelColor=08131f" height="28" alt="Verified Profile Impressions" />
+</a>
 
 <br/><br/>
 
@@ -247,3 +268,4 @@ Open to **selective projects, founder collaborations, and technically ambitious 
 [Personal Website](https://www.patrickribbsaeter.com/) · [Ribbsaeter Systems](https://www.ribbsaetersystems.com/) · [LinkedIn](https://www.linkedin.com/in/patrickribbsaeter)
 
 </div>
+
