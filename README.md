@@ -84,6 +84,12 @@ Architecture, APIs, SaaS products, internal platforms, deployment, observability
 <br/>
 
 <div align="center">
+
+### 🚀 Official Product Launch · ZeroSlop™
+**Autonomous CI Pull Request Invariant Gatekeeper — Now Live on GitHub Marketplace for the Developer Community**
+
+<br/>
+
   <a href="https://www.ribbsaetersystems.com/zeroslop">
     <img src="https://www.ribbsaetersystems.com/api/v1/badge?repo=patrickswedish/zeroslop-action" alt="ZeroSlop Airlock: SOVEREIGN · 12/12 CWE" />
   </a>
