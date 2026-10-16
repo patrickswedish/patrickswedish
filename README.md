@@ -42,11 +42,11 @@ The commercial foundation spans technology, computer retail, fashion, e-commerce
 
 **Industry is not the constraint.** The same systems and AI capabilities apply across technology, financial services and banking, healthcare, real estate, retail, commerce, media, and other complex operating environments.
 
-### Hardware engineering & diagnostics lab
+### Hardware engineering & diagnostics background (Prior Venture)
 
-Component-level board diagnostics, trinocular stereomicroscope SMD micro-soldering, shorted power rail tracing (FLIR thermal imaging), multi-GPU liquid-cooled compute rigs, and physical computer retail & repair operations servicing thousands of consumer and enterprise client machines.
+Founded and operated a physical computer retail and component-level hardware diagnostics shop — performing trinocular stereomicroscope SMD micro-soldering, shorted power rail tracing (FLIR thermal imaging), multi-GPU liquid-cooled compute rig builds, and board-level repair across thousands of consumer and enterprise client machines.
 
-`HARDWARE LAB` `MICRO-SOLDERING` `SMD REWORK` `CUSTOM RIGS` `COMPUTER SHOP FOUNDER`
+`HARDWARE LAB` `MICRO-SOLDERING` `SMD REWORK` `CUSTOM RIGS` `FORMER COMPUTER SHOP FOUNDER`
 
 ---
 
