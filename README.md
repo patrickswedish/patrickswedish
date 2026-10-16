@@ -44,9 +44,9 @@ The commercial foundation spans technology, computer retail, fashion, e-commerce
 
 ### Hardware engineering & diagnostics background (Prior Venture)
 
-Founded and operated a physical computer retail and component-level hardware diagnostics shop — performing trinocular stereomicroscope SMD micro-soldering, shorted power rail tracing (FLIR thermal imaging), multi-GPU liquid-cooled compute rig builds, and board-level repair across thousands of consumer and enterprise client machines.
+Founded and operated a physical computer retail and component-level hardware diagnostics shop — performing trinocular stereomicroscope SMD & BGA micro-soldering, shorted power rail tracing (FLIR thermal imaging), multi-GPU liquid-cooled compute rig builds, and board-level repair across thousands of consumer and enterprise client machines.
 
-`HARDWARE LAB` `MICRO-SOLDERING` `SMD REWORK` `CUSTOM RIGS` `FORMER COMPUTER SHOP FOUNDER`
+`HARDWARE LAB` `MICRO-SOLDERING` `SMD & BGA REWORK` `CUSTOM RIGS` `FORMER COMPUTER SHOP FOUNDER`
 
 ---
 
