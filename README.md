@@ -126,6 +126,10 @@ Architecture, APIs, SaaS products, internal platforms, deployment, observability
   <a href="https://ribbsaetersystems.com/blog/zeroslop-pr-gatekeeper-official-release">
     <img src="./assets/action-press-release.svg" width="188" height="40" alt="Official ZeroSlop Launch Press Release" />
   </a>
+
+  <br/><br/>
+
+  <sub>🎁 <b>Two Free Trial Alternatives:</b> <a href="https://github.com/apps/zeroslop-engine">14-Day Free Trial via 1-Click GitHub App</a> <i>(Zero YAML Setup · Org-Wide)</i> &nbsp;·&nbsp; <a href="https://github.com/marketplace/actions/zeroslop-by-ribbsaeter-systems">1-PR Instant Evaluation Try via GitHub Action</a> <i>(Zero Credit Card)</i></sub>
 </div>
 
 <br/>
