@@ -85,8 +85,8 @@ Architecture, APIs, SaaS products, internal platforms, deployment, observability
 
 <div align="center">
 
-### 🚀 Official Product Launch · ZeroSlop™
-**Autonomous CI Pull Request Invariant Gatekeeper — Now Live on GitHub Marketplace for the Developer Community**
+### 🚀 Official Product Launch · ZeroSlop™ (Now 2-Week Free Trial)
+**Autonomous CI Pull Request Invariant Gatekeeper — Live on GitHub Marketplace for the Developer Community**
 
 <br/>
 
