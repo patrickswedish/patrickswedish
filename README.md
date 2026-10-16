@@ -42,6 +42,12 @@ The commercial foundation spans technology, computer retail, fashion, e-commerce
 
 **Industry is not the constraint.** The same systems and AI capabilities apply across technology, financial services and banking, healthcare, real estate, retail, commerce, media, and other complex operating environments.
 
+### Hardware engineering & diagnostics lab
+
+Component-level board diagnostics, trinocular stereomicroscope SMD micro-soldering, shorted power rail tracing (FLIR thermal imaging), multi-GPU liquid-cooled compute rigs, and physical computer retail & repair operations servicing thousands of consumer and enterprise client machines.
+
+`HARDWARE LAB` `MICRO-SOLDERING` `SMD REWORK` `CUSTOM RIGS` `COMPUTER SHOP FOUNDER`
+
 ---
 
 ## What gets built
@@ -51,12 +57,6 @@ The commercial foundation spans technology, computer retail, fashion, e-commerce
 Distributed systems, backend architecture, concurrency, memory ownership, low-latency runtimes, compiler/runtime behavior, performance, reliability, and production debugging.
 
 `DISTRIBUTED SYSTEMS` `RUNTIMES` `COMPILERS` `CONCURRENCY` `PERFORMANCE`
-
-### Hardware engineering & diagnostics lab
-
-Component-level board diagnostics, trinocular stereomicroscope SMD micro-soldering, shorted power rail tracing (FLIR thermal imaging), multi-GPU liquid-cooled compute rigs, and physical computer retail & repair operations servicing thousands of consumer and enterprise client machines.
-
-`HARDWARE LAB` `MICRO-SOLDERING` `SMD REWORK` `CUSTOM RIGS` `COMPUTER SHOP FOUNDER`
 
 ### Consumer mobile apps & web platforms
 
