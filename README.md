@@ -42,11 +42,17 @@ The commercial foundation spans technology, computer retail, fashion, e-commerce
 
 **Industry is not the constraint.** The same systems and AI capabilities apply across technology, financial services and banking, healthcare, real estate, retail, commerce, media, and other complex operating environments.
 
-### Hardware engineering & diagnostics background (Prior Venture)
+### Hardware engineering & diagnostics background (Prior Venture · 2016–2022)
 
-Founded and operated a physical computer retail and component-level hardware diagnostics shop — performing trinocular stereomicroscope SMD & BGA micro-soldering, shorted power rail tracing (FLIR thermal imaging), multi-GPU liquid-cooled compute rig builds, and board-level repair across thousands of consumer and enterprise client machines.
+Founded and operated physical commercial computer retail and component-level hardware diagnostics laboratories across **3 locations in Sweden** (*Laga Dator Umeå*), leading technical staff and servicing thousands of consumer and enterprise machines ([**Full Hardware Lab Archive →**](https://www.patrickribbsaeter.com/hardware) · [**YouTube `@lagadatorumea4210`**](https://www.youtube.com/@lagadatorumea4210) · [**Instagram `@lagadatorumea`**](https://www.instagram.com/lagadatorumea/)):
 
-`HARDWARE LAB` `MICRO-SOLDERING` `SMD & BGA REWORK` `CUSTOM RIGS` `FORMER COMPUTER SHOP FOUNDER`
+* **Motherboard Schematics, Electronics, Voltages & Power-Line Functions**: Complete native mastery of multi-layer motherboard schematics, OpenBoardView CAD layouts, and component-level electronics — tracing input/output pinouts (`VIN`/`VOUT`/`EN`/`FB`/`PGOOD`), multi-phase buck regulation (`VCORE`, `PPBUS_G3H`, standby `3.3V_S5`/`5V_S5`, `1.2V`/`1.8V` rails), switching MOSFETs, current-sense amplifiers, high-frequency clock crystals (`32.768 kHz` RTC to `100 MHz` PCIe PLLs), and serial data buses (`I²C`/`SMBus`/`SPI`/`UART`).
+* **SMD, High-Density BGA & VRAM Rework**: Trinocular stereomicroscope SMD micro-soldering (`0201`/`0402`/QFN), high-density BGA and **GDDR VRAM memory array** desoldering/reballing over PACE ST 400 infrared bottom preheaters, 0.02mm enameled copper trace jumping, and ultrasonic PCB restoration across Apple MacBooks, GPUs, PCs, smartphones, consoles, and LCD/LED driver boards.
+* **EEPROM, SPI Flash, VBIOS & JTAG Programming**: Direct hardware socket flashing of SOIC-8 SPI EEPROM chips (Winbond EFI/BIOS firmware recovery), GPU VBIOS ROM programming, Lattice USB JTAG in-system logic programming (`TCK`/`TMS`/`TDI`/`TDO`), digital storage oscilloscope & 16-channel logic analyzer waveform probing, and FLIR thermal short-circuit isolation.
+* **Forensic Hardware Data Recovery**: Full-spectrum hardware write-blocked bitstream cloning, identical donor PCB swaps with SPI ROM chip transfers, bad-sector magnetic platter carving, and direct **TSOP48 / BGA152 raw NAND flash chip dumps** across mechanically degraded HDDs, bricked NVMe/SATA SSDs, and monolithic USB flash media.
+* **Custom Compute Rigs, Rackmount Servers & Micro-Soldering Academy**: Engineered multi-GPU dual-loop liquid-cooled workstations (`1600W+` Titanium power delivery, PCIe lane bifurcation) and 1U–4U rackmount servers; and founded a **Micro-Soldering Academy** training other repair business owners and commercial technicians in schematic diagnostics and microscope rework.
+
+`MOTHERBOARD SCHEMATICS` `VOLTAGES & POWER LINES` `SMD · BGA · VRAM REWORK` `EEPROM · SPI · JTAG` `FORENSIC DATA RECOVERY` `CUSTOM COMPUTE RIGS` `MICRO-SOLDERING ACADEMY` `3 LAB LOCATIONS (2016–2022)`
 
 ---
 
