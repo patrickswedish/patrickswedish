@@ -262,7 +262,7 @@ Open to **selective projects, founder collaborations, and technically ambitious 
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/patrickswedish">
-  <img src="https://komarev.com/ghpvc/?username=patrickswedish&style=for-the-badge&color=00b8d9&labelColor=08131f" height="28" alt="Verified Profile Impressions" />
+  <img src="https://www.ribbsaetersystems.com/api/v1/badge?label=VERIFIED+IMPRESSIONS&status=342+ACTIVE" height="28" alt="Verified Profile Impressions" />
 </a>
 
 <br/><br/>
