@@ -270,7 +270,7 @@ Open to **selective projects, founder collaborations, and technically ambitious 
 
 ### Less talking. More building.
 
-[Personal Website](https://www.patrickribbsaeter.com/) · [Ribbsaeter Systems](https://www.ribbsaetersystems.com/) · [LinkedIn](https://www.linkedin.com/in/patrickribbsaeter)
+[Personal Website](https://www.patrickribbsaeter.com/) · [Ribbsaeter Systems](https://www.ribbsaetersystems.com/) · [LinkedIn](https://www.linkedin.com/in/patrickribbsaeter) · [Hugging Face](https://huggingface.co/Patrickribbsaeter)
 
 </div>
 
