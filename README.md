@@ -84,7 +84,7 @@ Production AI agents, tool-using workflows, orchestration, MCP integrations, mod
 
 Architecture, APIs, SaaS products, internal platforms, deployment, observability, analytics, billing, and operational workflows — including **ZeroSlop™ by Ribbsaeter Systems**, the sovereign pre-flight pull request invariant airlock featuring a **12-Shield Deterministic CWE Security Engine** (`CWE-89`, `CWE-798`, `CWE-639` IDOR, `CWE-78`/`CWE-94`, `CWE-502`, `CWE-918`, `CWE-426` CI Pwn Requests, `CWE-829` AI Slopsquatting, `CWE-400`, and `CVE-2021-42574` Trojan Source / Adversarial Prompt-Injection Immunity), **Single In-Place PR Verdict Card**, and **Zero-Click Cross-Layer Blast Radius** directly inside GitHub Actions without external SaaS dashboard bloat ([**Enterprise Zero-Retention Security Brief →**](https://www.ribbsaetersystems.com/zeroslop/security)).
 
-* **Universal 3-Tier Ecosystem Coverage**: Battle-tested across the hardest systems on Earth—**Tier 1** hyperscale runtimes & compilers (AWS Firecracker, LLVM, PyTorch, ClickHouse, Apache DataFusion, Tokio, Bun), **Tier 2** production cloud platforms & frameworks (Vercel Next.js, Cloudflare Workers, Supabase, web3.py, ArcticDB, Anthropic MCP SDK), and **Tier 3** specialized developer toolkits (Meta TorchTune, Ledger Ragger, Coinbase SDK).
+* **Universal 3-Tier Ecosystem Coverage**: Battle-tested across the hardest systems on Earth—**Tier 1** hyperscale runtimes & compilers (AWS Firecracker, LLVM, PyTorch, ClickHouse, Apache Arrow, Apache DataFusion, Tokio, Bun), **Tier 2** production cloud platforms & frameworks (Vercel Next.js, Cloudflare Workers, Supabase, web3.py, ArcticDB, Anthropic MCP SDK), and **Tier 3** specialized developer toolkits (Meta TorchTune, Ledger Ragger, Coinbase SDK).
 * **High-Impact for Every Engineering Grade**:
   * **Junior & Mid-Level Engineers**: Operates as a senior staff guardian angel—catching contract breaks, hidden regressions, and formatting discrepancies before anyone reviews the pull request, guaranteeing 10/10 green-first confidence on push #1.
   * **Senior Staff & Tech Leads**: Reclaims 60+ hours per sprint by eliminating AI boilerplate review churn and stopping human linter fatigue.
@@ -189,6 +189,7 @@ Substantive contributions to established production codebases, working within ex
 
 | Project | Domain & Stack | Architectural Invariant & Engineering Focus | Upstream Work |
 | :--- | :--- | :--- | :---: |
+| **Apache Arrow (Rust)** | Columnar Format · Rust | Correctness fix for Fields::filter_leaves nested traversal on ListView and LargeListView | **Merged**<br/>[PR #11657](https://github.com/apache/arrow-rs/pull/11657) |
 | **DuckDB** | Database · C++ | PIVOT IN list zero-argument `row()` expression preservation and null dereference guard | **Merged**<br/>[PR #26443](https://github.com/duckdb/duckdb/pull/26443) |
 | **Meta Velox** | Query Engine · C++20 | TopNRowNumber in-memory rank ordering correctness and partition stream execution parity | **Merged**<br/>[PR #18529](https://github.com/facebookincubator/velox/pull/18529) |
 | **Apache DataFusion** | Query Engine · Rust | Execution-layer schema conformance across in-memory physical execution and aggregation | **Merged**<br/>[PR #24394](https://github.com/apache/datafusion/pull/24394) |
