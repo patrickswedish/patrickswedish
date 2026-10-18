@@ -126,10 +126,16 @@ Architecture, APIs, SaaS products, internal platforms, deployment, observability
   <a href="https://ribbsaetersystems.com/blog/zeroslop-pr-gatekeeper-official-release">
     <img src="./assets/action-press-release.svg" width="188" height="40" alt="Official ZeroSlop Launch Press Release" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://hf.co/spaces/Patrickribbsaeter/zeroslop-kv-cache-estimator">
+    <img src="https://img.shields.io/badge/Hugging%20Face-ZeroSlop™%20Interactive%20Space-F0D060?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=09090C" height="40" alt="ZeroSlop KV-Cache Estimator on Hugging Face" />
+  </a>
 
   <br/><br/>
 
   <sub>🎁 <b>Two Free Trial Alternatives:</b> <a href="https://github.com/apps/zeroslop-engine">14-Day Free Trial via 1-Click GitHub App</a> <i>(Zero YAML Setup · Org-Wide)</i> &nbsp;·&nbsp; <a href="https://github.com/marketplace/actions/zeroslop-by-ribbsaeter-systems">1-PR Instant Evaluation Try via GitHub Action</a> <i>(Zero Credit Card)</i></sub>
+  <br/>
+  <sub>⚡ <b>Interactive Benchmarking:</b> Test the <a href="https://hf.co/spaces/Patrickribbsaeter/zeroslop-kv-cache-estimator">ZeroSlop™ KV-Cache Memory Wall & AST Diff Estimator on Hugging Face</a> <i>(Zero Cold Start · Client-Side Inference Simulator)</i></sub>
 </div>
 
 <br/>
