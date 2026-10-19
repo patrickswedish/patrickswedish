@@ -77,15 +77,6 @@ Production AI agents, tool-using workflows, orchestration, MCP integrations, mod
 
 `AGENTS` `MCP` `ORCHESTRATION` `AUTOMATION` `TOOL USE`
 
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/marketplace/actions/zeroslop-by-ribbsaeter-systems">
-  <img src="./assets/zeroslop-banner.svg" width="100%" alt="ZeroSlop™ by Ribbsaeter Systems — Autonomous CI Pull Request Invariant Gatekeeper & Diff Minimization Engine on GitHub Marketplace" />
-</a>
-
-</div>
 
 <br/>
 
@@ -103,6 +94,12 @@ Architecture, APIs, SaaS products, internal platforms, deployment, observability
 <br/>
 
 <div align="center">
+
+<a href="https://github.com/marketplace/actions/zeroslop-by-ribbsaeter-systems">
+  <img src="./assets/zeroslop-banner.svg" width="100%" alt="ZeroSlop™ by Ribbsaeter Systems — Autonomous CI Pull Request Invariant Gatekeeper &amp; Diff Minimization Engine on GitHub Marketplace" />
+</a>
+
+<br/><br/>
 
 <a href="https://github.com/marketplace/actions/zeroslop-by-ribbsaeter-systems">
   <img src="./assets/action-marketplace.svg" width="188" height="40" alt="Install ZeroSlop on GitHub Marketplace" />
