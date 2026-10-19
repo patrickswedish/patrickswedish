@@ -79,6 +79,16 @@ Production AI agents, tool-using workflows, orchestration, MCP integrations, mod
 
 <br/>
 
+<div align="center">
+
+<a href="https://github.com/marketplace/actions/zeroslop-by-ribbsaeter-systems">
+  <img src="./assets/zeroslop-banner.svg" width="100%" alt="ZeroSlop™ by Ribbsaeter Systems — Autonomous CI Pull Request Invariant Gatekeeper & Diff Minimization Engine on GitHub Marketplace" />
+</a>
+
+</div>
+
+<br/>
+
 ### 🛡️ 4. Product Systems & Flagship Software (ZeroSlop™)
 *Autonomous CI pull request invariant gatekeeper, deterministic 12-Shield CWE security airlock, and zero-click blast radius.*
 
@@ -93,12 +103,6 @@ Architecture, APIs, SaaS products, internal platforms, deployment, observability
 <br/>
 
 <div align="center">
-
-<a href="https://github.com/marketplace/actions/zeroslop-by-ribbsaeter-systems">
-  <img src="./assets/zeroslop-banner.svg" width="100%" alt="ZeroSlop™ by Ribbsaeter Systems — Autonomous CI Pull Request Invariant Gatekeeper & Diff Minimization Engine on GitHub Marketplace" />
-</a>
-
-<br/><br/>
 
 <a href="https://github.com/marketplace/actions/zeroslop-by-ribbsaeter-systems">
   <img src="./assets/action-marketplace.svg" width="188" height="40" alt="Install ZeroSlop on GitHub Marketplace" />
