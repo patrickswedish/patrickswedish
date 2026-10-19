@@ -3,23 +3,23 @@
   <desc id="desc-mkt">Button linking to the official ZeroSlop action on GitHub Marketplace.</desc>
   <defs>
     <linearGradient id="bg-mkt" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#1A080B"/>
-      <stop offset="1" stop-color="#0E0406"/>
+      <stop stop-color="#0A1A2E"/>
+      <stop offset="1" stop-color="#06101E"/>
     </linearGradient>
     <linearGradient id="acc-mkt" x1="0" y1="0" x2="1" y2="0">
-      <stop stop-color="#E33126"/>
-      <stop offset="1" stop-color="#FF5544"/>
+      <stop stop-color="#00B8D9"/>
+      <stop offset="1" stop-color="#5FE7FF"/>
     </linearGradient>
   </defs>
-  <rect x=".5" y=".5" width="187" height="39" rx="10" fill="url(#bg-mkt)" stroke="#FF5544" stroke-opacity=".42"/>
+  <rect x=".5" y=".5" width="187" height="39" rx="10" fill="url(#bg-mkt)" stroke="#5FE7FF" stroke-opacity=".42"/>
   <rect width="4" height="40" rx="2" fill="url(#acc-mkt)"/>
   <!-- GitHub Marketplace Bag / Tag Icon -->
-  <g transform="translate(13 10)" fill="none" stroke="#FF6E63" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round">
+  <g transform="translate(13 10)" fill="none" stroke="#5FE7FF" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round">
     <path d="M4 2v4a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V2"/>
     <rect x="2" y="2" width="16" height="16" rx="2"/>
     <path d="m7 12 3 3 5-5"/>
   </g>
-  <text x="40" y="16" fill="#FFA399" font-family="'Inter',Arial,sans-serif" font-size="7" font-weight="700" letter-spacing="1.1">GITHUB MARKETPLACE</text>
-  <text x="40" y="28" fill="#FFF5F5" font-family="'Inter',Arial,sans-serif" font-size="9.5" font-weight="800" letter-spacing=".5">INSTALL ZEROSLOP™</text>
-  <text x="172" y="25" text-anchor="middle" fill="#FF5544" font-family="'Inter',Arial,sans-serif" font-size="15" font-weight="700">↗</text>
+  <text x="40" y="16" fill="#75DDF0" font-family="'Inter',Arial,sans-serif" font-size="7" font-weight="700" letter-spacing="1.1">GITHUB MARKETPLACE</text>
+  <text x="40" y="28" fill="#F4F9FF" font-family="'Inter',Arial,sans-serif" font-size="9.5" font-weight="800" letter-spacing=".5">INSTALL ZEROSLOP™</text>
+  <text x="172" y="25" text-anchor="middle" fill="#5FE7FF" font-family="'Inter',Arial,sans-serif" font-size="15" font-weight="700">↗</text>
 </svg>
