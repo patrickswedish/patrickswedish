@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-### Principal Systems Architect & Technical Founder · Production Applications · Distributed Systems · Heavy-Context AI
+### Principal Systems Architect, Software Developer & Technical Founder · Production Applications · Distributed Systems · Heavy-Context AI
 
 **Systems. Intelligence. Product. Business.**
 
@@ -32,7 +32,7 @@ Building and deploying across distributed systems, AI infrastructure, compilers 
 
 ## Operating profile
 
-A cross-disciplinary founder, principal consultant, and systems engineer operating at the intersection of **systems engineering, AI, product, and business**.
+A hands-on software developer, principal systems architect, and technical founder operating at the intersection of **systems engineering, AI, product, and business**.
 
 Strong in unfamiliar systems: tracing execution behavior to the actual failure mode, identifying the architectural invariant, directing heavy-context AI orchestration and automation, validating edge cases, and shipping the smallest durable correction with deterministic regression coverage.
 
