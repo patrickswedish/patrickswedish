@@ -89,7 +89,7 @@ Production AI agents, tool-using workflows, orchestration, MCP integrations, mod
 
 Architecture, APIs, SaaS products, internal platforms, deployment, observability, analytics, billing, and operational workflows — including **ZeroSlop™ by Ribbsaeter Systems**, the sovereign pre-flight pull request invariant airlock featuring a **12-Shield Deterministic CWE Security Engine** (`CWE-89`, `CWE-798`, `CWE-639` IDOR, `CWE-78`/`CWE-94`, `CWE-502`, `CWE-918`, `CWE-426` CI Pwn Requests, `CWE-829` AI Slopsquatting, `CWE-400`, and `CVE-2021-42574` Trojan Source / Adversarial Prompt-Injection Immunity), **Single In-Place PR Verdict Card**, and **Zero-Click Cross-Layer Blast Radius** directly inside GitHub Actions without external SaaS dashboard bloat ([**Enterprise Zero-Retention Security Brief →**](https://www.ribbsaetersystems.com/zeroslop/security)).
 
-* **Universal 3-Tier Ecosystem Coverage**: Battle-tested across the hardest systems on Earth—**Tier 1** hyperscale runtimes & compilers (AWS Firecracker, LLVM, PyTorch, ClickHouse, Apache Arrow, Apache DataFusion, Tokio, Bun), **Tier 2** production cloud platforms & frameworks (Vercel Next.js, Cloudflare Workers, Supabase, web3.py, ArcticDB, Anthropic MCP SDK), and **Tier 3** specialized developer toolkits (Meta TorchTune, Ledger Ragger, Coinbase SDK).
+* **Universal 3-Tier Ecosystem Coverage**: Engineered to satisfy the uncompromising invariant rigor of the world's most demanding production codebases—**Tier 1** hyperscale runtimes & compilers (AWS Firecracker, LLVM, PyTorch, ClickHouse, DuckDB, Tokio, Bun), **Tier 2** production cloud platforms & frameworks (Vercel Next.js, Cloudflare Workers, Supabase, web3.py, ArcticDB, Anthropic MCP SDK), and **Tier 3** specialized developer toolkits (Meta TorchTune, Ledger Ragger, Coinbase SDK).
 * **High-Impact for Every Engineering Grade**:
   * **Junior & Mid-Level Engineers**: Operates as a senior staff guardian angel—catching contract breaks, hidden regressions, and formatting discrepancies before anyone reviews the pull request, guaranteeing 10/10 green-first confidence on push #1.
   * **Senior Staff & Tech Leads**: Reclaims 60+ hours per sprint by eliminating AI boilerplate review churn and stopping human linter fatigue.
@@ -184,15 +184,11 @@ Substantive contributions to established production codebases, working within ex
 
 | Project | Domain & Stack | Architectural Invariant & Engineering Focus | Upstream Work |
 | :--- | :--- | :--- | :---: |
-| **Apache Arrow (Rust)** | Columnar Format · Rust | Correctness fix for Fields::filter_leaves nested traversal on ListView and LargeListView | **Merged**<br/>[PR #11657](https://github.com/apache/arrow-rs/pull/11657) |
 | **DuckDB** | Database · C++ | PIVOT IN list zero-argument `row()` expression preservation and null dereference guard | **Merged**<br/>[PR #26443](https://github.com/duckdb/duckdb/pull/26443) |
 | **Meta Velox** | Query Engine · C++20 | TopNRowNumber in-memory rank ordering correctness and partition stream execution parity | **Merged**<br/>[PR #18529](https://github.com/facebookincubator/velox/pull/18529) |
-| **Apache DataFusion** | Query Engine · Rust | Execution-layer schema conformance across in-memory physical execution and aggregation | **Merged**<br/>[PR #24394](https://github.com/apache/datafusion/pull/24394) |
 | **Valkey** | Datastore · C99 | Cluster key-slot resolution and client-side cache validation for arbitrary key commands | **Merged**<br/>[PR #4424](https://github.com/valkey-io/valkey/pull/4424) |
 | **ClickHouse** | OLAP Engine · C++20 | Bounds validation on parallel replicas legacy query plan limit enforcement pipeline | **174/176 Green**<br/>[PR #114954](https://github.com/ClickHouse/ClickHouse/pull/114954) |
-| **Apache DataFusion** | Query Engine · Rust | PushDownFilter clippy mutable key type allow annotations for logical Expr hash sets | **43/43 Green**<br/>[PR #26189](https://github.com/apache/datafusion/pull/26189) |
-| **Apache DataFusion** | Query Engine · Rust | Safe downcast to FixedSizeBinaryArray in CASE literal vectorized lookup evaluation table | **Merged**<br/>[PR #26096](https://github.com/apache/datafusion/pull/26096) |
-| **Apache DataFusion** | Query Engine · Rust | Sort-merge semi, anti, and mark join key equality routing via JoinKeyComparator | **42/42 Green**<br/>[PR #26006](https://github.com/apache/datafusion/pull/26006) |
+| **ArcticDB** | Versioned Store · C++ | Pipelined asynchronous chunk reads during multi-version background compaction | **Checks Green**<br/>[PR #3324](https://github.com/man-group/ArcticDB/pull/3324) |
 | **Redpanda** | Streaming · C++20 | RPC transport memory semaphore unit retention across queued outbound request entries | **9/9 Green**<br/>[PR #31594](https://github.com/redpanda-data/redpanda/pull/31594) |
 | **Supabase Supavisor** | Pooler · Elixir | PostgreSQL query cancellation key synchronization across pooled backend connection reuse | **Checks Green**<br/>[PR #1149](https://github.com/supabase/supavisor/pull/1149) |
 
