@@ -8,7 +8,7 @@
 
 **Systems. Intelligence. Product. Business.**
 
-20+ years building and deploying across distributed systems, AI infrastructure, compilers and runtimes, concurrency, low-latency software, agentic systems, and production engineering.
+Building and deploying across distributed systems, AI infrastructure, compilers and runtimes, concurrency, low-latency software, agentic systems, and production engineering.
 
 **AI-accelerated execution. Human-directed judgment.**
 
