@@ -32,7 +32,7 @@ Building and deploying across distributed systems, AI infrastructure, compilers 
 
 ## Operating profile
 
-A hands-on software developer, principal systems architect, and technical founder with **20+ years of engineering, hardware, and commercial foundation** operating at the intersection of **systems engineering, AI, product, and business**.
+A self-taught software developer, systems architect, and technical founder with a **20+ year hands-on engineering, hardware, and commercial foundation** operating at the intersection of **systems engineering, AI, product, and business**.
 
 Strong in unfamiliar systems: tracing execution behavior to the actual failure mode, identifying the architectural invariant, directing heavy-context AI orchestration and automation, validating edge cases, and shipping the smallest durable correction with deterministic regression coverage.
 
@@ -56,7 +56,7 @@ Prior to focusing full-time on software and systems architecture, founded, built
 
 ### 🛡️ Systems assurance, security architecture & threat modeling
 
-Senior architectural background combining low-latency distributed infrastructure with formalized threat intelligence, offensive security toolchains, and cloud-native observability:
+Self-taught systems architect and independent operator with a background spanning distributed infrastructure, formalized threat intelligence, offensive security toolchains, and cloud-native observability:
 
 * **Offensive Security & Red-Team Operations**:
   * Advanced Cyber Threat Intelligence (CTI) & Adversarial Tactics (MITRE ATT&CK / Lockheed Martin Cyber Kill Chain).
