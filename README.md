@@ -123,7 +123,7 @@ Architecture, APIs, SaaS products, internal platforms, deployment, observability
 
 <br/><br/>
 
-<sub><b>Autonomous CI Evaluation:</b> <a href="https://github.com/apps/zeroslop-engine">14-Day Free Trial via 1-Click GitHub App</a> <i>(Zero YAML Setup · Org-Wide)</i> &nbsp;·&nbsp; <a href="https://github.com/marketplace/actions/zeroslop-by-ribbsaeter-systems">1-PR Instant Evaluation via GitHub Action</a> <i>(Zero Credit Card)</i> &nbsp;·&nbsp; <a href="https://hf.co/spaces/Patrickribbsaeter/zeroslop-kv-cache-estimator">Interactive KV-Cache Estimator on Hugging Face</a></sub>
+<sub><b>Universal Open Source Standard:</b> <a href="https://github.com/marketplace/actions/zeroslop-by-ribbsaeter-systems"><b>100% Free Forever for Public Repositories via GitHub Action</b></a> <i>(Unlimited PRs · Zero Key Required)</i> &nbsp;·&nbsp; <a href="https://github.com/apps/zeroslop-engine">14-Day Free Evaluation for Organizations</a> <i>(Private Repos)</i> &nbsp;·&nbsp; <a href="https://hf.co/spaces/Patrickribbsaeter/zeroslop-kv-cache-estimator">KV-Cache Estimator on Hugging Face</a></sub>
 
 </div>
 
