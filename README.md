@@ -48,9 +48,11 @@ Prior to focusing full-time on software and systems architecture, founded, built
 
 **Hardware & Component-Level Engineering:** Complete fluency in multi-layer motherboard schematics and OpenBoardView CAD, voltage rails and power-line sequencing (`VIN`/`VOUT`/`EN`/`PGOOD`, `VCORE`, switching MOSFETs, clock crystals, `I²C`/`SPI`/`UART` buses). Deep hands-on mastery in repairing high-performance graphics cards with burned-out components—including **NVIDIA GeForce RTX** series (RTX 3080/3090/4090)—diagnosing dead 12V rail shorts, thermal-imaging voltage injection, desoldering and replacing blown DrMOS power delivery stages and MOSFETs without delaminating multi-layer PCBs, trinocular stereomicroscope SMD, BGA & GDDR VRAM rework, hardware EEPROM/SPI BIOS & JTAG programming, forensic NAND/platter data recovery, custom liquid-cooled multi-GPU workstation builds, and founding a micro-soldering academy for repair shop technicians.
 
+`NVIDIA GEFORCE RTX REPAIR` `DRMOS & VRM REPAIR` `MOTHERBOARD SCHEMATICS` `VOLTAGES & POWER LINES` `SMD · BGA · VRAM REWORK` `EEPROM · SPI · JTAG` `FORENSIC DATA RECOVERY` `CUSTOM RIGS`
+
 **Multi-Industry E-Commerce & Commercial Execution:** Architected, launched, and scaled multiple successful direct-to-consumer (DTC) and commercial e-commerce storefronts across varied verticals—managing international supply chains, supplier sourcing, custom product development, automated order processing and warehouse fulfillment, payment gateway infrastructure, conversion rate optimization (CRO), multi-channel customer acquisition, and high-converting marketing funnels.
 
-`NVIDIA GEFORCE RTX REPAIR` `DRMOS & VRM REPAIR` `MOTHERBOARD SCHEMATICS` `VOLTAGES & POWER LINES` `SMD · BGA · VRAM REWORK` `MULTI-INDUSTRY E-COMMERCE` `SUPPLY CHAIN & FULFILLMENT` `EEPROM · SPI · JTAG` `FORENSIC DATA RECOVERY` `CUSTOM RIGS`
+`MULTI-INDUSTRY E-COMMERCE` `SUPPLY CHAIN & FULFILLMENT` `GLOBAL LOGISTICS` `PAYMENT INFRASTRUCTURE`
 
 ---
 
