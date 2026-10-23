@@ -54,6 +54,29 @@ Prior to focusing full-time on software and systems architecture, founded, built
 
 `MULTI-INDUSTRY E-COMMERCE` `SUPPLY CHAIN & FULFILLMENT` `GLOBAL LOGISTICS` `PAYMENT INFRASTRUCTURE`
 
+### 🛡️ Systems assurance, security architecture & threat modeling
+
+Senior architectural background combining two decades of low-latency distributed infrastructure with formalized threat intelligence, offensive security toolchains, and cloud-native observability:
+
+* **Offensive Security & Red-Team Operations**:
+  * Advanced Cyber Threat Intelligence (CTI) & Adversarial Tactics (MITRE ATT&CK / Lockheed Martin Cyber Kill Chain).
+  * Network packet dissection, OSI Layer 2–7 state inspection, and protocol fuzzing (`Wireshark`, `tcpdump`, raw socket analysis).
+  * Vulnerability assessment, penetration testing methodology, and offensive Linux security toolchains (`Kali Linux`, `OpenVAS`, cryptanalysis).
+* **Defensive Hardening & Insider Threat Counter-Intelligence**:
+  * Architectural design of Modern Insider Threat & Provenance Tampering Detection Programs (detecting unauthorized AST mutations, commit laundering, and rogue committer bypasses).
+  * Network security engineering (Fortinet NSE Network Security Associate).
+  * Cryptographic auditing: AST structural fingerprinting, variable-rename invariant analysis, and SHA-256 / HMAC provenance receipts.
+* **Autonomous Multi-Agent & Protocol Engineering (MCP)**:
+  * Model Context Protocol (MCP) Certified Architecture (Official Anthropic Advanced Implementation & client/server wire protocols).
+  * Multi-agent delegation networks, autonomous subagents, and declarative skill harnesses.
+  * Invariant-driven CI/CD execution airlocks (ZeroSlop™ deterministic compiler guards).
+* **Cloud-Native Observability & High-Assurance Infrastructure**:
+  * Prometheus Systems Observability & Telemetry Pipeline Engineering (PCA).
+  * Container isolation, microVM execution boundaries (Firecracker), and high-throughput POSIX automation.
+  * Low-latency distributed communications (XMPP core protocol architecture, decentralized messaging).
+
+`CYBER THREAT INTELLIGENCE (CTI)` `CYBER KILL CHAIN` `INSIDER THREAT PROGRAMS` `FORTINET NSE` `PENETRATION TESTING & KALI LINUX` `PACKET DISSECTION & OSI L2-L7` `ANTHROPIC MCP CERTIFIED` `PROMETHEUS OBSERVABILITY (PCA)` `CRYPTOGRAPHIC PROVENANCE & AST AUDITING`
+
 ---
 
 ## What gets built
