@@ -56,7 +56,7 @@ Prior to focusing full-time on software and systems architecture, founded, built
 
 ### 🛡️ Systems assurance, security architecture & threat modeling
 
-Senior architectural background combining two decades of low-latency distributed infrastructure with formalized threat intelligence, offensive security toolchains, and cloud-native observability:
+Senior architectural background combining low-latency distributed infrastructure with formalized threat intelligence, offensive security toolchains, and cloud-native observability:
 
 * **Offensive Security & Red-Team Operations**:
   * Advanced Cyber Threat Intelligence (CTI) & Adversarial Tactics (MITRE ATT&CK / Lockheed Martin Cyber Kill Chain).
