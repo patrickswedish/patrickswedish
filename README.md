@@ -56,7 +56,7 @@ Prior to focusing full-time on software and systems architecture, founded, built
 
 ### 🛡️ Systems assurance, security architecture & threat modeling
 
-Self-taught systems architect and independent operator with a background spanning distributed infrastructure, formalized threat intelligence, offensive security toolchains, and cloud-native observability:
+Systems assurance and defensive architecture spanning distributed infrastructure, formalized threat intelligence, offensive security toolchains, and cloud-native observability:
 
 * **Offensive Security & Red-Team Operations**:
   * Advanced Cyber Threat Intelligence (CTI) & Adversarial Tactics (MITRE ATT&CK / Lockheed Martin Cyber Kill Chain).
